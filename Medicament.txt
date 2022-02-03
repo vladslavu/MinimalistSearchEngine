@@ -1,0 +1,5088 @@
+HIDRALAZINA
+Medicatii in HTA
+Vasodilatatoare directe
+--
+HTA, HTA severa, ICC(care nu tolereaza IECA), preeclampsie
+--
+tahicardie, sindrom lupus like, hTA, flushing, declanseaza angina pectorala, angina pectorala
+CI, Varstnici
+25-100 mg 2x/zi, max 200 mg/zi
+--
+--
+--
+DIHIDRALAZINA
+Medicatii in HTA
+Vasodilatatoare directe
+--
+HTA, HTA severa, ICC(care nu tolereaza IECA), preeclampsie
+--
+tahicardie, sindrom lupus like, hTA, flushing, declanseaza angina pectorala, angina pectorala
+CI, Varstnici
+25-100 mg 2x/zi, max 200 mg/zi
+--
+--
+--
+SUCRALFATUL
+Protectoare ale mucoasei gastrice|PMG
+--
+--
+Ulcer gastro-duodenal
+Gel protector care se leaga de craterul ulceros. Protejeaza mucoasa, favorizeaza vindecarea ulcerului. Scade recurentele si recaderile in UD
+constipatie, uscaciunea gurii, cefalee, greturi, varsaturi
+--
+Se administreaza 0,2 mg de 4 x / zi cat timp dureaza tratamentul cu AINS
+--
+--
+Nu se asociaza cu blocantii H2 si cu antiacide. Scade absorbtia unor medicamente administrate simultan
+OMEPRAZOL
+Antisecretori
+Inhibitorii pompei de protoni|IPP
+--
+Ulcer gastro-duodenal, BRGE, infectia cu HP, sindromul Zollinger-Ellison
+Efect maxim -> dupa 3-5 zile de la adm. , se mentine 3 zile dupa oprire
+Bine tolerate, constipatie, diaree, ginecomastie, impotenta, greturi, eruptii cutanate, somnolenta
+--
+Se administreaza 20 mg/zi -> la copii dozele sunt pe kg/corp
+Se administreaza inaintea micului dejun, la copii -> BRGE, esofagita eroziva, ulcer peptic
+Inhiba secretia gastrica acida prin legare de pompa de protoni - inhibitia  puternica si de durata a secretiei gastrice acide
+--
+ESOMEPRAZOL
+Antisecretori
+Inhibitorii pompei de protoni|IPP
+--
+Ulcer gastro-duodenal, BRGE, infectia cu HP, sindromul Zollinger-Ellison
+Efect maxim -> dupa 3-5 zile de la adm. , se mentine 3 zile dupa oprire
+Bine tolerate, constipatie, diaree, ginecomastie, impotenta, greturi, eruptii cutanate, somnolenta
+--
+Se administreaza 20 mg/zi
+Se administreaza inaintea micului dejun, in insuficienta hepatica se reduc dozele
+Inhiba secretia gastrica acida prin legare de pompa de protoni - inhibitia  puternica si de durata a secretiei gastrice acide
+--
+PANTOPRAZOL
+Antisecretori
+Inhibitorii pompei de protoni|IPP
+--
+Ulcer gastro-duodenal, BRGE, infectia cu HP, sindromul Zollinger-Ellison
+Efect maxim -> dupa 3-5 zile de la adm. , se mentine 3 zile dupa oprire
+Bine tolerate, constipatie, diaree, ginecomastie, impotenta, greturi, eruptii cutanate, somnolenta
+--
+Se administreaza 40 mg/zi - doza unica
+Se administreaza inaintea micului dejun, i.v. in bolus
+Inhiba secretia gastrica acida prin legare de pompa de protoni - inhibitia  puternica si de durata a secretiei gastrice acide
+--
+LANSOPRAZOL
+Antisecretori
+Inhibitorii pompei de protoni|IPP
+--
+Ulcer gastro-duodenal, BRGE, infectia cu HP, sindromul Zollinger-Ellison
+Efect maxim -> dupa 3-5 zile de la adm. , se mentine 3 zile dupa oprire
+Bine tolerate, constipatie, diaree, ginecomastie, impotenta, greturi, eruptii cutanate, somnolenta
+--
+Se administreaza 30 mg/zi
+Se administreaza inaintea micului dejun, in insuficienta hepatica se recomanda scaderea dozelor
+Inhiba secretia gastrica acida prin legare de pompa de protoni - inhibitia  puternica si de durata a secretiei gastrice acide
+--
+RABEPRAZOL
+Antisecretori
+Inhibitorii pompei de protoni|IPP
+--
+Ulcer gastro-duodenal, BRGE, infectia cu HP, sindromul Zollinger-Ellison
+Efect maxim -> dupa 3-5 zile de la adm. , se mentine 3 zile dupa oprire
+Bine tolerate, constipatie, diaree, ginecomastie, impotenta, greturi, eruptii cutanate, somnolenta
+--
+Se administreaza 20-40 mg/zi
+Se administreaza inaintea micului dejun
+Inhiba secretia gastrica acida prin legare de pompa de protoni - inhibitia  puternica si de durata a secretiei gastrice acide
+--
+HIDROXIDUL DE ALUMINIU
+Antiacidice
+--
+--
+Ulcer gastro-duodenal, BRGE, dispepsii, dispepsie
+Grabeste vindecarea UD. Baza slaba capabila sa neutralizeze acidul clorhidric. Creste pH-ul gastric. Actiune lenta si durabila, nu se absoarbe.
+constipatie, greturi, varsaturi, carenta de fosfati, in IR poate determina (osteodistrofie, encefalopatie)
+--
+Se administreaza 5-30ml/doza
+Suspensie sau gel. Administrarea pe stomacul gol - efect de scurta durata (30’).
+--
+Scade absorbtia medicamentelor administrate simultan, acestea se administreaza la cel putin 2 ore dupa antiacide
+HIDROXIDUL DE MAGNEZIU
+Antiacidice
+Compusii de magneziu|MG
+--
+Ulcer gastro-duodenal, BRGE, dispepsii, dispepsie
+Grabeste vindecarea UD. Baza slaba capabila sa neutralizeze acidul clorhidric. Creste pH-ul gastric. Actiune rapida, intensa si scurta, nu se absoarbe.
+diaree
+--
+--
+Administrarea pe stomacul gol - efect de scurta durata (30’).
+--
+--
+OXIDUL DE MAGNEZIU
+Antiacidice
+Compusii de magneziu|MG
+--
+Ulcer gastro-duodenal, BRGE, dispepsii, dispepsie
+Grabeste vindecarea UD. Baza slaba capabila sa neutralizeze acidul clorhidric. Creste pH-ul gastric. Formeaza in apa hidroxid de Mg
+diaree
+--
+--
+Administrarea pe stomacul gol - efect de scurta durata (30’).
+--
+--
+TRISILICATUL DE MAGNEZIU
+Antiacidice
+Compusii de magneziu|MG
+--
+Ulcer gastro-duodenal, BRGE, dispepsii, dispepsie
+Grabeste vindecarea UD. Baza slaba capabila sa neutralizeze acidul clorhidric. Creste pH-ul gastric. Efect lent si durabil
+diaree
+--
+--
+Administrarea pe stomacul gol - efect de scurta durata (30’).
+--
+--
+CARBONATUL DE MAGNEZIU
+Antiacidice
+Compusii de magneziu|MG
+--
+Ulcer gastro-duodenal, BRGE, dispepsii, dispepsie
+Grabeste vindecarea UD. Baza slaba capabila sa neutralizeze acidul clorhidric. Creste pH-ul gastric. Efect lent, slab si durabil.
+balonare
+--
+Se administreaza 15 ml - doza unica
+Administrarea pe stomacul gol - efect de scurta durata (30’).
+--
+--
+COMPUSI DE AL SI MG
+Antiacidice
+Compusii de Al si Mg|ALMG
+--
+Ulcer gastro-duodenal, BRGE, dispepsii, dispepsie
+Grabeste vindecarea UD. Baza slaba capabila sa neutralizeze acidul clorhidric. Creste pH-ul gastric. Efect lent, slab si durabil. Echilibreaza efectele asupra tranzitului. MAGALDRAT - efect rapid si de durata. 
+--
+--
+ALMAGEL -> se administreaza ca si suspensie 15 ml o data
+Administrarea pe stomacul gol - efect de scurta durata (30’). Almagel -> suspensie
+--
+--
+CARBONATUL DE CA
+Antiacidice
+Carbonatul de calciu|CO3CA
+--
+Ulcer gastro-duodenal, BRGE, dispepsii, dispepsie
+Grabeste vindecarea UD. Baza slaba capabila sa neutralizeze acidul clorhidric. Creste pH-ul gastric. Efect rapid, intens si durabil. Provoaca secretie acida de rebound. Efect antidiareic (adsorbant)
+hipercalcemie cronica, calculoza renala, constipatie, balonare, flatulenta, sindromul lapte-alcaline(administrare cronica de doze mari)
+--
+Se administreaza 1 - 2 g/zi
+Administrarea pe stomacul gol - efect de scurta durata (30’). Oral.
+--
+--
+ANTACID
+Antiacidice
+Carbonatul de calciu|CO3CA
+--
+Ulcer gastro-duodenal, BRGE, dispepsii, dispepsie
+Grabeste vindecarea UD. Baza slaba capabila sa neutralizeze acidul clorhidric. Creste pH-ul gastric. Efect rapid, intens si durabil. Provoaca secretie acida de rebound. Efect antidiareic (adsorbant)
+hipercalcemie cronica, calculoza renala, constipatie, balonare, flatulenta, sindromul lapte-alcaline(administrare cronica de doze mari)
+--
+Se administreaza 1 - 2 g/zi
+Administrarea pe stomacul gol - efect de scurta durata (30’). Oral.
+--
+--
+RENNIE
+Antiacidice
+Carbonatul de calciu|CO3CA
+--
+Ulcer gastro-duodenal, BRGE, dispepsii, dispepsie
+Grabeste vindecarea UD. Baza slaba capabila sa neutralizeze acidul clorhidric. Creste pH-ul gastric. Efect rapid, intens si durabil. Provoaca secretie acida de rebound. Efect antidiareic (adsorbant)
+hipercalcemie cronica, calculoza renala, constipatie, balonare, flatulenta, sindromul lapte-alcaline(administrare cronica de doze mari)
+--
+Se administreaza 1 - 2 g/zi
+Administrarea pe stomacul gol - efect de scurta durata (30’). Oral.
+Carbonat de Ca + Carbonat de Mg
+--
+DICARBOCALM
+Antiacidice
+Carbonatul de calciu|CO3CA
+--
+Ulcer gastro-duodenal, BRGE, dispepsii, dispepsie
+Grabeste vindecarea UD. Baza slaba capabila sa neutralizeze acidul clorhidric. Creste pH-ul gastric. Efect rapid, intens si durabil. Provoaca secretie acida de rebound. Efect antidiareic (adsorbant)
+hipercalcemie cronica, calculoza renala, constipatie, balonare, flatulenta, sindromul lapte-alcaline(administrare cronica de doze mari)
+--
+Se administreaza 1 - 2 g/zi
+Administrarea pe stomacul gol - efect de scurta durata (30’). Oral.
+Carbonat de Ca + Carbonat de Mg + Trisilicat de Mg
+--
+DOMPERIDON
+Prokinetice
+Antagonistii receptorilor dopaminergici|ARD
+---
+Diskinezii, Diskinezii biliare, Stenoza gastrica si duodenala, BRGE, Tulburari de motilitate GI
+Creste peristaltitismul si motilitatea gastro-intestinala, det. scurtarea timpului de tranzit G.I.
+Hiperprolactinemie, Amenoree, Galactoree, Ginecomastie
+--- 
+10 mg/doza
+Orala
+---
+---
+MOTILIUM
+Prokinetice
+Antagonistii receptorilor dopaminergici|ARD
+---
+Diskinezii, Diskinezii biliare, Stenoza gastrica si duodenala, BRGE, Tulburari de motilitate GI
+Creste peristaltitismul si motilitatea gastro-intestinala, det. scurtarea timpului de tranzit G.I.
+Hiperprolactinemie, Amenoree, Galactoree, Ginecomastie
+---
+10 mg/doza
+Orala
+---
+---
+METROCLOPRAMID
+Prokinetice
+Antagonistii receptorilor dopaminergici|ARD
+---
+BRGE, Gastropareza diabetica, Diskinezii, Tulburari de motilitate GI
+---
+---
+---
+10 - 20 mg/doza inainte de mese
+Orala
+---
+---
+CLOMIPRAMINA
+Antidepresive
+Antidepresive triciclice|ADT
+Amine tertiare
+Depresii reactive, Depresii Endogene, Depresii Bipolare, Tulburari anxioase paroxistice, ADHD, Fobii, Tulburari compulsive, Narcolepsie, Enurezis nocturn, Ticuri, Dureri cronice rebele, Obsesii, Depresii
+Efect Antidepresiv, Efect vegetativ, Toxicitate cardiaca
+Tahicardie, Cardiotoxicitate (deprima miocardul, BAV, aritmii), M-colinolitice (xerostomie, constipatie, retentie urinara), hTA ortostatica, sedare, oboseala, tremor
+Boli cardiace, Glaucom cu unghi inchis, Adenom de prostata, hTA, Varstnici (prudenta)
+---
+---
+Inhiba recaptarea serotoninei
+Nu se asociaza cu IMAO, ISRS. Fenotiazinele cresc toxicitatea ADT. Barbituricele, carmabazepina/fumatul reduc eficatitatea ADT.
+AMITRIPTILINA
+Antidepresive
+Antidepresive triciclice|ADT
+Amine tertiare
+Depresii reactive, Depresii Endogene, Depresii Bipolare, Tulburari anxioase paroxistice, ADHD, Fobii, Tulburari compulsive, Narcolepsie, Enurezis nocturn, Ticuri, Dureri cronice rebele, Obsesii
+Efect Antidepresiv, Efect vegetativ, Toxicitate cardiaca
+Tahicardie, Cardiotoxicitate (deprima miocardul, BAV, aritmii), M-colinolitice (xerostomie, constipatie, retentie urinara), hTA ortostatica, sedare, oboseala, tremor 
+Boli cardiace, Glaucom cu unghi inchis, Adenom de prostata, hTA, Varstnici (prudenta)
+---
+---
+efecte antidepresive, anxiolitice si vegetative accentuate
+Nu se asociaza cu IMAO, ISRS. Fenotiazinele cresc toxicitatea ADT. Barbituricele, carmabazepina/fumatul reduc eficatitatea ADT.
+DOXEPINA
+Antidepresive
+Antidepresive triciclice|ADT
+Amine tertiare
+Depresii reactive, Depresii Endogene, Depresii Bipolare, Tulburari anxioase paroxistice, ADHD, Fobii, Tulburari compulsive, Narcolepsie, Enurezis nocturn, Ticuri, Dureri cronice rebele, Obsesii
+Efect Antidepresiv, Efect vegetativ, Toxicitate cardiaca
+Tahicardie, Cardiotoxicitate (deprima miocardul, BAV, aritmii), M-colinolitice (xerostomie, constipatie, retentie urinara), hTA ortostatica, sedare, oboseala, tremor
+Boli cardiace, Glaucom cu unghi inchis, Adenom de prostata, hTA, Varstnici (prudenta)
+---
+---
+Asemanator amitriptilinei (antidepresiv anxiolitic vegetativ accentuat), efecte antihistaminice marcate
+Nu se asociaza cu IMAO, ISRS. Fenotiazinele cresc toxicitatea ADT. Barbituricele, carmabazepina/fumatul reduc eficatitatea ADT.
+MAPROTILINA
+Antidepresive
+Antidepresive triciclice|ADT
+Amine secundare
+Depresii reactive, Depresii Endogene, Depresii Bipolare, Tulburari anxioase paroxistice, ADHD, Fobii, Tulburari compulsive, Narcolepsie, Enurezis nocturn, Ticuri, Dureri cronice rebele, Obsesii
+Efect Antidepresiv, Efect vegetativ, Toxicitate cardiaca
+Tahicardie, Cardiotoxicitate (deprima miocardul, BAV, aritmii), M-colinolitice (xerostomie, constipatie, retentie urinara), hTA ortostatica, sedare, oboseala, tremor
+Boli cardiace, Glaucom cu unghi inchis, Adenom de prostata, hTA, Varstnici (prudenta)
+---
+---
+Efect sedativ marcat. Inhiba recaptarea noradrenalinei
+Nu se asociaza cu IMAO, ISRS. Fenotiazinele cresc toxicitatea ADT. Barbituricele, carmabazepina/fumatul reduc eficatitatea ADT.
+FLUOXETINA
+Antidepresive
+Inhibitorii selectivi ai recaptarii serotoninei|ISRS
+---
+Depresii, Tulburari anxioase, Atac de panica, Tulburari Obsesiv-Compulsive
+Fara efect sedativ. Are efect euforizant.
+Insomnie, Disfunctii Sexuale, Creste violenta si agresivitatea, Nu se asociaza cu IMAO - Sindrom Serotoninic, Scade libidoul
+---
+---
+---
+Absorbtie buna, efectul antidepresiv apare dupa 2-4 sapt. de tratament.
+Are toxicitate mai mica decat a ADT, nu are reactii cardiovasculare, M-colinolitice.
+FLUVOXAMINA
+Antidepresive
+Inhibitorii selectivi ai recaptarii serotoninei|ISRS
+---
+Depresii, Tulburari anxioase, Atac de panica, Tulburari Obsesiv-Compulsive
+--- 
+Insomnie, Disfunctii Sexuale, Nu se asociaza cu IMAO - Sindrom Serotoninic, Scade libidoul
+---
+---
+---
+Absorbtie buna, efectul antidepresiv apare dupa 2-4 sapt. de tratament.
+Are toxicitate mai mica decat a ADT, nu are reactii cardiovasculare, M-colinolitice.
+SERTRALINE
+Antidepresive
+Inhibitorii selectivi ai recaptarii serotoninei|ISRS
+---
+Depresii, Tulburari anxioase, Atac de panica, Tulburari Obsesiv-Compulsive
+---
+Insomnie, Disfunctii Sexuale, Nu se asociaza cu IMAO - Sindrom Serotoninic, Scade libidoul
+---
+---
+---
+Absorbtie buna, efectul antidepresiv apare dupa 2-4 sapt. de tratament.
+Are toxicitate mai mica decat a ADT, nu are reactii cardiovasculare, M-colinolitice.
+PAROXETINE
+Antidepresive
+Inhibitorii selectivi ai recaptarii serotoninei|ISRS
+---
+Depresii, Tulburari anxioase, Atac de panica, Tulburari Obsesiv-Compulsive
+---
+Insomnie, Disfunctii Sexuale, Nu se asociaza cu IMAO - Sindrom Serotoninic, Scade libidoul
+---
+---
+---
+Absorbtie buna, efectul antidepresiv apare dupa 2-4 sapt. de tratament.
+Are toxicitate mai mica decat a ADT, nu are reactii cardiovasculare, M-colinolitice.
+ESCITALOPRAM
+Antidepresive
+Inhibitorii selectivi ai recaptarii serotoninei|ISRS
+---
+Depresii, Tulburari anxioase, Atac de panica, Tulburari Obsesiv-Compulsive
+---
+Insomnie, Disfunctii Sexuale, Nu se asociaza cu IMAO - Sindrom Serotoninic, Scade libidoul
+---
+---
+---
+Absorbtie buna, efectul antidepresiv apare dupa 2-4 sapt. de tratament.
+Are toxicitate mai mica decat a ADT, nu are reactii cardiovasculare, M-colinolitice.
+CITALOPRAM
+Antidepresive
+Inhibitorii selectivi ai recaptarii serotoninei|ISRS
+---
+Depresii, Tulburari anxioase, Atac de panica, Tulburari Obsesiv-Compulsive
+---
+Insomnie, Disfunctii Sexuale, Nu se asociaza cu IMAO - Sindrom Serotoninic, Scade libidoul
+---
+---
+---
+Absorbtie buna, efectul antidepresiv apare dupa 2-4 sapt. de tratament.
+Are toxicitate mai mica decat a ADT, nu are reactii cardiovasculare, M-colinolitice.
+ALISKIREN
+Sistem renina angiotensina aldosteron|SRAA
+Inhibitori directi de renina|IDR
+---
+HTA, Insuficienta cardiaca, Postinfarct miocardic acut
+Actioneaza pe receptorii pro-renina/renina
+Bine suportat
+Sarcina, Insuficienta renala cronica avansata, Stenoza bilaterala, Stenoza bilaterala de artera renala
+---
+---
+Actioneaza pe receptorii pro-renina/renina
+---
+ERITROMICINA
+Prokinetice
+Antagonistii receptorilor pentru serotonina|ARS
+---
+Gastropareza diabetica
+Minimizeaza efectele motilinei, efectul asupra colonului este foarte redus
+---
+---
+---
+---
+---
+---
+FENITOINA
+Antiepileptice
+Blocante ale canalelor de Na|BCNA
+---
+crize epileptice majore, crize partiale, profilaxia si tratamentul crizelor epileptice secundare, nevralgia de trigemen
+proprietati antiepileptice si antiaritmice
+de tip toxic, dependente de doza (ataxie, diplopie, anorexie, vertij); nistagmus, gingivita hipertrofica la doze terapeutice la adolescenti si copii, hirsutism, anemie megaloblastica,nevrita periferica,hemoragii prin hipoprotrombinemie la nou-nascuţii din mame epileptice tratate cu fenitoina (se administreaza vitamina K i.m.),malformaţii congenitale (keilopalatoskizis)
+---
+100 mg de 2x/zi, crescand progresiv pana la max 500 mg/zi in 2-3 prize
+oral- comprimate/ sol. inj.
+scade permeabilitatea membranei pentru ionii de calciu, inhiba eliberarea de serotonina si norepinefrina (la concentratii mari, favorizeaza recaptarea dopaminei si inhiba monoaminoxidaza (la concentratii mari),favorizeaza recaptarea dopaminei si inhiba monoaminoxidaza (la concentratii mari)
+---
+CARBAMAZEPINA
+Antiepileptice
+Blocante ale canalelor de Na|BCNA
+---
+convulsii generalizate tonico-clonice (crize de tip grad mal), crize partiale (simple si complexe), nevralgia de trigemen, nevralgia de glosofaringian, adjuvant in durerea de cancer, prevenirea convulsiilor in sindromul de sevraj alcoolic, Agraveaza formele petit mal si crizele mioclonice
+efect anticonvulsivant, toxicitate mica si lipsita de modificarile cosmetice produse de fenitoina, efect M-colinolitic, proprietati de scadere a agresivitatii, utile in tratamentul tulburarilor de comportament si adolescentului
+osteoporoza, osteomalacie, hemoragii prin accelerarea metabolizarii unor factori vitaminici, uscaciunea gurii, tulburari de vedere, cefalee, ameteli, diplopie, ataxie- la doze mari, urticarie severa, efect sedativ minim (avantajos in tratamentul cronic), anemie megaloblastica- rar
+---
+100 mg de 2x/zi, crescand doza in functie de raspunsul terapeutic pana la max 2.000 mg/zi
+oral, doza se creste treptat in 2-3 saptamani
+creste secretia de hormon antidiuretic
+---
+OXCARBAMAZEPINA
+Antiepileptice
+Blocante ale canalelor de Na|BCNA
+Analog al Carbamazepinei
+monoterapie/terapie adjuvanta in crizele epileptice partiale insotite sau nu de convulsii tonico-clonice generalizate, la adulti si la copii > 6 ani
+---
+reactii adverse mai reduse decat Carbamazepina, rash, reactii alergice, Exista reactivitate incrucisata intre Oxcarbazebina si Carbamazepina, HipoNa si retentie de lichide- mai frecvent decat la carbamazepina, Cefalee, somnolenta, ameteli, tulburari de concentrare, tulburari de vorbire
+---
+doza initiala- 600  mg/zi, fractionata in 2 prize, se poate creste cu 600 mg la interval de o saptamana, pana lla 2.400 mg
+doza uzuala de intretinere= 1.200 mg
+actiune antiepileptica, spectru de activitate si eficacitate sunt comparabile cu ale acesteia
+---
+ESLICARBAZEPINA ACETAT
+Antiepileptice
+Blocante ale canalelor de Na|BCNA
+Antiepileptic de gen. III
+terapie adjuvanta in crizele partiale, cu sau fara generalizare secundara, la debut
+---
+hipoNa, deshidratare, insomnie, agitatie, iritabilitate, somnolenta, deficit de atentie, tulburari de vedere, tulburari GI, ameteli, cefalee
+---
+doza initiala= 400 mg/zi, se poate creste cu cate 400 mg la 1-2 sapt. pana la max. 1.200 mg/zi
+adm. in priza unica zilnica max. 1.200 mg/zi
+transformata la nivel hepatic si intestinal, prin hidroliza, in eslicarbazepina, cunoscuta si sub denumirea de (S) – licarbazepina
+---
+ZONISAMIDA
+Antiepileptice
+Blocante ale canalelor de Na|BCNA
+---
+in monoterapie- in tratamentul crizelor partiale cu sau fara generalizare secundara, la adulti cu epilepsie nou diagnosticata, medicatie adjuvanta in tratamentul crizelor partiale, cu sau fara generalizare secundara la adulti, adolescenti si copii peste 6 ani
+---
+eruptii cutanate, prurit, alopecie, tulburari de tranzit intestinal, dispepsie, somnolenta, tulburari de memorie, iritabilitate, anorexie, tulburari psihice, dureri abdominale, tulburari psihice
+---
+in monoterapie= 100 mg/zi, cu crestere la 2 sapt. cu 100 mg. Max 300 mg
+in cazul asocierii cu alte antiepilepticec, doza de intretinere este de 300-500 mg/zi in una sau doua prize zilnice
+---
+---
+LAMOTRIGINA
+Antiepileptice
+Blocante ale canalelor de Na|BCNA
+---
+tratament adjuvant / monoterapie in crizele partiale sau generalizate si in crizele convulsive din sindromul LennoxGastaut (la adulti si copii peste 2 ani), monoterapie in crizele convulsive sub forma de absente tipice (copii intre 2 - 12 ani)
+---
+atralgii, eruptii cutanate, xerostomie, tremor, agresivitate, ameteli, somnolenta, insomnie, agitatie,diaree, varsaturi, greturi
+---
+monoterapie= 50 mg/zi, cu crestere treptata pana la max. 100-200 mg/zi. Ca terapie adjuvanta = 25 mg/zi, cu crestere pana la max. 100-200 mg/zi
+in asociere cu alte inductoare enzimatice doza= max 500 mg/zi. La copii doza= 1-5 mg/kg/zi 1-2 prize zilnice
+---
+---
+RUFINAMIDA
+Antiepileptice
+Blocante ale canalelor de Na|BCNA
+Derivat cu structura triazolica
+in crizele partiale cu sau fara generalizare secundara, la debut, la adult, In tratamentul convulsiilor asociate cu sindromul Lennox-Gastaut, la pacientii cu varsta peste 4 ani
+slab inductor enzimatic pentru CYP3A4
+fatigabilitate, anorexie, tulburari de alimentatie, vedere incetosata, greturi, varsaturi, dureri abdominale, diplopie, somnolenta, cefalee, ameteli
+---
+---
+orala
+alimentele cresc absorbtia
+--- 
+ETOSUXIMIDA
+Antiepileptice
+Blocante ale canalelor de Ca de tip T|BCCAT
+---
+in crize convulsive generalizate de tip absente (micul rau epileptic), la pacientii cu crize convulsive de tip mixt, este utilizata pentru tratamentul componentei de tip micul rau epileptic 
+---
+---
+---
+---
+---
+---
+---
+PREGABALINA
+Antiepileptice
+Blocante ale canalelor de Ca de tip T|BCCAT
+---
+ca terapie adjuvanta sau ca monoterapie in tratamentul convulsiilor partiale, cu sau fara generalizare secundara, in tratamentul durerii din cadrul neuropatiei periferice, cum sunt durerea din neuropatia diabetica si nevralgia post-herpetica. 
+---
+fatigabilitate, atralgii, mialgii, infectii virale, leucopenie, confuzie, anxietate, somnolenta, ameteli, tulburari de vedere
+---
+---
+---
+Biodisponibilitatea gabapentinei variaza si nu este direct proportionala cu doza, in timp ce cea a pregabalinei depaseste 90%. 
+---
+GABAPENTINA
+Antiepileptice
+Blocante ale canalelor de Ca de tip T|BCCAT
+---
+ca terapie adjuvanta sau ca monoterapie in tratamentul convulsiilor partiale, cu sau fara generalizare secundara, in tratamentul durerii din cadrul neuropatiei periferice, cum sunt durerea din neuropatia diabetica si nevralgia post-herpetica. 
+---
+fatigabilitate, atralgii, mialgii, infectii virale, leucopenie, confuzie, anxietate, somnolenta, ameteli, tulburari de vedere
+---
+---
+---
+Biodisponibilitatea gabapentinei variaza si nu este direct proportionala cu doza, in timp ce cea a pregabalinei depaseste 90%. 
+---
+CLONAZEPAMUL
+Antiepileptice
+BENZODIAZEPINE|BZD
+Medicamente care influenteaza activitatea sistemului GABA-ergic|GABA
+in formele rezistente la alte tratamente. Sunt utile si in formele mioclonice si in cele insotite de anxietate
+proprieteti antiepileptice, anticonvulsivante si miorelaxante
+---
+---
+---
+---
+---
+---
+CLOBAZAMUL 
+Antiepileptice
+BENZODIAZEPINE|BZD
+Medicamente care influenteaza activitatea sistemului GABA-ergic|GABA
+in formele rezistente la alte tratamente. Sunt utile si in formele mioclonice si in cele insotite de anxietate
+proprieteti antiepileptice, anticonvulsivante si miorelaxante
+---
+---
+---
+---
+---
+---
+CLORAZEPATUL DIPOTASIC 
+Antiepileptice
+BENZODIAZEPINE|BZD
+Medicamente care influenteaza activitatea sistemului GABA-ergic|GABA
+in formele rezistente la alte tratamente. Sunt utile si in formele mioclonice si in cele insotite de anxietate
+proprieteti antiepileptice, anticonvulsivante si miorelaxante
+---
+---
+---
+---
+---
+---
+NITRAZEPAM
+Antiepileptice
+BENZODIAZEPINE|BZD
+Medicamente care influenteaza activitatea sistemului GABA-ergic|GABA
+in formele rezistente la alte tratamente. Sunt utile si in formele mioclonice si in cele insotite de anxietate
+proprieteti antiepileptice, anticonvulsivante si miorelaxante
+---
+---
+---
+---
+---
+---
+DIAZEPAM
+Antiepileptice
+BENZODIAZEPINE|BZD
+Medicamente care influenteaza activitatea sistemului GABA-ergic|GABA
+ca tratament de inceput in status epilepticus. Sunt utile si in formele mioclonice si in cele insotite de anxietate
+proprieteti antiepileptice, anticonvulsivante si miorelaxante
+---
+---
+---
+---
+---
+---
+LORAZEPAM
+Antiepileptice
+BENZODIAZEPINE|BZD
+Medicamente care influenteaza activitatea sistemului GABA-ergic|GABA
+ca tratament de inceput in status epilepticus, Sunt utile si in formele mioclonice si in cele insotite de anxietate
+proprieteti antiepileptice, anticonvulsivante si miorelaxante
+---
+---
+---
+---
+---
+---
+FENOBARBITAL
+Antiepileptice
+Barbiturice
+Medicamente care influenteaza activitatea sistemului GABA-ergic|GABA
+in crizele de tip grad mal, in epilepsii focale si alte forme de epilepsie, poate fi util si in crizele minore care sunt agravate de Fenitoina. Este medicamentul de electie la copii mici cu crize majore si in convulsii neepileptice (intoxicatii acute)
+are proprietati anticonvulsivante la doze mici si spectrul antiepileptic larg
+---
+---
+---
+---
+---
+se poate asocia cu fenitoina
+TIAGABINA
+Antiepileptice
+Medicamente care influenteaza activitatea sistemului GABA-ergic|GABA
+---
+crizele partiale cu sau fara generalizare secundara, rezistente la alte antiepileptice
+inhiba recaptarea neuronala a GABA, crescand- concentratia acestuia in sinapsa
+sunt relativ usoare- tremor, nervozitate, astenie, slabiciune
+---
+---
+---
+---
+---
+VIGABATRINA
+Antiepileptice
+Medicamente care influenteaza activitatea sistemului GABA-ergic|GABA
+---
+epilepsie refractara la tratamentele obisnuite, spasme infantile (tratament de electie), adjuvant in crizele partiale
+inhiba GABA transaminaza, enzima responsabila de metabolizarea GABA, crescand concentratia acestui neurotrannsmitator in creier
+reducerea progresiva si permanenta si bilateral a vederii, depresii, tulburari psihotice, mioclonii, oboseala, somnolenta,cresterea in greutate
+---
+---
+---
+---
+---
+ACIDUL VALPROIC
+Antiepileptice
+Medicamente care influenteaza activitatea sistemului GABA-ergic|GABA
+---
+in toate tipurile de epilepsie fiind ales la bolnavii care asociaza crize minore si majore, este considerat medicament de electie in absentele tipice, adjuvant in epilepsia grad mal si crizele mioclonice
+---
+bine suportat, anemie, trombocitopenie, tremor, tulburari extrapiramidale, somnolenta, surditate, hemoragii, hipoNa, greturi, varsaturi, tulburari digestive, dismenoree, ovar polichistic
+---
+---
+---
+actioneaza si asupra canalelor de Na voltaj-dependente si asupra celor de Ca de tip T
+---
+TOPIRAMAT
+Antiepileptice
+Medicamente care influenteaza activitatea sistemului GABA-ergic|GABA
+---
+tratament adjuvant/monoterapie- convulsii partiale cu sau fara generalizare secundara, convulsii tonico-clonice primar generalizate, tratamentul convulsiilor asociate cu sindromul Lenoux-Gastaut
+---
+anorexie, reducerea apetitului, depresie, ameteli,somnolenta, tulburari de vorbire, tulburari de atentie
+---
+---
+---
+---
+---
+FELBAMAT
+Antiepileptice
+Medicamente care influenteaza activitatea sistemului GABA-ergic|GABA
+Inhibitor enzimatic pt CYP2C19
+monoterapie/adjuvant in crizele partiale cu sau fara generalizare secundara, adjuvant in crizele partiale sau generalizate asociate sindromului Lenoux-Gastaut
+---
+insomnie, anorexie, greturi, cefalee, ameteli. Rar- Anemia aplastica si insuficienta hepatica
+---
+---
+---
+---
+---
+LEVOTIROXINA SODICA
+Hormoni Tiroidieni
+--
+Preparat hormonal pur
+hipotiroidism, coma mixedematoasa, tiroidectomie totala
+alimentele scad biodisponibilitatea micrograme/kg
+cardiopatie ischemica, hipertiroidism (supradoza), tahicardie, pierdere in greutate, diaree, iritabilitate, intoleranta la caldura
+insuficienta cardiaca decompensata, boala coronariana, aritmii
+in hipotiroidism= 1,7 micrograme apoi 50-100, tireidectomie totala- permanent
+o doza/zi, iv in coma mixedematoasa initial 200-400 micrograme/zi, apoi oral
+--
+cresc efectul Anticoagulantelor cumarinice, potenteaza efectul Antidepresivelor triciclice, efecte contrare insulinei si Antidiabeticelor orale
+LIOTIRONINA SODICA
+Hormoni Tiroidieni
+--
+--
+coma mixedematoasa
+efect mai rapid si de durata scurta
+cardiopatie ischemica, hipertiroidism (supradoza), tahicardie, pierdere in greutate, intoleranta la caldura, palpitatii
+insuficienta cardiaca decompensata, boala coronariana, aritmii
+--
+--
+--
+cresc efectul Anticoagulantelor cumarinice, potenteaza efectul Antidepresivelor triciclice, efecte contrare insulinei si Antidiabeticelor orale
+PROPRILTIOURACIL
+Hormoni Tiroidieni
+Antitiroidiene Tioamidice
+--
+hipertiroidism,hiperfunctie tiroidiana globala, Boala Graves-Basedow,medicatie adjuvanta in tratamentul hipertiroidismului
+--
+hipertiroidism (supradozare), atralgii, icter, leucopenie, agranulocitoza, eruptii cutanate, cefalee
+--
+75-100 mg de 3 ori/zi, se reduce dupa 4-6 saptamani, doza de intretinere= 50-100 mg/zi
+oral
+interfera cu procesul de sinteza a hormonilor tiroidieni
+asocierea cu Propranololul- favorizeaza disparitia tahicardiei, a tulburarilor vasomotorii si a tremorului
+TIAMAZOLUL
+Hormoni Tiroidieni
+Antitiroidiene Tioaminice
+--
+hipertiroidism,hiperfunctie tiroidiana globala, Boala Graves-Basedow,medicatie adjuvanta in tratamentul hipertiroidismului
+proprietati imunodepresive specifice
+hipertiroidism (supradozare), atralgii, icter, leucopenie, agranulocitoza, eruptii cutanate, cefalee
+--
+initial 10-20 mg, se ajusteaza la 4-6 sapt
+doza de intretinere- 5-10 mg/zi- o doza pe zi
+--
+--
+CARBIMAZOLUL
+Hormoni Tiroidieni
+Antitiroidiene Tioaminice
+--
+hipertiroidism,hiperfunctie tiroidiana globala, Boala Graves-Basedow,medicatie adjuvanta in tratamentul hipertiroidismului
+proprietati imunodepresive specifice
+hipertiroidism (supradozare), atralgii, icter, leucopenie, agranulocitoza, eruptii cutanate, cefalee
+--
+--
+--
+--
+--
+ESTRADIOL
+Hormoni Estrogeni
+Hormoni sexuali
+--
+menopauza, tulburari de menopauza, vaginita atrofica, cancer de prostata
+--
+anorexie, iritabilitate, crestere ponderala, tensiune mamara, candidoza vaginala, ginecomastie (la barbati), hiperplazia endometriala cu sangerari (tratament indelungat)
+--
+--
+--
+--
+--
+ESTRIOL
+Hormoni Estrogeni
+Hormoni sexuali
+--
+tulburari trofice vulvo-vaginale, menopauza
+activ mai ales la nivelul vaginului
+anorexie, iritabilitate, crestere ponderala, tensiune mamara, candidoza vaginala, ginecomastie (la barbati), hiperplazia endometriala cu sangerari (tratament indelungat)
+--
+--
+oral, im, local
+--
+--
+ESTONA
+Hormoni Estrogeni
+Hormoni sexuali
+--
+--
+--
+--
+--
+--
+im, local la nivelul vaginului
+--
+--
+ETNILESTRADIOL
+Hormoni Estrogeni
+Hormoni sexuali
+Derivat sintetic
+menopauza, menometroragii severe
+intra in compozitia preparatelor estro-progestative
+--
+--
+--
+oral, tratament de substitutie in menopauza
+--
+--
+DIETILSTILBESTROL
+Hormoni Estrogeni
+Hormoni sexuali
+compus de sinteza nonsteroidic
+cancer de prostata, adm in sarcina det tumori estrodependente
+--
+frecvente
+--
+--
+oral
+--
+--
+PROGESTERON
+Hormoni sexuali
+Progestative
+Progestativ natural
+indispensabil pentru nidrare si mentinerea sarcinii
+fav nidrarea, mentinerea sarcinii si nidrarea depind de progesteronul secretat, impiedica efectul ocitocic al oxitocinei, transformarea secretorie a endomerului
+--
+--
+--
+injectie im- tratamentul sangerarilor utrerine disfunctionale
+--
+--
+HIDROXIPROGESTERONUL
+Hormoni sexuali
+Progesteron de sinteza
+--
+tulburari menstruale, prevenirea avortului habitual
+efect prelungit (10 zile)- injectie im
+seboree, acnee, crestere ponderala, hipercolesterolemie, varsaturi, iritabilitate
+contraceptie, terapie de substitutie in asociere cu estrogeni in postmenopauza, menometroragii functionale, endometrioze, cancer endometrial recurent, cancer endometrial metastazic, primul trimestru de sarcina
+--
+--
+--
+--
+CLORMADINONA
+Hormoni sexuali
+Progesteron de sinteza
+--
+tulburari ginecologice date de insuficienta luteinica
+proprietati progestative marcate, actiune antiestrogenica si efecte androgenice slabe
+seboree, acnee, crestere ponderala, hipercolesterolemie, varsaturi, iritabilitate
+sarcina
+--
+oral
+--
+--
+MEDROXIPROGESTERON
+Hormoni sexuali
+Progesteron de sinteza
+--
+menometroragii (functionale cel mai folosit la adolescenti sau dupa cicluri anovulatorii ), cancer endometrial, endometrioze
+--
+seboree, acnee, crestere ponderala, hipercolesterolemie, varsaturi, iritabilitate
+sarcina
+--
+oral
+--
+--
+NORETISTERONUL
+Hormoni sexuali
+Progesteron de sinteza
+--
+menometroragii
+inhiba eliberarea de gonadotrofine si  ovulatia
+seboree, acnee, crestere ponderala, hipercolesterolemie, varsaturi, iritabilitate
+--
+--
+--
+--
+contraceptie in sociere cu estrogenii
+ALILESTEROL
+Hormoni sexuali
+Progesteron de sinteza
+--
+--
+Stimuleaza secretia placentara de oxitocinaza – inactiveaza oxitocina – in caz de avort habitual
+seboree, acnee, crestere ponderala, hipercolesterolemie, varsaturi, iritabilitate
+--
+--
+--
+--
+--
+LINESTEROL
+Hormoni sexuali
+Progesteron de sinteza
+--
+insuficienta luteala, insuficienta endometriozei
+efecte progestative moderate, efecte estrogenice, antiestrogenice si androgenice slabe
+seboree, acnee, crestere ponderala, hipercolesterolemie, varsaturi, iritabilitate
+sarcina
+--
+--
+--
+Asociatii contraceptive
+BENZODIAZEPINE CLASA
+--
+--
+--
+in formele rezistente la alte tratamente (clobazam, nitrazepam, clonazepam, clorazepat) sau ca tratament de inceput in status epilepticus (diazepam, lorazepam), In mod particular sunt utile in formele mioclonice si cele insotite de anxietate
+proprieteti antiepileptice, anticonvulsivante si miorelaxante
+---
+---
+---
+---
+---
+---
+ANTITIROIDIENE TIOAMINICE CLASA
+--
+--
+--
+hipertiroidism,hiperfunctie tiroidiana globala, Boala Graves-Basedow,medicatie adjuvanta in tratamentul hipertiroidismului
+efectul apare dupa cateva zile pana la cateva saptamani
+hipertiroidism (supradozare), atralgii, icter, leucopenie, agranulocitoza, eruptii cutanate, cefalee
+--
+75-100 mg de 3 ori/zi- Propriltiouracil, 10-20 mg- Tiamazol, Carbimazolul
+oral
+interfera cu procesul de sinteza a hormonilor tiroidieni
+asocierea cu Propranololul- favorizeaza disparitia tahicardiei, a tulburarilor vasomotorii si a tremorului
+HORMONI ESTROGENI CLASA
+--
+--
+--
+corectare deficit hormonal, menopauza, amenoree prin insuficienta estrogenica, sangerari uterine, cancer de prostata (unele)
+maturarea organelor sexuale, dezvoltarea caracterelor sexuale secundare, det comportamentul sexual feminin, inhiba reabsorbtia osoasa
+anorexie, iritabilitate, crestere ponderala, tensiune mamara, candidoza vaginala, ginecomastie (la barbati), hiperplazia endometriala cu sangerari (tratament indelungat)
+sarcina, alaptare, cancer mamar, boli hepatice severe, valvulopatii, HTA, antecedente de tombembolism, hemoragii genitale nediagnosticate
+--
+--
+proprietati feminizante, asigura ciclul menstrual si pregatesc tracul genital pentru fertilizare
+--
+EZOGABINA
+Antiepileptice
+Blocante ale canalelor de K
+--
+asociata in tratamentul crizelor convulsive cu debut partial, cu sau fara generalizare secundara , rezistente la alt tratament
+--
+decolorarea gri-albastra a unghiilor, buzelor, pielii (doze mari,dupa ani de tratament), fatigabilitate, ameteli, tulburari de vedere, somnolenta
+--
+--
+--
+--
+--
+RETIGABINA
+Antiepileptice
+Blocante ale canalelor de K
+--
+asociata in tratamentul crizelor convulsive cu debut partial, cu sau fara generalizare secundara , rezistente la alt tratament
+--
+decolorarea gri-albastra a unghiilor, buzelor, pielii (doze mari,dupa ani de tratament), fatigabilitate, ameteli, tulburari de vedere, somnolenta
+--
+--
+--
+--
+--
+ACETAZOLAMIDA
+Antiepileptice
+Inhibitori ai anhidrazei carbonice
+--
+recomandata in crizele minore si pe perioade scurte de timp
+--
+la utilizarea pe termen scurt poate sa apara- parestezii, scaderea apetitului, pliurie, cefalee, ameteli. La utilizarea pe termen lung- acidoza metabolica si tulburari electrolitice. Pot fi corectate prin adm. de bicarbonate
+--
+--
+--
+cu actiune specifica asupra anhidrazei carbonice
+reactiile adverse sunt corectate prin adm. de bicarbonate
+LEVETIRACETAM
+Antiepileptice
+--
+--
+in crizele partiale la pacientii cu epilepsie nou diagnsticata cu sau fara generalizare secundara (ca monoterapie), in crizele convulsive partiale cu sau fara generalizare secundara, in crize mioclonice (epilepsie mioclonica juvenila), crizele tonico-clonice primare generalizate, epilepsie generalizata idiopatica (terapie adjuvanta)
+interactioneaza cu proteina 2A de la nivelul veziculelor sinaptice, care este un transportor pt constituentii veziculari, cum ar fi Ca
+somnolenta, cefalee, anorexie, nervozitate, tulburari de echilibru, vertiji, fatigabilitate
+--
+--
+--
+influenteaza concentratia intraneuronala de Ca
+--
+LEVODOPA
+Antiparkinson
+Medicatia dopaminergica
+precursorul metabolic imediat al dopaminei
+cel mai eficient in Boala Parkinson
+influenteaza mai ales rigiditatea si bradikinezia. Efectele sale terapeutice apar dupa decarboxilare si transformarea in dopamina
+miscari involuntare- diskinezii (mai frecvent la niv. fetei si mb.). Aparitia diskineziilor se coreleaza cu concentratii plasmatice de varf ale levodopa. Fluctuatii ale efectului terapeutic, hTA ortostatica, dureri epigastrice (daca se da pe stomacul gol), sindrom schizofrenic-like, halucinatii, deziluzii
+Boli cardiovasculare grave, psihoze severe, maleanom malign - levodopa favorizeaza formarea melaninei. Evitarea dietelor bogatein proteine pt a reduce competitia intre AA din dieta si levodopa pt mecanismele de absorbtie si penetrarea a BHE
+--
+--
+biodisponibilitatea variaza in functie de continutul gastric si intestinal. Alim. reduc si intarzie absorbtia
+se utilizeaza cu inhibitori ai dopacarboxilazei- cardidopa, benserazid pt ca ei previn efectele periferice ale dopaminei si permit scaderea dozei de levodopa
+BROMOCRIPTINA
+Antiparkinson
+Agonistii receptorilor dopaminergici
+Derivati de Ergot
+Boala Parkinson
+inhiba secretia de prolactina- sindromul amenoree- galactoree, inhiba secretia de STH crescuta in acromegalie
+greturi, varsaturi, somnolenta
+--
+--
+--
+agonist puternic al receptorilor D2 si agonist partial al receptorilor D1
+--
+PERGOLIDA
+Antiparkinson
+Agonistii receptorilor dopaminergici
+Derivati de Ergot
+Boala Parkinson
+--
+reactii cardiovasculare frecvente si severe, determina afectarea valvelor cardiace, motiv pentru care a fost retras de pe piata in unele tari
+--
+--
+--
+agonist partial al receptorilor D1 si un agonist foarte puternic al receptorilor familiei D2
+--
+ROPINIROL
+Antiparkinson
+Agonistii receptorilor dopaminergici
+Derivati de Non-Ergot
+eficienti in controlul simptomelor din Boala Parkinson, mai ales la cei care prezinta fenomenul off/on indus de levodopa, in doza mica in tratamentul sindromului picioarelor nelinistite
+actiune mai lunga decat levodopa, absorbtie buna dupa administrarea orala
+halucinatii, confuzie, greturi, hTA ortostatica, somnolenta, oboseala
+--
+in doza mica in tratamentul sindromului picioarelor nelinistite
+--
+--
+--
+PRAMIPEXOL
+Antiparkinson
+Agonistii receptorilor dopaminergici
+Derivati de Non-Ergot
+eficienti in controlul simptomelor din Boala Parkinson, mai ales la cei care prezinta fenomenul on/off indus de levodopa
+efect neuroprotector, actiune mai lunga decat levodopa, absorbtie buna dupa administrarea orala
+halucinatii, confuzie, greturi, hTA ortostatica, somnolenta, oboseala
+--
+--
+--
+--
+--
+SELEGILINA
+Antiparkinson
+Inhibitorii MAO-B
+Medicatia dopaminergica
+controlul simptomelor din Boala Parkinson
+eficiente mai ales in formele usoare, precoce si la tineri
+insomnie, anxietate, stare de excitatie
+--
+--
+--
+se metabolizeaza in amfetamina si metamfetamina
+Nu se asociaza cu Petidina si Fluoxetina- fenomene toxice. Se asociaza cu levodopa, terapia combinata fiind mai eficienta in controlul simptomelor si in cresterea ratei de supravietuire
+RASAGILINA
+Antiparkinson
+Inhibitorii MAO-B
+Medicatia dopaminergica
+Boala Parkinson
+are proprietati neuroprotectoare
+--
+--
+--
+--
+este eficienta si in monoterapie
+in asociere cu levodopa reduce fluctuatiile de efect ale acesteia
+INHIBITORI COMT
+Antiparkinson
+Medicatia dopaminergica
+--
+Boala Parkinson
+tolcapona inhiba COMT atat in creier cat si in periferie, Entacapona actioneaza doar asupra COMT periferice
+tolcapona- hepatotoxicitate severa, chiar hepatita acuta fulminanta, hTa ortostatica, confuzie, varsaturi, halucinatii, cosmaruri
+--
+--
+--
+se asociaza combinatiei levodopa- Inhibitorii de dopa- decarboxilaza pt a reduce metabolizarea levodopei in periferie, crescand astfel T1/2 plasmatice al acesteia
+--
+M-COLINOLITICE ANTIPARKINSONIENE
+Antiparkinson
+--
+--
+forme incipiente de parkinson, mai ales cand predomina hipertonia, in asociere cu medicamentele dopaminergice. Boala Parkinson provocata de neuroleptice
+actioneaza asupra rigiditatii, mai putin asupra tremorului, aproape deloc asupra bradikineziei
+uscaciunea gurii, constipatie, tulburari de mictiune, tulburari de vedere, ciclopegie
+Glaucoma, adenom de prostata
+--
+--
+la pacientii care prezinta fenomene parkinsoniene dupa adm de neuroleptice, sialoree redusa si stare psihica aeliorata
+eficacitate inferioara levodopei si celorlalte antiparkinsoniene dopaminergice
+AMANTADINA
+Antiparkinson
+Medicatia dopaminergica
+Antiviral activ fata de virusul gripal A
+in Boala Parkinson si sindroamele parkinsoniene
+eficacitatea terapeutica relativ modesta, mai slaba ca levodopa sau bromocriptina, proprietati anticolinergice, efecte antiparkinsoniene
+--
+--
+--
+--
+eliberare de dopamina in nigrostrat, activeaza receptorii aa excitatori
+in asociere cu levodopa sau cu anticolinergice central
+MESTRANOL
+Contraceptive orale
+Estrogeni
+Combinatii estro-progestative
+evita o sarcina nedorita, reducerea simptomelor menstruale, reduce riscul de anemie feripriva, reduce riscul de afectiuni mamare benigne
+trebuie sa luam in calcul riscul crescut de afectare cardiovasculara- trombembolie, IMA, AVC, creste TA
+crestere in G,Amenoree de durata variabila, acnee, hiperpigmentatie, retentie de fluide, efect anabolic
+Risc crescut de afectare cardio-vasculara – trombembolie, IMA, AVC, cancer ovarian, cancer endometrial- redus
+--
+oral- adm 21 de zile consecutiv, urmata de 7 zile pauza-sangerare
+--
+--
+ETINILESTRADIOL
+Contraceptive orale
+Estrogeni
+Combinatii estro-progestative
+evita o sarcina nedorita, reducerea simptomelor menstruale, reduce riscul de anemie feripriva, reduce riscul de afectiuni mamare benigne
+trebuie sa luam in calcul riscul crescut de afectare cardiovasculara- trombembolie, IMA, AVC, creste TA
+crestere in G,Amenoree de durata variabila, acnee, hiperpigmentatie, retentie de fluide, efect anabolic
+Risc crescut de afectare cardio-vasculara – trombembolie, IMA, AVC, cancer ovarian, cancer endometrial- redus
+20-50 micrograme
+oral- adm 21 de zile consecutiv, urmata de 7 zile pauza-sangerare
+--
+--
+ETINODIOL
+Contraceptive orale
+Progesteron
+Combinatii estro-progestative
+evita o sarcina nedorita, reducerea simptomelor menstruale, reduce riscul de anemie feripriva, reduce riscul de afectiuni mamare benigne
+trebuie sa luam in calcul riscul crescut de afectare cardiovasculara- trombembolie, IMA, AVC, creste TA
+crestere in G,Amenoree de durata variabila, acnee, hiperpigmentatie, retentie de fluide, efect anabolic
+Risc crescut de afectare cardio-vasculara – trombembolie, IMA, AVC, cancer ovarian, cancer endometrial- redus
+--
+oral- adm 21 de zile consecutiv, urmata de 7 zile pauza-sangerare
+--
+--
+LEVONORGESTREL
+Contraceptive orale
+Progesteron
+Combinatii estro-progestative
+evita o sarcina nedorita, reducerea simptomelor menstruale, reduce riscul de anemie feripriva, reduce riscul de afectiuni mamare benigne
+trebuie sa luam in calcul riscul crescut de afectare cardiovasculara- trombembolie, IMA, AVC, creste TA
+crestere in G,Amenoree de durata variabila, acnee, hiperpigmentatie, retentie de fluide, efect anabolic
+Risc crescut de afectare cardio-vasculara – trombembolie, IMA, AVC, cancer ovarian, cancer endometrial- redus
+--
+oral- adm 21 de zile consecutiv, urmata de 7 zile pauza-sangerare
+--
+--
+NORETISTERONE
+Contraceptive orale
+Progesteron
+Combinatii estro-progestative
+evita o sarcina nedorita, reducerea simptomelor menstruale, reduce riscul de anemie feripriva, reduce riscul de afectiuni mamare benigne
+trebuie sa luam in calcul riscul crescut de afectare cardiovasculara- trombembolie, IMA, AVC, creste TA
+crestere in G,Amenoree de durata variabila, acnee, hiperpigmentatie, retentie de fluide, efect anabolic
+Risc crescut de afectare cardio-vasculara – trombembolie, IMA, AVC, cancer ovarian, cancer endometrial- redus
+--
+oral- adm 21 de zile consecutiv, urmata de 7 zile pauza-sangerare
+--
+--
+DESOGESTREL
+Contraceptive orale
+Contraceptive de Generatia 3
+Combinatii estro-progestative
+evita o sarcina nedorita, reducerea simptomelor menstruale, reduce riscul de anemie feripriva, reduce riscul de afectiuni mamare benigne
+efect androgenic mai redus, efect mai redus asupra metabolismului lipidic,A, creste TA
+crestere in G,Amenoree de durata variabila, acnee, hiperpigmentatie, retentie de fluide, efect anabolic
+trombembolism, Risc crescut de afectare cardio-vasculara – trombembolie, IMA, AVC, cancer ovarian, cancer endometrial- redus
+--
+oral- adm 21 de zile consecutiv, urmata de 7 zile pauza-sangerare
+--
+--
+GESTODEN
+Contraceptive orale
+Contraceptive de Generatia 3
+Combinatii estro-progestative
+evita o sarcina nedorita, reducerea simptomelor menstruale, reduce riscul de anemie feripriva, reduce riscul de afectiuni mamare benigne
+efect androgenic mai redus, efect mai redus asupra metabolismului lipidic,A, creste TA
+crestere in G,Amenoree de durata variabila, acnee, hiperpigmentatie, retentie de fluide, efect anabolic
+trombembolism, Risc crescut de afectare cardio-vasculara – trombembolie, IMA, AVC, cancer ovarian, cancer endometrial- redus
+--
+oral- adm 21 de zile consecutiv, urmata de 7 zile pauza-sangerare
+--
+--
+ETINODIOL
+Contraceptive orale
+Contraceptive pe baza de progesteron
+--
+--
+in HTA- efect contraceptiv mai redus
+absenta unei doza- sarcina, Tulburari menstruale- frecvent sangerare neregulata
+estrogenii
+--
+administrarea zilnica fara intrerupere
+--
+--
+NORETISTERON
+Contraceptive orale
+Contraceptive pe baza de progesteron
+--
+--
+in HTA- efect contraceptiv mai redus
+absenta unei doza- sarcina, Tulburari menstruale- frecvent sangerare neregulata
+estrogenii
+--
+administrarea zilnica fara intrerupere
+--
+--
+LEVONORGESTEREL
+Contraceptive orale
+Contraceptive progesteronice de lunga durata
+Contraceptive pe baza de progesteron
+Contraceptie de urgenta
+in HTA- efect contraceptiv mai redus
+greturi, varsaturi, absenta unei doza- sarcina, Tulburari menstruale- frecvent sangerare neregulata
+estrogenii
+subcutan in comprimate non degradabile
+administrarat in primele 72 de ore, se repeta doza la 72 de ore
+inserarea unui dispozitiv intrauterin- efect 5 zile dupa contactul neprotejat
+singur sau in combinatie
+CONTRACEPTIVE PE BAZA DE PROGESTERON
+Contraceptive orale
+Contraceptive pe baza de progesteron
+--
+--
+in HTA- efect contraceptiv mai redus
+absenta unei doza- sarcina, Tulburari menstruale- frecvent sangerare neregulata
+estrogenii
+--
+administrarea zilnica fara intrerupere
+--
+--
+CONTRACEPTIVE ORALE
+Contraceptive orale
+Progesteron
+Combinatii estro-progestative
+evita o sarcina nedorita, reducerea simptomelor menstruale, reduce riscul de anemie feripriva, reduce riscul de afectiuni mamare benigne
+trebuie sa luam in calcul riscul crescut de afectare cardiovasculara- trombembolie, IMA, AVC, creste TA
+crestere in G,Amenoree de durata variabila, acnee, hiperpigmentatie, retentie de fluide, efect anabolic
+Risc crescut de afectare cardio-vasculara – trombembolie, IMA, AVC, cancer ovarian, cancer endometrial- redus
+--
+oral- adm 21 de zile consecutiv, urmata de 7 zile pauza-sangerare
+--
+--
+MEDROXYPROGESTERON
+Contraceptive orale
+Contraceptive progesteronice de lunga durata
+--
+ciclu menstrual neregulat
+eficient si singur
+infertilitate- persista cateva luni dupa oprire
+--
+--
+--
+--
+--
+TESTOSTERONUL
+Steroizi androgeni
+--
+--
+hipogonadism, cancer de san, aplazie medulara
+--
+la femei- fenomene de virilizare, la copii- oprirea cresterii, sarcina- cirilizarea fatului feminin, la barbati la adm indelungata- scad spermatogeneza, ginecomastie, Hipertrofie de prostata
+--
+--
+in hipogonadismul masculin- implantul sc asigura nivele 4-5 luni, im- actiune prelungita, se absorb incet
+--
+--
+METILTESTOSTERON
+Steroizi androgeni
+--
+--
+hipogonadism, cancer de san
+--
+icter colestatic (rar), la femei- fenomene de virilizare, la copii- oprirea cresterii, sarcina- cirilizarea fatului feminin, la barbati la adm indelungata- scad spermatogeneza, ginecomastie, Hipertrofie de prostata
+--
+--
+oral, perilingual
+--
+--
+FLUOXIMESTERON
+Steroizi androgeni
+--
+--
+--
+mai activ ca si metiltestosteronul
+la femei- fenomene de virilizare, la copii- oprirea cresterii, sarcina- cirilizarea fatului feminin, la barbati la adm indelungata- scad spermatogeneza, ginecomastie, Hipertrofie de prostata
+--
+--
+--
+nu formeaza estradiol
+--
+DANAZOL
+Steroizi androgeni
+--
+--
+endometrioze, prevenirea crizelor de angioedem ereditar, 
+proprietati androgenice si progestative slabe
+crestere in G, edeme, acnee, hirsutism, bufeuri, cefalee, cresterea enzimelor hepatice, icter
+sarcina, sangerari uterine nediagnosticate, IR, IH
+--
+--
+inhiba secretia de gonadotrofine
+--
+OXITOCINA
+Ocitocice
+Hormon secretat de hipofiza
+--
+favorizeaza ejectia laptelui si usureaza suptul, sustine contractiile uterine insuficiente de la inceputul si in timpul  nasterii, induce travaliul in conditii de sarcina cu risc- HTA, DZ, anemie, sarcina prelungita
+efectul apare imediat dupa inj im, de scurta durata, induce travaliul, sustine travaliul, provoaca avortul, cresc contractiile fazice, ritmice ale uterului
+hipoxie fetala, rupturi uterine
+inj la gravide pe termen lung- contractii ritmice de tip fiziologic- expulzia fatului
+--
+inj im
+--
+--
+FUROSEMID
+--
+Diuretic de ansa
+--
+edeme, IC, IR, HTA, IRA cu oligurie, edeme cerebrale, intoxicatii acute medicamentoase
+--
+dezechilible hidroelectrolitice, stade TA, hipercolesterolemie, hiperuricemie, hiperglicemie
+intoxicatia digitalica, ciroza decompensata, hipokaliemie, hiponatriemie, hipovolemie cu deshidratare
+20-40 mg injectabil. 40-80 mg oral MAX 240 mg/zi
+--
+--
+Interactioneaza cu AINS, aminoglicozide, tiazide
+DEMOXITOCINA
+Ocitocice
+Compus de sinteza
+--
+--
+efect ocitocic mai intens si maii prelungit
+suferinta fetala, suferinta materna (supradozare)
+--
+1/2 cpr inaintea suptului pt a declansa lactatia
+cpr pt supt
+--
+--
+PROSTAGLANDINELE
+Ocitocice
+--
+--
+provoaca contractii uterine fazice puternice pe tot parcursul sarcinii- avort sau nastere, provoaca avortul in trim II, induce travaliul in sarcina la termen, tonificare uter, profilatic in metroragii post partum
+PGE, PGF au actiune ocitocica
+suferinta fetala, spasme uterine (la doze mari), greturi, varsaturi, diaree, frisoane, ameteli, cefalee
+astm bronsic, glaucom, cezariana in antecedente, suferinta fetala, distocii
+--
+--
+--
+--
+DINOPROSTONA
+Ocitocice
+PGE2 naturala
+--
+provocare avort terapeutic (iv) in trimestrul II de sarcina, avort incomplet, maturarea colului (dupa ruperea membranelor), induce travaliul
+la doze mari- stimulare uterina excesiva cu suferinta fetala si materna
+greturi, varsaturi, diaree, dureri abdominale, hipotensiune, febra, suferinta fetala si materna (la doze mari)
+--
+--
+iv sau gel vaginal
+--
+--
+DINOPROST
+Ocitocice
+PGE2
+--
+provocare avort (trim II de sarcina- intraamniotic), avort incomplet (iv), induce travaliul in sarcina la termen (rar)
+--
+(asemanatoare dinoprostonei) greturi, varsaturi, diaree, hipotensiune, febra, dureri abdominale
+Astm Boronsic- dispnee si bronhospasm
+--
+iv
+--
+--
+SULPROSTONA
+Ocitocice
+Derivati de PGE2
+--
+provoaca avortul (in trim II)
+--
+--
+--
+--
+--
+--
+--
+METENOPROSTUL
+Ocitocice
+Derivati de PGE2
+--
+provoaca avortul (in trim II)
+--
+--
+--
+--
+--
+--
+--
+GEMEPROSTUL
+Ocitocice
+Derivati de PGE2
+--
+provoaca avortul (in trim I si II de sarcina)
+efecte sistemice putine
+--
+--
+--
+adm intravaginal
+--
+--
+MISOPROSTOLUL
+Ocitocice
+Derivati de PGE2
+--
+provoaca avortul (in trim I)
+--
+--
+--
+--
+oral
+--
+--
+CARBOPROSTUL
+Ocitocice
+Derivati de PGE2
+--
+Provoaca avortul (in trim II), hemoragii postpartum
+mai stabil cu efect mai durabil
+HTA, dispnee cu bronhospasm
+--
+--
+--
+--
+--
+ERGOMETRINA
+Ocitocice
+Derivati de PGE2
+--
+(profilactic si in tratamentul) hemoragii postpartum, hemoragii post-abortum
+creste frecventa, amplitudinea contractiilor si tonusul uterin bazal, uterul gravid- foarte sensibil
+rupturi uterine,tetanie uterina, traumatizarea fatului- hipoxie, hemoragie intracraniana, creste TA, creste puls, reactii alergice
+inducere travaliu, iminenta de avort, HTA, boli cardiovasculare, tulburari hepatice, tulburari renala
+Necesar urmarirea TA, puls, raspuns uterin
+Nu trebuie inj inaintea eliberarii umarului anterior
+actiune similara miometrului
+Reprezentant: Maleat de ergometrina
+MALEAT DE ERGOMETRINA
+Ocitocice
+Derivati de PGE2
+--
+(profilactic si in tratamentul) hemoragii postpartum, hemoragii post-abortum
+creste frecventa, amplitudinea contractiilor si tonusul uterin bazal, uterul gravid- foarte sensibil
+rupturi uterine,tetanie uterina, traumatizarea fatului- hipoxie, hemoragie intracraniana, creste TA, creste puls, reactii alergice
+inducere travaliu, iminenta de avort, HTA, boli cardiovasculare, tulburari hepatice, tulburari renala
+Necesar urmarirea TA, puls, raspuns uterin
+Nu trebuie inj inaintea eliberarii umarului anterior
+actiune similara miometrului
+--
+METILERGOMETRINA
+Ocitocice
+Derivati de PGE2
+Compus de sinteza
+--
+efect uterotonic imediat dupa inj iv, la 2-5 min dupa inj im si 5-10 min dupa adm orala
+--
+--
+im- dupa eliberarea umarului anterior, se poate repeta la 2-4 ore
+iv lent, sub controlul TA- in situatii de mare gravitate
+--
+--
+TOCOLITICE
+Ocitocice
+Derivati de PGE2
+--
+iminenta de avort, iminenta unei nasteri premature (profilaxie si tratament)
+provoaca relaxarea uterina si impiedica contractiile miometrului
+--
+--
+--
+--
+--
+Stimulante beta adrenergice, unele AINS, alcool etilic, sulfat de Mg
+ALCOOL ETILIC
+Relaxante uterine
+--
+--
+(previne) nastere uterina, dismenoree
+in doze mari are proprietati tocolitice
+--
+--
+--
+--
+--
+--
+SULFAT DE MG
+Relaxante uterine
+--
+--
+(combate) convulsii din eclampsie
+efect tocolitic la doze mari
+deprima inima si respiratia, bloc neuromuscular la mama (supradoza), deprima circulatia si respiratia la NN
+--
+--
+--
+--
+--
+AINS
+Relaxante uterine
+--
+--
+previne nastere prematura (Indometacina), tratament dismenoree ( Ibuprofen, acid mefenamic, naproxen0
+inhiba motilitatea uterina
+--
+--
+--
+--
+--
+--
+PROLACTINA
+Relaxante uterine
+Hormon glicopeptidic
+--
+nu se utilizeaza in scop terapeutic
+efectele hipersecretiei de prolactina- amenoree, galactoree, cicluri anovulatorii si sterilitate
+--
+--
+levodopa, apomorfina inhiba secretia de prolactina,
+agonistii dopaminergici (Bromocriptina) utilizate in hiperprolactinemie
+--
+--
+BROMOCRIPTINA
+Derivat de ergot de sinteza
+--
+--
+Boala Parkinson, sindromul amenoree-galactoree, Hiperprolactinemie, suprimarea lactatiei
+--
+greturi, varsaturi, vasospasm periferic, manifestari psihotice (reversibile la intreruperea tratamentului), vertij, oboseala, somnolenta
+--
+--
+--
+--
+Macrolide- scade metabolizarea derivatilor de ergot
+OXAZEPAM
+Medicamente Hipno-Sedative-Tranchilizante|HST
+Benzodiazepine|BZD
+BZD anxiolitice/tranchilizante|BZD A/T
+insomnie, tulburari anxioase, aindrom de abstinenta la alcoolici, astm bronsic, cardiopatie ischemica, preanestezii
+efect anxiolitic (diminua starea de tensiune, anxietate, teama), efect sedativ/hipnotic, efect miorelaxant (scade tonusul muscular), efect anticonvulsivant, anestezic, efect euforizant usor, efecte CV,RESP
+sedare,toxicitate acuta, cronica, diminua performantele motorii, slabiciune musculara, reduc atentia, reduce concentrarea, altereaza procesele cognitive, amnezie aterogena, hipotensiune, aritmii
+miastenia gravis (agraveaza boala), soferi, dispeceri, profesii care solicita atentie
+--
+--
+--
+--
+ALPRAZOLAM
+Medicamente Hipno-Sedative-Tranchilizante|HST
+Benzodiazepine|BZD
+BZD anxiolitice/tranchilizante|BZD A/T
+insomnie, tulburari anxioase, aindrom de abstinenta la alcoolici, astm bronsic, cardiopatie ischemica, preanestezii
+efect intermediar,efect anxiolitic (diminua starea de tensiune, anxietate, teama), efect sedativ/hipnotic, efect miorelaxant (scade tonusul muscular), efect anticonvulsivant, anestezic, efect euforizant usor, efecte CV,RESP
+sedare,toxicitate acuta, cronica, diminua performantele motorii, slabiciune musculara, reduc atentia, reduce concentrarea, altereaza procesele cognitive, amnezie aterogena, hipotensiune, aritmii
+miastenia gravis (agraveaza boala), soferi, dispeceri, profesii care solicita atentie
+--
+--
+--
+--
+LORAZEPAM
+Medicamente Hipno-Sedative-Tranchilizante|HST
+Benzodiazepine|BZD
+BZD anxiolitice/tranchilizante|BZD A/T
+insomnie, tulburari anxioase, aindrom de abstinenta la alcoolici, astm bronsic, cardiopatie ischemica, preanestezii
+efect anxiolitic (diminua starea de tensiune, anxietate, teama), efect sedativ/hipnotic, efect miorelaxant (scade tonusul muscular), efect anticonvulsivant, anestezic, efect euforizant usor, efecte CV,RESP
+sedare,toxicitate acuta, cronica, diminua performantele motorii, slabiciune musculara, reduc atentia, reduce concentrarea, altereaza procesele cognitive, amnezie aterogena, hipotensiune, aritmii
+miastenia gravis (agraveaza boala), soferi, dispeceri, profesii care solicita atentie
+--
+--
+--
+--
+MEDAZEPAM
+Medicamente Hipno-Sedative-Tranchilizante|HST
+Benzodiazepine|BZD
+BZD anxiolitice/tranchilizante|BZD A/T
+insomnie, tulburari anxioase, aindrom de abstinenta la alcoolici, astm bronsic, cardiopatie ischemica, preanestezii
+efect anxiolitic (diminua starea de tensiune, anxietate, teama), efect sedativ/hipnotic, efect miorelaxant (scade tonusul muscular), efect anticonvulsivant, anestezic, efect euforizant usor, efecte CV,RESP
+sedare,toxicitate acuta, cronica, diminua performantele motorii, slabiciune musculara, reduc atentia, reduce concentrarea, altereaza procesele cognitive, amnezie aterogena, hipotensiune, aritmii
+miastenia gravis (agraveaza boala), soferi, dispeceri, profesii care solicita atentie
+--
+--
+--
+--
+TRIAZOLAM
+Medicamente Hipno-Sedative-Tranchilizante|HST
+Benzodiazepine|BZD
+BZD anxiolitice/tranchilizante|BZD A/T
+insomnie, tulburari anxioase, aindrom de abstinenta la alcoolici, astm bronsic, cardiopatie ischemica, preanestezii
+efect anxiolitic (diminua starea de tensiune, anxietate, teama), efect sedativ/hipnotic, efect miorelaxant (scade tonusul muscular), efect anticonvulsivant, anestezic, efect euforizant usor, efecte CV,RESP
+sedare,toxicitate acuta, cronica, diminua performantele motorii, slabiciune musculara, reduc atentia, reduce concentrarea, altereaza procesele cognitive, amnezie aterogena, hipotensiune, aritmii
+miastenia gravis (agraveaza boala), soferi, dispeceri, profesii care solicita atentie
+--
+--
+--
+--
+FLUNITRAZEPAM
+Medicamente Hipno-Sedative-Tranchilizante|HST
+Benzodiazepine|BZD
+BZD anxiolitice/tranchilizante|BZD A/T
+insomnie, tulburari anxioase, aindrom de abstinenta la alcoolici, astm bronsic, cardiopatie ischemica, preanestezii
+efect anxiolitic (diminua starea de tensiune, anxietate, teama), efect sedativ/hipnotic, efect miorelaxant (scade tonusul muscular), efect anticonvulsivant, anestezic, efect euforizant usor, efecte CV,RESP
+sedare,toxicitate acuta, cronica, diminua performantele motorii, slabiciune musculara, reduc atentia, reduce concentrarea, altereaza procesele cognitive, amnezie aterogena, hipotensiune, aritmii
+miastenia gravis (agraveaza boala), soferi, dispeceri, profesii care solicita atentie
+--
+--
+--
+--
+FLUMAZENIL
+Antagonist R GABA
+--
+--
+intoxicatia acuta cu BZD, postoperator dupa anestezia cu BZD, in encefalopatia portala
+blocheaza efectele BZD, dar nu si ale altor deprimante SNC
+--
+--
+--
+adm iv
+--
+--
+FENOBARBITALUL
+Barbiturice
+Barbiturice cu durata lunga de actiune
+Medicamente Hipno-Sedative|HS
+efect sedativ (in doze mici, in asociere cu alte substante), efect hipnotic (in doze mari, inlocuite cu BZD), epilepsie, convulsii neepileptice, inductia anesteziei generale
+efecte SNC- deprima SNC in dunctie de doza, la copii excitatia psihomotorie, efect anticonvulsivant, efect hipnotic (doze mari), efect euforizant
+sedare reziduala, excitabilitate psihomotorie paradoxala (copii), reactii alergice, toleranta, dependenta
+porfirii hepatice, IH,IR, tratament concomitent cu anticoagulante cumarinice, estrogeni, antidepresive (dozele ajustate)
+--
+efectul dureaza 8 ore
+cresc afinitatea GABA pt locul de legare pe R, faciliteaza si prelungesc efectele centrale GABA
+--
+AMOBARBITALUL
+Barbiturice
+Barbiturice cu durata medie de actiune
+Medicamente Hipno-Sedative|HS
+efect sedativ (in doze mici, in asociere cu alte substante), efect hipnotic (in doze mari, inlocuite cu BZD), epilepsie, convulsii neepileptice, inductia anesteziei generale
+efecte SNC- deprima SNC in dunctie de doza, la copii excitatia psihomotorie, efect anticonvulsivant, efect hipnotic (doze mari), efect euforizant
+sedare reziduala, excitabilitate psihomotorie paradoxala (copii), reactii alergice, toleranta, dependenta
+porfirii hepatice, IH,IR, tratament concomitent cu anticoagulante cumarinice, estrogeni, antidepresive (dozele ajustate)
+--
+efectul dureaza 2-7 ore
+cresc afinitatea GABA pt locul de legare pe R, faciliteaza si prelungesc efectele centrale GABA
+--
+CLICLOBARBITALUL
+Barbiturice
+Barbiturice cu durata medie de actiune
+Medicamente Hipno-Sedative|HS
+efect sedativ (in doze mici, in asociere cu alte substante), efect hipnotic (in doze mari, inlocuite cu BZD), epilepsie, convulsii neepileptice, inductia anesteziei generale
+efecte SNC- deprima SNC in dunctie de doza, la copii excitatia psihomotorie, efect anticonvulsivant, efect hipnotic (doze mari), efect euforizant
+sedare reziduala, excitabilitate psihomotorie paradoxala (copii), reactii alergice, toleranta, dependenta
+porfirii hepatice, IH,IR, tratament concomitent cu anticoagulante cumarinice, estrogeni, antidepresive (dozele ajustate)
+--
+efectul dureaza 2-7 ore
+cresc afinitatea GABA pt locul de legare pe R, faciliteaza si prelungesc efectele centrale GABA
+--
+PENTOBARBITALUL
+Barbiturice
+Barbiturice cu durata medie de actiune
+Medicamente Hipno-Sedative|HS
+efect sedativ (in doze mici, in asociere cu alte substante), efect hipnotic (in doze mari, inlocuite cu BZD), epilepsie, convulsii neepileptice, inductia anesteziei generale
+efecte SNC- deprima SNC in dunctie de doza, la copii excitatia psihomotorie, efect anticonvulsivant, efect hipnotic (doze mari), efect euforizant
+sedare reziduala, excitabilitate psihomotorie paradoxala (copii), reactii alergice, toleranta, dependenta
+porfirii hepatice, IH,IR, tratament concomitent cu anticoagulante cumarinice, estrogeni, antidepresive (dozele ajustate)
+--
+efectul dureaza 2-7 ore
+cresc afinitatea GABA pt locul de legare pe R, faciliteaza si prelungesc efectele centrale GABA
+--
+TIOPENTAL
+Barbiturice
+Barbiturice cu durata scurta de actiune
+Medicamente Hipno-Sedative|HS
+efect sedativ (in doze mici, in asociere cu alte substante), efect hipnotic (in doze mari, inlocuite cu BZD), epilepsie, convulsii neepileptice, inductia anesteziei generale
+efecte SNC- deprima SNC in dunctie de doza, la copii excitatia psihomotorie, efect anticonvulsivant, efect hipnotic (doze mari), efect euforizant
+sedare reziduala, excitabilitate psihomotorie paradoxala (copii), reactii alergice, toleranta, dependenta
+porfirii hepatice, IH,IR, tratament concomitent cu anticoagulante cumarinice, estrogeni, antidepresive (dozele ajustate)
+--
+anestezice locale
+cresc afinitatea GABA pt locul de legare pe R, faciliteaza si prelungesc efectele centrale GABA
+--
+ZOLPIDEM
+Compusi Z
+Medicamente Hipnotice
+--
+insomnie
+grabeste adormirea, creste durata somnului, Nu modifica stadiile somnului fiziologic
+--
+--
+10 mg/zi seara- maxim 10 zile
+--
+Nu are proprietati anticonvulsivante, miorelaxante sau anxiolitice, Nu dezvolta toleranta sau dedpendenta
+--
+ZOPICLONA
+Compusi Z
+Medicamente Hipnotice
+--
+insomnie
+Are efect hipnotic, sedativ, tranchilizant, miorelaxant și anticonvulsivant 
+gust metalic, iritabilitate (varstnici), agresivitate
+--
+7,5 mg/zi seara- maxim 10 zile
+--
+Nu are efect inductor enzimatic
+--
+ESZOPICLONA
+Compusi Z
+Medicamente Hipnotice
+--
+insomnia de mentinere
+nu produce toleranta si dependenta
+cefalee, xerostomie, tulburari de memorie
+--
+--
+se adm pe termen lung
+--
+--
+ZALEPLONA
+Compusi Z
+Medicamente Hipnotice
+--
+insomnia de inductie
+determina un somn asemanator celui fiziologic
+ameteli, cefalee, tulburari de memorie la varstnici, confuzie
+--
+--
+in insomnia de mentinere se recomanda cu mentiunea sa fie administrat la trezire
+eficacitate asemanatoare Zolpidemului si Zopiclonei
+--
+CLORPROMAZINA
+Medicamente antipsihotice
+Fenotiazine
+Neuroleptice tipice
+--
+efect halucinator- moderat, efect sedativ, efect antiautistic-slab, efect antemetic
+hipotensiune ortostatica, exagerarea efectelor farmacologice, tulburari extrapiramidale reversibile, acatisia, Boala Parkinson, reactiile distonice acute
+--
+--
+--
+--
+--
+CLOZAPINA
+Medicamente antipsihotice
+Neuroleptice atipice
+--
+schizofrenie, care nu raspund la tratament obisnuit
+efect ataractic (stare de indiferenta fata de stimulii din mediul extern), efect sedativ, efect antipsihotic-complex (scad tulburarile de gandire din schizofrenie, delir), efecte vegetative, endocrine, extrapiramiidale
+agranulocitoza, risc minim pt- diskinezii, tulburari motorii extrapiramidale
+--
+supraveghere hematologica
+--
+--
+--
+RISPERIDONA
+Medicamente antipsihotice
+Neuroleptice atipice
+--
+--
+efect atipic, efect sedativ slab, efect antipsihotic (scad tulburarile de gandire din schizofrenie, delir), efecte vegetative, endocrine, extrapiramiidale
+cefalee, insomnie, crestere in G, rar- tulburari extrapiramidale
+--
+--
+--
+--
+--
+OLANZAPINA
+Medicamente antipsihotice
+Neuroleptice atipice
+--
+--
+efect ataractic (stare de indiferenta fata de stimulii din mediul extern), efect sedativ, efect antipsihotic (scad tulburarile de gandire din schizofrenie, delir), efecte vegetative, endocrine, extrapiramiidale
+rar- tulburari extrapiramidale, exagerarea efectelor farmacologice, tulburari extrapiramidale reversibile, acatisia, Boala Parkinson, reactiile distonice acute
+--
+--
+--
+--
+--
+FENOTIAZINE CLASA
+Medicamente antipsihotice
+--
+--
+efect ataractic (stare de indiferenta fata de stimulii din mediul extern), efect sedativ, efect antipsihotic (scad tulburarile de gandire din schizofrenie, delir), efecte vegetative, endocrine, extrapiramiidale
+exagerarea efectelor farmacologice, tulburari extrapiramidale reversibile, acatisia, Boala Parkinson, reactiile distonice acute
+--
+--
+--
+--
+--
+--
+TIOXANTE CLASA
+Medicamente antipsihotice
+--
+--
+asemanator fenotiazinelor,efect ataractic (stare de indiferenta fata de stimulii din mediul extern), efect sedativ, efect antipsihotic (scad tulburarile de gandire din schizofrenie, delir), efecte vegetative, endocrine, extrapiramiidale
+mai bine suportat,exagerarea efectelor farmacologice, tulburari extrapiramidale reversibile, acatisia, Boala Parkinson, reactiile distonice acute
+--
+--
+--
+--
+--
+--
+FLUPENTIXOL
+Medicamente antipsihoticce
+Tioxantine
+--
+--
+proprietati antipsihotice, anxiolitice, sedative
+relativ bine suportat
+--
+--
+esterul sau decanoat- retard im la 3 saptamani
+--
+--
+BUTIROFENONE CLASA
+Medicamente antipsihotice
+--
+--
+efect ataractic (stare de indiferenta fata de stimulii din mediul extern), efect sedativ, efect antipsihotic (scad tulburarile de gandire din schizofrenie, delir), efecte vegetative, endocrine, extrapiramiidale
+exagerarea efectelor farmacologice, tulburari extrapiramidale reversibile, acatisia, Boala Parkinson, reactiile distonice acute
+--
+--
+--
+--
+--
+--
+NEUROLEPTICE clasa
+Medicamente antipsihotice
+--
+--
+efect ataractic (stare de indiferenta fata de stimulii din mediul extern), efect sedativ, efect antipsihotic (scad tulburarile de gandire din schizofrenie, delir), efecte vegetative, endocrine, extrapiramiidale
+exagerarea efectelor farmacologice, tulburari extrapiramidale reversibile, acatisia, Boala Parkinson, reactiile distonice acute
+--
+--
+--
+--
+--
+--
+QUETIAPINA
+Medicamente antipsihotice
+Neuroleptice atipice
+--
+manie
+eficace si in manie
+convulsii
+--
+--
+--
+--
+--
+ZIPRASIDONA
+Medicamente antipsihotice
+Neuroleptice atipice
+--
+schizofrenia, schizofrenia acuta
+--
+--
+--
+--
+injectabil maxim 3 zile
+--
+--
+ZOTEPINA
+Medicamente antipsihotice
+Neuroleptice atipice
+--
+--
+--
+--
+--
+--
+--
+--
+--
+ARIPIPRAZOL
+Medicamente antipsihotice
+Neuroleptice atipice
+--
+--
+--
+--
+--
+--
+--
+--
+--
+DIAZEPAM
+Medicamente Hipno-Sedative-Tranchilizante|HST
+BENZODIAZEPINE|BZD
+BZD anxiolitice/tranchilizante|BZD A/T
+insomnie, tulburari anxioase, sindrom de abstinenta la alcoolici, astm bronsic, cardiopatie ischemica, preanestezii
+efect anxiolitic (diminua starea de tensiune, anxietate, teama), efect sedativ/hipnotic, efect miorelaxant (scade tonusul muscular), efect anticonvulsivant, anestezic, efect euforizant usor, efecte CV, RESP
+sedare,toxicitate acuta, cronica, diminua performantele motorii, slabiciune musculara, reduc atentia, reduce concentrarea, altereaza procesele cognitive, amnezie aterogena, hipotensiune, aritmii
+miastenia gravis (agraveaza boala), soferi, dispeceri, profesii care solicita atentie
+--
+po, im, iv lent
+--
+Nu se amesteca cu alte medicamente, Nu se adauga in solutii perfuzabile
+SIMVASTATINA
+Hipolipemiante
+INHIBITORI DE HMG-COA REDUCTAZA|STATINE
+--
+Hiperlipidemie, Hiperlipidemie cu Hipercolesterolemie, Hipercolesterolemie
+este un promedicament activat dupa primul pasaj hepatic, legate de albumine
+Hepatotoxicitate, Miopatie, sindrom psudogripal, slabiciune musculara, dureri musculare intense
+sarcina
+20 mg/zi seara la culcare (LDL-C sa nu fie crescut)/ 40 mg-max 80 mg/zi
+--
+--
+in combinatie cu niacina sau fibrati NU se depaseste 20 mg/zi
+PRAVASTATINA
+Hipolipemiante
+INHIBITORI DE HMG-COA REDUCTAZA|STATINE
+--
+Hiperlipidemie, Hiperlipidemie cu Hipercolesterolemie, Hipercolesterolemie
+este un promedicament activat dupa primul pasaj hepatic, legate de albumine
+Hepatotoxicitate, Miopatie, sindrom psudogripal, slabiciune musculara, dureri musculare intense
+sarcina
+20 mg/zi, max 80 mg/zi seara
+--
+--
+--
+FLUVASTATIN
+Hipolipemiante
+INHIBITORI DE HMG-COA REDUCTAZA|STATINE
+--
+Hiperlipidemie, Hiperlipidemie cu Hipercolesterolemie, Hipercolesterolemie
+este un promedicament activat dupa primul pasaj hepatic, legate de albumine
+Hepatotoxicitate, Miopatie, sindrom psudogripal, slabiciune musculara, dureri musculare intense
+sarcina
+20 mg- max 80 mg/zi seara
+--
+--
+--
+ATORVASTATINA
+Hipolipemiante
+INHIBITORI DE HMG-COA REDUCTAZA|STATINE
+--
+Hiperlipidemie, Hiperlipidemie cu Hipercolesterolemie, Hipercolesterolemie
+eficacitatea cea mai mare in scaderea LDL-C, reduce TG cel mai mult
+Hepatotoxicitate, Miopatie, sindrom psudogripal, slabiciune musculara, dureri musculare intense
+sarcina
+10 mg/zi- max. 80 mg/zi
+--
+--
+--
+ROSUVASTATIN
+Hipolipemiante
+INHIBITORI DE HMG-COA REDUCTAZA|STATINE
+--
+Hiperlipidemie, Hiperlipidemie cu Hipercolesterolemie, Hipercolesterolemie
+este un promedicament activat dupa primul pasaj hepatic, legate de albumine
+Hepatotoxicitate, Miopatie, sindrom psudogripal, slabiciune musculara, dureri musculare intense
+sarcina
+5-10 mg/zi
+se poate administra in orice mom. al zilei
+NECESITA PRUDENTA
+--
+ACIDUL NICOTINIC
+Hipolipemiante
+--
+Vitamina Hidrosolubila
+crestere HDL, HDL, Hipercolesterolemie, severa in combinatie ci alte hipolipemiante
+produce scaderea tuturor lipidelor serice, efect Hipolipemiant (doze mari)
+Flushing, Flushing cu prurit, Hepatotoxicitate, guta, Hiperuricemie, dureri abdominale, alterarea tolerantei la glucoza
+Ulcer gastric, ulcer duodenal
+--
+dupa mese
+--
+--
+NIACINA
+Hipolipemiante
+--
+Vitamina Hidrosolubila
+crestere HDL, HDL, Hipercolesterolemie, severa in combinatie ci alte hipolipemiante
+produce scaderea tuturor lipidelor serice, efect Hipolipemiant (doze mari)
+Flushing, Flushing cu prurit, Hepatotoxicitate, guta, Hiperuricemie, dureri abdominale, alterarea tolerantei la glucoza
+Ulcer gastric, ulcer duodenal
+--
+dupa mese
+--
+--
+FENOFIBRATUL
+Hipolipemiante
+Fibrati
+--
+Hiperlipidemie, Hiperlipidemie familiala mixta, Hipertrigliceridemie severa, Hipertrigliceridemie
+se monitorizeaza LDL, efect uricozuric benefic pt cei cu Hiperuricemie
+bine suportat, tulburari dispeptice, miozita, scade libidoul
+IH, IR, sarcina
+--
+--
+--
+Prudenta la asocierea cu Anticoagulante Cumarinice
+GEMFIBROZIL
+Hipolipemiante
+Fibrati
+--
+Hiperlipidemie, Hiperlipidemie familiala mixta, Hipertrigliceridemie severa, Hipertrigliceridemie
+se monitorizeaza LDL,scade VLDL, scade LDL, creste HDL, scade TG
+--
+--
+--
+cpr 200, 400 mg
+--
+--
+BEZAFIBRAT
+Hipolipemiante
+Fibrati
+--
+dislipidemie, dislipidemie cu cresterea TG 
+se monitorizeaza LDL, scade TG, scade Colesterol
+--
+--
+600 mg de 2x/zi
+--
+--
+--
+COLESTIPOLUL
+Hipolipemiante
+Rasini
+Rasini schimbatoare de ioni
+Hiperlipidemie, Hiperlipidemie mixta (de electie), Hipercolesterol, Prurit la cei cu obstructie biliara
+scade colesterolul plasmatic total, insolubile in apa, nu se absorb, nu se metabolizeaza
+constipatie, flatulenta, (tulburari gastrointestinale), tulburari in absorbtia vitaminelor liposolubile A, D, E , K si a acidului folic
+--
+--
+Aspirina, Diureticele Tiazidice, Wafarina- nu se adm simultan
+--
+Interfera cu abs. intestinala a tetraciclinei si a digoxinei
+COLESTIRAMINA 
+Hipolipemiante
+Rasini
+Rasini schimbatoare de ioni
+Hiperlipidemie, Hiperlipidemie mixta (de electie), Hipercolesterol, Prurit la cei cu obstructie biliara
+scade colesterolul plasmatic total, insolubile in apa, nu se absorb, nu se metabolizeaza
+constipatie, flatulenta, (tulburari gastrointestinale), tulburari in absorbtia vitaminelor liposolubile A, D, E , K si a acidului folic
+--
+--
+Aspirina, Diureticele Tiazidice, Wafarina- nu se adm simultan
+--
+Interfera cu abs. intestinala a tetraciclinei si a digoxinei
+EZETIMIB
+Hipolipemiant
+Inhibitorii captarii Colesterolului
+--
+scade LDL-C (daca se asociaza cu statinele)
+inhibitia abs. intestinale a colesterolului de catre enterocite
+cefalee, diaree, mialgii
+--
+10 mg/zi
+NU se adm impreuna cu Colestiramina (impiedica abs. ezetimibului)
+--
+--
+RANITIDINA
+Antisecretori
+Antagonistii receptorilor H2|AH2
+--
+Ulcer gastro-doudenal, sindromul Zollinger-Ellison, esofagia de reflux
+Eficacitatea antihistaminicelor H2 este inferioara IPP
+Bine suportata, efect antiandrogenic nul
+--
+Se administreaza 300 mg/zi - doza unica in ulcerul activ si 150 mg pentru prevenirea recidivelor
+In hemoragiile digestive sau preoperator - se poate administra i.v.
+Blocheaza receptorii H2 si inhiba secretia gastrica acida si de pepsina. Scad secretia acida nocturna, factor determinant pentru procesul de vindecare a ulcerelor. Favorizeaza vindecarea ulcerului duodenal in ~ 4 saptamani si a celui gastric in 4 – 6 saptamani.
+--
+FAMOTIDINA
+Antisecretori
+Antagonistii receptorilor H2|AH2
+--
+Ulcer gastro-doudenal, sindromul Zollinger-Ellison, esofagia de reflux
+Eficacitatea antihistaminicelor H2 este inferioara IPP
+Bine suportata
+--
+Se administreaza 40 mg - doza unica in ulcerul gastro-duodenal activ si 20 mg pentru prevenirea recidivelor
+--
+Blocheaza receptorii H2 si inhiba secretia gastrica acida si de pepsina. Scad secretia acida nocturna, factor determinant pentru procesul de vindecare a ulcerelor. Favorizeaza vindecarea ulcerului duodenal in ~ 4 saptamani si a celui gastric in 4 – 6 saptamani.
+--
+NIZATIDINA
+Antisecretori
+Antagonistii receptorilor H2|AH2
+--
+Ulcer gastro-doudenal, sindromul Zollinger-Ellison, esofagia de reflux
+Eficacitatea antihistaminicelor H2 este inferioara IPP. Folosirea pe perioade lungi de timp a AH toleranta fata de efectul de inhibitie al secretiei gastrice. Se recomanda fie intreruperea tratamentului prin reducerea progresiva a dozelor si eventual, administrarea de antiacide la pacientii cu risc
+Toleranta
+--
+--
+--
+Blocheaza receptorii H2 si inhiba secretia gastrica acida si de pepsina. Scad secretia acida nocturna, factor determinant pentru procesul de vindecare a ulcerelor. Favorizeaza vindecarea ulcerului duodenal in ~ 4 saptamani si a celui gastric in 4 – 6 saptamani.
+--
+MISOPROSTOL
+Protectoare ale mucoasei gastrice|PMG
+--
+--
+Ulcer
+Se foloseste dupa folosirea AINS, pentru profilaxia ulcerului medicamentos. Scade secretia acida. Are efect protector fata de factorii agresivi care actioneaza asupra mucoasei. Favorizeaza procesele de vindecare a mucoasei gastrice si duodenale. Este INTERZIS la gravide
+diaree, colici, colici abdominale, declansarea avortului
+--
+Se administreaza 0,2 mg de 4 x / zi cat timp dureaza tratamentul cu AINS
+--
+--
+--
+SARURILE DE BISMUT
+Protectoare ale mucoasei gastrice|PMG
+--
+--
+--
+Precipita in prezenta HCl, adera de suprafata leziunilor ulceroase, are rol protector.
+greturi, innegrirea scunului
+IR, sarcina, nu se asociaza cu antiacide sau lapte
+--
+Administrat p.o., comprimate sau  solutie, cu o jumatate ora inainte de micul dejun si cina, timp de o luna
+--
+Actiune antibacteriana fata de HP
+ONDANSETRON
+Antivomitive
+Antagonisti ai receptorilor 5HT3|5HT3
+--
+Kinetoze, tratament adjuvant, varsaturi, greturi, afectiuni gastro-intestinale, afectiuni GI, Varsaturi postoperatorii
+Medicament care combate simptomatic voma. Actioneaza la nivelul formatiunilor centrale implicate in reflexul de voma: CV, TV si nucleii vestibulari. Efect antiemetic – de durata lunga. Proprietati antipsihotice si anxiolitice
+cefalee, ameteli, dureri musculare, constipatie
+Copii sub 4 ani. Nu se asociaza cu medicamente care prelungesc OT.
+Se administreaza i.v. 0.15 mg/kg, i.m., oral 32 de mg in 2-3 subdoze
+Se administreaza comprimate filmate, solutie injectabila, solutie orala
+--
+--
+GRANISETRON
+Antivomitive
+Antagonisti ai receptorilor 5HT3|5HT3
+--
+Kinetoze, tratament adjuvant, varsaturi, greturi, afectiuni gastro-intestinale, afectiuni GI, Varsaturi postoperatorii
+Medicament care combate simptomatic voma. Actioneaza la nivelul formatiunilor centrale implicate in reflexul de voma: CV, TV si nucleii vestibulari. Efect antiemetic – de durata lunga. Proprietati antipsihotice si anxiolitice
+cefalee, ameteli, dureri musculare, constipatie
+Copii sub 4 ani. Nu se asociaza cu medicamente care prelungesc OT.
+Se administreaza i.v. 10 micrograme/kg, 2 mg/zi oral
+Se administreaza comprimate filmate, solutie injectabila
+--
+--
+DOLASETRON
+Antivomitive
+Antagonisti ai receptorilor 5HT3|5HT3
+--
+Kinetoze, tratament adjuvant, varsaturi, greturi, afectiuni gastro-intestinale, afectiuni GI, Varsaturi postoperatorii
+Medicament care combate simptomatic voma. Actioneaza la nivelul formatiunilor centrale implicate in reflexul de voma: CV, TV si nucleii vestibulari. Efect antiemetic – de durata lunga. Proprietati antipsihotice si anxiolitice. Prelungeste intervalul QT
+cefalee, ameteli, dureri musculare, constipatie
+Copii sub 4 ani. Nu se asociaza cu medicamente care prelungesc OT.
+Se administreaza i.v. 1.8 mg/kg, 100 mg oral
+--
+--
+Nu se asociaza cu medicamente care prelungesc intervalul QT
+PALONOSETRON
+Antivomitive
+Antagonisti ai receptorilor 5HT3|5HT3
+--
+Kinetoze, tratament adjuvant, varsaturi, greturi, afectiuni gastro-intestinale, afectiuni GI, Varsaturi postoperatorii
+Medicament care combate simptomatic voma. Actioneaza la nivelul formatiunilor centrale implicate in reflexul de voma: CV, TV si nucleii vestibulari. Efect antiemetic – de durata lunga. Eficient in varsaturile tardive
+cefalee, ameteli, dureri musculare, constipatie
+Copii sub 4 ani. Nu se asociaza cu medicamente care prelungesc OT.
+Se administreaza i.v. 0.25 mg
+--
+--
+--
+CICLIZINA
+Antivomitive
+Antihistamice H1|AH1
+--
+varsaturi in kinetoze, kinetoze, varsaturi postoperatorii
+Efect antivomitiv redus. Efect anticolinergic.
+sedare, xerostomie, mictiuni, mictiuni dificile, tulburari de vedere
+Glaucom, adenom de prostata, disfunctii ale vezicii urinare
+--
+--
+--
+Folosite impreuna cu tranchilizante sau alcool, creste sedarea
+PROMETAZINA
+Antivomitive
+Antihistamice H1|AH1
+--
+varsaturi in kinetoze, kinetoze, varsaturi postoperatorii
+Efect antivomitiv redus. Fenotiazina cu proprietati antihistaminice
+sedare, xerostomie, mictiuni, mictiuni dificile, tulburari de vedere
+Glaucom, adenom de prostata, disfunctii ale vezicii urinare
+--
+--
+--
+Folosite impreuna cu tranchilizante sau alcool, creste sedarea
+ROMERGAN
+Antivomitive
+Antihistamice H1|AH1
+--
+varsaturi in kinetoze, kinetoze, varsaturi postoperatorii
+Efect antivomitiv redus. Fenotiazina cu proprietati antihistaminice
+sedare, xerostomie, mictiuni, mictiuni dificile, tulburari de vedere
+Glaucom, adenom de prostata, disfunctii ale vezicii urinare
+--
+--
+--
+Folosite impreuna cu tranchilizante sau alcool, creste sedarea
+DIFENHIDRAMINA
+Antivomitive
+Antihistamice H1|AH1
+--
+varsaturi in kinetoze, kinetoze, varsaturi postoperatorii
+Efect antivomitiv redus. Antihistaminic cu proprietati anticolinergice
+sedare, xerostomie, mictiuni, mictiuni dificile, tulburari de vedere
+Glaucom, adenom de prostata, disfunctii ale vezicii urinare
+--
+--
+--
+Folosite impreuna cu tranchilizante sau alcool, creste sedarea. Se poate folosi in combinatie cu alte antiemetice in varsaturile induse de chimioterapie
+TIETILPERAZINA
+Antivomitive
+Antagonisti ai receptorilor D2|AD2
+Fenotiazine
+kinetoze
+Medicament antipsihotic. Mecanism complex de actiune. Proprietati anticolinergice si antihistaminice
+tulburari extrapiramidale, sedare, reactii alergice cutanate, agranulocitoza
+Nu se asociaza cu alcool-ul
+Se administreaza 15 mg x 2-3 ori/zi, p.o., s.c., i.m.
+--
+--
+--
+PROCLORPERAZINA
+Antivomitive
+Antagonisti ai receptorilor D2|AD2
+Fenotiazine
+kinetoze
+Medicament antipsihotic. Mecanism complex de actiune. Proprietati anticolinergice si antihistaminice
+tulburari extrapiramidale, sedare, reactii alergice cutanate, agranulocitoza
+Nu se asociaza cu alcool-ul
+Se administreaza 15-30 mg/zi
+--
+--
+--
+EMETIRAL
+Antivomitive
+Antagonisti ai receptorilor D2|AD2
+Fenotiazine
+kinetoze
+Medicament antipsihotic. Mecanism complex de actiune. Proprietati anticolinergice si antihistaminice
+tulburari extrapiramidale, sedare, reactii alergice cutanate, agranulocitoza
+Nu se asociaza cu alcool-ul
+Se administreaza 15-30 mg/zi
+--
+--
+--
+CLORPROMAZINA
+Antivomitive
+Antagonisti ai receptorilor D2|AD2
+Fenotiazine
+kinetoze
+Medicament antipsihotic. Mecanism complex de actiune. Proprietati anticolinergice si antihistaminice
+tulburari extrapiramidale, sedare, reactii alergice cutanate, agranulocitoza
+Nu se asociaza cu alcool-ul
+Se administreaza 25-50 mg
+--
+--
+--
+HALOPERIDOL
+Antivomitive
+Antagonisti ai receptorilor D2|AD2
+Butirofenone
+varsaturi postoperatorii
+Efect antiemetic -> blocare dopaminergica centrala
+sedare, tulburari extrapiramidale, hTA, prelungirea intervalului QT, aritmii, aritmii fatale
+--
+--
+Se administreaza i.m., i.v.
+--
+--
+DROPERIDOL
+Antivomitive
+Antagonisti ai receptorilor D2|AD2
+Butirofenone
+varsaturi postoperatorii
+Efect antiemetic -> blocare dopaminergica centrala
+sedare, tulburari extrapiramidale, hTA, prelungirea intervalului QT, aritmii, aritmii fatale
+--
+--
+Se administreaza i.m., i.v.
+--
+--
+METOCLOPRAMID
+Antivomitive
+Antagonisti ai receptorilor D2|AD2
+Butirofenone
+varsaturi, varsaturi induse de chimioterapie, varsaturi postoperatorii, varsaturi induse de medicamente
+Benzamida substituita, derivat de PABA. Efect antiemetic si prokinetic
+tulburari extrapiramidale, diskinezie tardiva, distonii acute
+--
+Se administreaza 5-10 mg de 3 ori/zi oral, 10 mg i.v sau i.m. de 3-4 ori/zi, 10 mg rectal
+--
+Antagonist al receptorilor D2 de la nivelul TV. Actiune periferica prokinetica la nivelul portiunii. Absorbtie rapida dupa administrare orala. Timp 1/2 intre 4 - 6 ore. 
+--
+MOTILIUM
+Antivomitive
+Antagonisti ai receptorilor D2|AD2
+Butirofenone
+greturi, varsaturi, varsaturi induse de chimioterapie, afectiuni GI
+Nu traverseaza BHE. Efect antivomitiv
+--
+--
+Se administreaza 10-20mg x 3/zi
+--
+--
+--
+SCOPALAMINA
+Antivomitive
+M-Colinolitice|MCOL
+--
+kinetoze, varsaturi postoperatorii
+Proprietati M-Colinolitice, sedativ psihomotor intens. Eficace in voma si greata din raul de miscare. Cea mai eficienta medicatie in kinetoze
+uscaciunea gurii, sedare
+glaucom, adenom de prostata
+--
+--
+--
+--
+DRONABINOLUL
+Antivomitive
+Canabinoizii
+--
+varsaturi
+Eficace in voma produsa de citostatice. Stimuleaza apetitul
+tahicardie, hTA, ameteli, euforie, anxietate, atacuri de panica, tulburari de tip paranoid
+--
+--
+--
+--
+Legare de proteinele plasmatice – interactiuni medicamentoase
+NEBILONA
+Antivomitive
+Canabinoizii
+--
+varsaturi induse de chimioterapie, profilaxie
+Derivat canabinoid de sinteza. 
+tahicardie, hTA, ameteli, euforie, anxietate, atacuri de panica, tulburari de tip paranoid
+--
+Se administreaza 1-2mg p.o. - cu 3 ore inainte de chimioterapie, apoi la 8-12 ore timp de 2 zile
+--
+--
+Legare de proteinele plasmatice – interactiuni medicamentoase
+APREPITANT
+Antivomitive
+Antagonistii receptorilor pentru substanta P|ARSP
+--
+varsaturi induse de chimioterapie
+--
+--
+--
+Se administreaza 125 mg cu 1 ora anterior chimioterapiei in ziua 1, 80 mg/zi, ziua 2 si 3
+Daca se administreaza i.v. -> FOSAPREPITANT
+--
+Creste efectul altor antivomitive. Legare de proteinele plasmatice si metabolizare extensive hepatica-CYP3A4
+METILPREDNISOLON
+Antivomitive
+Corticosteroizi
+--
+varsaturi induse de chimioterapie, varsaturi induse de radioterapie
+In doze mari->efect antivomitiv, scaderea inflamatiei peritumorale si a productiei de PG
+--
+--
+--
+--
+--
+In asociere cu alte antiemetice – in varsaturile induse de chimio- si radioterapie
+DEXAMETAZONA
+Antivomitive
+Corticosteroizi
+--
+varsaturi induse de chimioterapie, varsaturi induse de radioterapie
+In doze mari->efect antivomitiv, scaderea inflamatiei peritumorale si a productiei de PG
+--
+--
+--
+--
+--
+In asociere cu alte antiemetice – in varsaturile induse de chimio- si radioterapie
+CORTIZONUL
+Hormoni Corticoizi
+Glucocorticoizi|GC
+--
+insuficienta corticosuprarenala
+--
+infectii, Ulcere gastrice, osteoporoza, HTA, Hipercorticism endogen
+--
+medicatie de substitutie
+oral, i.m. (suspensie)
+--
+--
+HIDROCORTIZON ACETAT
+Hormoni Corticoizi
+Glucocorticoizi topici|GCT
+--
+Boala Addison, Insuficienta corticosuprarenala acuta, sindrom Cushing, Hiperplazia congenitala a suprarenalei
+--
+--
+--
+25 mg/ml inj locale
+intraauricular, periarticular
+--
+--
+HIDROCORTIZONUL SODIU SUCCINAT
+Hormoni Corticoizi
+Glucocorticoizi|GC
+--
+urgente, soc, edem laringian, insuficienta respiratorie acuta, status astmaticus
+--
+--
+--
+soc 10-20 mg/kg- 500 mg-1g i.v. lent (repetat la nevoie)
+pt alte indicatii 100-200 mg
+--
+nu se amesteca cu alte medicamente, adaugata in sol. glucozate- folosita max 4 ore
+HIDROCORTIZON HEMISUCCINAT
+Hormoni Corticoizi
+Glucocorticoizi|GC
+--
+urgente, soc, edem laringian, insuficienta respiratorie acuta, status astmaticus
+--
+--
+--
+soc 10-20 mg/kg- 500 mg-1g i.v. lent (repetat la nevoie)
+pt alte indicatii 100-200 mg
+--
+nu se amesteca cu alte medicamente, adaugata in sol. glucozate- folosita max 4 ore
+HIDROCORTIZON SODIU FOSFAT
+Hormoni Corticoizi
+Glucocorticoizi|GC
+--
+urgente
+compus hidrosolubil
+--
+--
+--
+i.m sau  i.v
+--
+--
+PREDNISON
+Hormoni Corticoizi
+Glucocorticoid sintetic|GC
+--
+sustine organismul in situatii de criza
+efect antiinflamator, efect antialergic, durata mai lunga de actiune
+--
+--
+in acut- doze mari, se reduce treptat, in cronic- 10 mg 1/zi dimineata, in boli cronice se incepe cu o doza mica, creste treptat, scade treptat
+DOAR ORAL in aceleasi doze, aplicatii locale
+--
+--
+PREDNISON ACETAT
+Hormoni Corticoizi
+Glucocorticoid sintetic|GC
+--
+sustine organismul in situatii de criza
+efect antiinflamator, efect antialergic, durata mai lunga de actiune
+--
+--
+in acut- doze mari, se reduce treptat, in cronic- 10 mg 1/zi dimineata, in boli cronice se incepe cu o doza mica, creste treptat, scade treptat
+ORAL/Inj local- suspensii la niv ochilor si pielii
+--
+--
+PREDNISON SODIU SUCCINAT
+Hormoni Corticoizi
+Glucocorticoid sintetic|GC
+--
+urgente,sustine organismul in situatii de criza
+efect antiinflamator, efect antialergic, durata mai lunga de actiune
+--
+--
+in acut- doze mari, se reduce treptat, in cronic- 10 mg 1/zi dimineata, in boli cronice se incepe cu o doza mica, creste treptat, scade treptat
+preparate hidrosolubile, iv
+--
+--
+PREDNISON SODIU FOSFAT
+Hormoni Corticoizi
+Glucocorticoid sintetic|GC
+--
+urgente,sustine organismul in situatii de criza
+efect antiinflamator, efect antialergic, durata mai lunga de actiune
+--
+--
+in acut- doze mari, se reduce treptat, in cronic- 10 mg 1/zi dimineata, in boli cronice se incepe cu o doza mica, creste treptat, scade treptat
+preparate hidrosolubile, iv
+--
+--
+METILPREDNISOLON
+Hormoni Corticoizi
+Glucocorticoid|GC
+Derivat al prednisolonului
+urgente
+--
+--
+--
+--
+inj i.m, i.v
+--
+--
+METILPREDNISOLON ACETAT
+Hormoni Corticoizi
+Glucocorticoid|GC
+--
+--
+--
+insuficienta corticosuprarenala, corticodependenta (adm indelungata)
+--
+--
+inj i.m profund- preparat retard, pe perioade scurte
+--
+--
+METILPREDNISOLON SODIU SUCCINAT
+Hormoni Corticoizi
+Glucocorticoid|GC
+--
+urgente
+--
+--
+--
+--
+i.v sau i.m- solubil in apa
+--
+--
+TRIAMCINOLONA
+Hormoni Corticoizi
+Glucocorticoid|GC
+Derivat al Prednisolonului
+--
+fara efect de tip mineralocorticoid
+fara retentie hidrosalina, miopatie mai frecventa
+--
+4 mg triamcinolon= 5 mg prednisolon
+oral, i.m, injectabil local
+--
+--
+TRIAMCINOLONA DIACETAT
+Hormoni Corticoizi
+Glucocorticoid|GC
+Derivat al Prednisolonului
+--
+fara efect de tip mineralocorticoid
+fara retentie hidrosalina, miopatie mai frecventa
+--
+4 mg triamcinolon= 5 mg prednisolon
+oral, i.m, injectabil local
+--
+--
+TRIAMCINOLONA ACETONID
+Hormoni Corticoizi
+Glucocorticoid topic|GCT
+Derivat al Prednisolonului
+--
+fara efect de tip mineralocorticoid, efect prelungit
+fara retentie hidrosalina, miopatie mai frecventa
+--
+4 mg triamcinolon= 5 mg prednisolon
+suspensie apoasa, inj i.m, exista preparate dermatologice
+--
+--
+DEXAMETAZONA
+Hormoni Corticoizi
+Glucocorticoid|GC
+GC de sinteza
+test diagnostic pt hiperfunctia corticosuprarenala
+deprima continuu functia hipotalamo-hipofizo-corticosuprarenala, efect de lunga durata
+nu provoaca retentie hidrosalina
+nu este recomandata adm intelungata
+0,75 mg = 5 mg prednison
+i.v sau i.m, injectie locala
+--
+--
+DEXAMETAZONA SODIU FOSFAT
+Hormoni Corticoizi
+Glucocorticoid|GC
+Derivat hidrosolubil
+test diagnostic pt hiperfunctia corticosuprarenala
+--
+--
+--
+0,75 mg = 5 mg prednison
+i.v/i.m, injectare locala
+--
+--
+BETAMETAZONA
+Hormoni Corticoizi
+Glucocorticoid|GC
+Izomer al dexametazonei
+test diagnostic pt hiperfunctia corticosuprarenala
+deprima continuu functia hipotalamo-hipofizo-corticosuprarenala, efect de lunga durata
+nu provoaca retentie hidrosalina
+nu este recomandata adm intelungata
+0,75 mg = 5 mg prednison
+ORAL
+--
+--
+BETAMETAZONA SODIU FOSFAT
+Hormoni Corticoizi
+Glucocorticoid|GC
+Izomer al dexametazonei
+urgente
+derivat hidrosolubil
+nu provoaca retentie hidrosalina
+nu este recomandata adm intelungata
+0,75 mg = 5 mg prednison
+i.v sau i.m in urgente, oral si local, intraauricular (reduce durata terapiei cu AINS)
+--
+--
+BETAMETAZONA DIPROPINAT
+Hormoni Corticoizi
+Glucocorticoid|GC
+Izomer al dexametazonei
+urgente
+derivat hidrosolubil
+nu provoaca retentie hidrosalina
+nu este recomandata adm intelungata
+0,75 mg = 5 mg prednison
+i.v sau i.m in urgente, oral si local, intraauricular (reduce durata terapiei cu AINS)
+--
+--
+BETAMETAZONA ACETAT
+Hormoni Corticoizi
+Glucocorticoid|GC
+Izomer al dexametazonei
+urgente
+derivat hidrosolubil
+nu provoaca retentie hidrosalina
+nu este recomandata adm intelungata
+0,75 mg = 5 mg prednison
+i.v sau i.m in urgente, oral si local, intraauricular (reduce durata terapiei cu AINS)
+--
+--
+BECLOMETAZONA DIPROPIONAT
+Hormoni Corticoizi
+Glucocorticoizi Inhalatori|GCI
+--
+tratament de fond in astm bronsic, astm bronsic, AB
+reduce inflamatia, reduce frecventa si severitatea exacerbarilor, amelioreaza calitatea vietii
+disfonie, tuse, candidoze oro-faringiene (preventiv gargara)
+--
+50 micrograme/doza
+aerosoli
+--
+--
+BECLOMETAZONA
+Hormoni Corticoizi
+Glucocorticoizi Inhalatori|GCI
+--
+tratament de fond in astm bronsic, astm bronsic, AB
+reduce inflamatia, reduce frecventa si severitatea exacerbarilor, amelioreaza calitatea vietii
+disfonie, tuse, candidoze oro-faringiene (preventiv gargara)
+--
+50 micrograme/doza
+aerosoli
+--
+--
+BECLOMETAZONA
+Hormoni Corticoizi
+Glucocorticoizi Intranazali|GCIN
+--
+rinita alergica, RA cu obstructie nazala
+amelioreaza evidenta simptomelor nazale si conjunctivale
+iritatie nazala, epistaxis, intarzie cresterea la copii
+--
+50 micrograme/doza
+spray nazal
+--
+--
+MOMETAZONA
+Hormoni Corticoizi
+Glucocorticoizi Intranazali|GCIN
+--
+rinita alergica, RA cu obstructie azala
+amelioreaza evidenta simptomelor nazale si conjunctivale
+iritatie nazala, epistaxis, intarzie cresterea la copii
+--
+50 micrograme/doza
+aerosoli
+--
+--
+BUDESONID
+Hormoni Corticoizi
+Glucocorticoizi Intranazali|GCIN
+--
+rinita alergica, RA cu obstructie azala
+amelioreaza evidenta simptomelor nazale si conjunctivale
+iritatie nazala, epistaxis, intarzie cresterea la copii
+--
+50 micrograme/doza
+aerosoli
+--
+--
+FLUTICASONA PROPIONAT
+Hormoni Corticoizi
+Glucocorticoizi Intranazali|GCIN
+--
+rinita alergica, RA cu obstructie azala
+amelioreaza evidenta simptomelor nazale si conjunctivale
+iritatie nazala, epistaxis, intarzie cresterea la copii
+--
+50 micrograme/doza
+spray nazal
+--
+--
+FLUTICASONA FUROAT
+Hormoni Corticoizi
+Glucocorticoizi Intranazali|GCIN
+--
+rinita alergica, RA cu obstructie azala
+amelioreaza evidenta simptomelor nazale si conjunctivale
+iritatie nazala, epistaxis, intarzie cresterea la copii
+--
+27,5 micrograme/doza
+spray nazal
+--
+--
+FLUTICASONA
+Hormoni Corticoizi
+Glucocorticoizi Inhalatori|GCI
+--
+tratament de fond in astm bronsic, astm bronsic, AB
+reduce inflamatia, reduce frecventa si severitatea exacerbarilor, amelioreaza calitatea vietii
+disfonie, tuse, candidoze oro-faringiene (preventiv gargara)
+--
+--
+aerosoli
+--
+--
+TRIAMCINOLON ACETONID
+Hormoni Corticoizi
+Glucocorticoizi Inhalatori|GCI
+--
+tratament de fond in astm bronsic, astm bronsic, AB
+reduce inflamatia, reduce frecventa si severitatea exacerbarilor, amelioreaza calitatea vietii
+disfonie, tuse, candidoze oro-faringiene (preventiv gargara)
+--
+--
+aerosoli
+--
+--
+FLUNISOLID
+Hormoni Corticoizi
+Glucocorticoizi Inhalatori|GCI
+--
+tratament de fond in astm bronsic, astm bronsic, AB
+reduce inflamatia, reduce frecventa si severitatea exacerbarilor, amelioreaza calitatea vietii
+disfonie, tuse, candidoze oro-faringiene (preventiv gargara)
+--
+--
+aerosoli
+--
+--
+BUDESONIDA
+Hormoni Corticoizi
+Glucocorticoizi Inhalatori|GCI
+--
+tratament de fond in astm bronsic, astm bronsic, AB
+reduce inflamatia, reduce frecventa si severitatea exacerbarilor, amelioreaza calitatea vietii
+disfonie, tuse, candidoze oro-faringiene (preventiv gargara)
+--
+--
+aerosoli
+--
+--
+MOMETAZONA
+Hormoni Corticoizi
+Glucocorticoizi Inhalatori|GCI
+--
+tratament de fond in astm bronsic, astm bronsic, AB
+reduce inflamatia, reduce frecventa si severitatea exacerbarilor, amelioreaza calitatea vietii
+disfonie, tuse, candidoze oro-faringiene (preventiv gargara)
+--
+--
+aerosoli
+--
+--
+CICLESONID
+Hormoni Corticoizi
+Glucocorticoizi Inhalatori|GCI
+--
+tratament de fond in astm bronsic, astm bronsic, AB
+reduce inflamatia, reduce frecventa si severitatea exacerbarilor, amelioreaza calitatea vietii
+disfonie, tuse, candidoze oro-faringiene (preventiv gargara)
+--
+--
+aerosoli
+--
+--
+DEXAMETAZONA
+Hormoni Corticoizi
+Glucocorticoizi in Oftalmologie|GCO
+--
+afectiuni inflamatorii si alergice, inflamatii, alergii
+efect antiinflamator- impiedica procesul exudativ, scade infiltratia celulara, reduce permeabilitatea vasc
+mascheaza progresia infectiilor, creste presiunea intraoculara, Glaucom Cortizonic, Medrison, Fluorometolona
+keratita herpetica
+--
+gel oftalmic, pic, ung
+--
+--
+PREDNISOLON
+Hormoni Corticoizi
+Glucocorticoizi in Oftalmologie|GCO
+--
+afectiuni inflamatorii si alergice, inflamatii, alergii
+efect antiinflamator- impiedica procesul exudativ, scade infiltratia celulara, reduce permeabilitatea vasc
+mascheaza progresia infectiilor, creste presiunea intraoculara, Glaucom Cortizonic, Medrison, Fluorometolona
+keratita herpetica
+--
+gel oftalmic, pic, ung
+--
+--
+BETAMETAZONA
+Hormoni Corticoizi
+Glucocorticoizi in Oftalmologie|GCO
+--
+afectiuni inflamatorii si alergice, inflamatii, alergii
+efect antiinflamator- impiedica procesul exudativ, scade infiltratia celulara, reduce permeabilitatea vasc
+mascheaza progresia infectiilor, creste presiunea intraoculara, Glaucom Cortizonic, Medrison, Fluorometolona
+keratita herpetica
+--
+gel oftalmic, pic, ung
+--
+--
+FLUOROMETOLON
+Hormoni Corticoizi
+Glucocorticoizi in Oftalmologie|GCO
+--
+afectiuni inflamatorii si alergice, inflamatii, alergii
+efect antiinflamator- impiedica procesul exudativ, scade infiltratia celulara, reduce permeabilitatea vasc
+mascheaza progresia infectiilor, creste presiunea intraoculara, Glaucom Cortizonic, Medrison, Fluorometolona
+keratita herpetica
+--
+gel oftalmic, pic, ung
+--
+--
+HIDROCORTIZON BUTIRAT
+Hormoni Corticoizi
+Dermatocorticoizi
+GC cu potenta moderata|GCgrupaII
+LE discoid, psoriazis palmoplantar, pemfigus, vitiligo 
+actiune antiinflamatoare, actiune antiproliferativa
+acnee steroidiana, hipertricoza, toleranta, atrofie dermo-epidemica, modificari catabolice ale pielii
+--
+--
+crema, solutie cutanata
+--
+--
+FLUMETAZONA
+Hormoni Corticoizi
+Dermatocorticoizi
+GC cu potenta moderata|GCgrupaII
+LE discoid, psoriazis palmoplantar, pemfigus, vitiligo 
+actiune antiinflamatoare, actiune antiproliferativa
+acnee steroidiana, hipertricoza, toleranta, atrofie dermo-epidemica, modificari catabolice ale pielii
+--
+--
+crema, solutie cutanata
+--
+--
+TRIAMCINOLON
+Hormoni Corticoizi
+Dermatocorticoizi
+GC cu potenta moderata|GCgrupaII
+LE discoid, psoriazis palmoplantar, pemfigus, vitiligo 
+actiune antiinflamatoare, actiune antiproliferativa
+acnee steroidiana, hipertricoza, toleranta, atrofie dermo-epidemica, modificari catabolice ale pielii
+--
+--
+crema, solutie cutanata
+--
+--
+ACLOMETAZONA
+Hormoni Corticoizi
+Dermatocorticoizi
+GC cu potenta moderata|GCgrupaII
+LE discoid, psoriazis palmoplantar, pemfigus, vitiligo 
+actiune antiinflamatoare, actiune antiproliferativa
+acnee steroidiana, hipertricoza, toleranta, atrofie dermo-epidemica, modificari catabolice ale pielii
+--
+--
+crema, solutie cutanata
+--
+--
+BETAMETAZONA
+Hormoni Corticoizi
+Dermatocorticoizi
+--
+psoriazis, lichen plan, neurodermita, alopecie aerata, acnee chistica, Kelozii
+actiune antiinflamatoare, actiune antiproliferativa
+acnee steroidiana, hipertricoza, toleranta, atrofie dermo-epidemica, modificari catabolice ale pielii
+--
+--
+crema, solutie cutanata
+--
+--
+FLUOCORTOLON
+Hormoni Corticoizi
+Dermatocorticoizi
+--
+psoriazis, lichen plan, neurodermita, alopecie aerata, acnee chistica, Kelozii
+actiune antiinflamatoare, actiune antiproliferativa
+acnee steroidiana, hipertricoza, toleranta, atrofie dermo-epidemica, modificari catabolice ale pielii
+--
+--
+crema, solutie cutanata
+--
+--
+FLUOCINOLON ACETONID
+Hormoni Corticoizi
+Dermatocorticoizi
+GC cu potenta mare|GCgrupaIII
+psoriazis, lichen plan, neurodermita, alopecie aerata, acnee chistica, Kelozii
+actiune antiinflamatoare, actiune antiproliferativa
+acnee steroidiana, hipertricoza, toleranta, atrofie dermo-epidemica, modificari catabolice ale pielii
+--
+--
+crema, solutie cutanata
+--
+--
+FLUTICAZONA
+Hormoni Corticoizi
+Dermatocorticoizi
+GC cu potenta mare|GCgrupaIII
+psoriazis, lichen plan, neurodermita, alopecie aerata, acnee chistica, Kelozii
+actiune antiinflamatoare, actiune antiproliferativa
+acnee steroidiana, hipertricoza, toleranta, atrofie dermo-epidemica, modificari catabolice ale pielii
+--
+--
+crema, solutie cutanata
+--
+--
+METILPREDNISOLON ACEPONAT
+Hormoni Corticoizi
+Dermatocorticoizi
+GC cu potenta mare|GCgrupaIII
+psoriazis, lichen plan, neurodermita, alopecie aerata, acnee chistica, Kelozii
+actiune antiinflamatoare, actiune antiproliferativa
+acnee steroidiana, hipertricoza, toleranta, atrofie dermo-epidemica, modificari catabolice ale pielii
+--
+--
+crema, solutie cutanata
+--
+--
+MOMETAZONA
+Hormoni Corticoizi
+Dermatocorticoizi
+GC cu potenta mare|GCgrupaIII
+psoriazis, lichen plan, neurodermita, alopecie aerata, acnee chistica, Kelozii
+actiune antiinflamatoare, actiune antiproliferativa
+acnee steroidiana, hipertricoza, toleranta, atrofie dermo-epidemica, modificari catabolice ale pielii
+--
+--
+crema, solutie cutanata
+--
+--
+CLOBETASOL
+Hormoni Corticoizi
+Dermatocorticoizi
+GC cu potenta foarte mare|GCgrupaIV
+psoriazis, lichen plan, neurodermita, alopecie aerata, acnee chistica, Kelozii
+actiune antiinflamatoare, actiune antiproliferativa
+acnee steroidiana, hipertricoza, toleranta, atrofie dermo-epidemica, modificari catabolice ale pielii
+--
+--
+crema, solutie cutanata
+--
+--
+CORTICOTROFINA
+Hormoni Corticoizi
+Glucocorticoizi|GC
+--
+in scop diagnostic, Boala Addison, hipopituitarism
+pigmentarea pielii si lipoliza la niv tesutului adipos
+asemanatoare cu ale GC
+--
+25-50 U.I im/ 12,5-25 UI in perfuzie endovenoasa
+preparate retarda 40 UI/zi im
+--
+--
+TETRACOSACTIDUL
+Hormoni Corticoizi
+Glucocorticoizi|GC
+--
+diagnosticul insuficientei corticosuprarenale, Insuficienta CSR, CSR
+--
+--
+--
+--
+injectie i.m.
+--
+--
+ALDOSTERON
+MINERALOCORTICOIZI
+Hormoni Corticoizi
+Glucocorticoizi|GC
+--
+vasoconstrictie si fav remodelarea miocard
+Hiperaldosteronism
+--
+--
+--
+--
+--
+DEZOXICORTONUL ACETAT
+Hormoni Corticoizi
+Glucocorticoizi|GC
+--
+insuficienta suprarenala acuta, insuficienta suprarenala cronica, insuficienta renala, deshidratare marcata prin voma, diaree, postoperator
+potenta mai mica comparativ cu aldosteronul
+--
+--
+--
+--
+--
+--
+DEZOXICORTICOSTERONUL
+Hormoni Corticoizi
+Glucocorticoizi|GC
+--
+insuficienta suprarenala acuta, insuficienta suprarenala cronica, insuficienta renala, deshidratare marcata prin voma, diaree, postoperator
+potenta mai mica comparativ cu aldosteronul
+--
+--
+--
+--
+--
+--
+FLUDROCORTIZONUL
+Hormoni Corticoizi
+Glucocorticoizi|GC
+--
+insuficienta suprarenala cronica, insuficienta suprarenala cronica asociat cortizonului sau hidrocortizonului, sindrom ortostatic, hTA esentiala
+efecte de tip mineralocorticoid-puternice, efecte de tp glucocorticoid moderate
+--
+--
+0,1-0,3 mg/zi
+oral
+--
+--
+HEPARINA
+Anticoagulante
+Anticoagulante Directe
+--
+tromboze venoase profunde, TVP, Trombembolis pulmonar, curativ, IMA, Angina instabila, pacienti dializati, trombembolii la gravidele proezate valvular sau cu varice accentuate (profilactic)
+efect anticoagulant rapid si de durata scurta
+Hemoragii, mai ales dupa iv, Reactii de hipersensibilitate, Trombocitopenie, dupa 8 zile de trat, Trombembolism paradoxal, osteoporoza, alopecie, Hipoaldosteronism cu Hiperproteinemie
+sindrom Hemoragipar, ulcer gastro-duodenal activ, trombocitopenie, TBC activ, Endocardita bacteriana, AVC hemoragic,
+trombembolism venos- iv in bolus 5000 UI, apoi perfuzie continua 1.200-1.600 UI/h
+durata trat 4-5, maxim 10 in tromboze masive, sc- contraindicatii la anticoagulante orale
+--
+in caz de supradoza- Protamina Sulfat 1 mg pt 100 U.I heparina, adm iv lent
+HEPARINA STANDARD
+Anticoagulante
+Anticoagulante Directe
+--
+tromboze venoase profunde, TVP, Trombembolis pulmonar, curativ, IMA, Angina instabila, pacienti dializati, trombembolii la gravidele proezate valvular sau cu varice accentuate (profilactic)
+efect anticoagulant rapid si de durata scurta
+Hemoragii, mai ales dupa iv, Reactii de hipersensibilitate, Trombocitopenie, dupa 8 zile de trat, Trombembolism paradoxal, osteoporoza, alopecie, Hipoaldosteronism cu Hiperproteinemie
+sindrom Hemoragipar, ulcer gastro-duodenal activ, trombocitopenie, TBC activ, Endocardita bacteriana, AVC hemoragic,
+trombembolism venos- iv in bolus 5000 UI, apoi perfuzie continua 1.200-1.600 UI/h
+durata trat 4-5, maxim 10 in tromboze masive, sc- contraindicatii la anticoagulante orale
+--
+in caz de supradoza- Protamina Sulfat 1 mg pt 100 U.I heparina, adm iv lent
+HEPARINA NEFRACTIONATA
+Anticoagulante
+Anticoagulante Directe
+--
+tromboze venoase profunde, TVP, Trombembolis pulmonar, curativ, IMA, Angina instabila, pacienti dializati, trombembolii la gravidele proezate valvular sau cu varice accentuate (profilactic)
+efect anticoagulant rapid si de durata scurta
+Hemoragii, mai ales dupa iv, Reactii de hipersensibilitate, Trombocitopenie, dupa 8 zile de trat, Trombembolism paradoxal, osteoporoza, alopecie, Hipoaldosteronism cu Hiperproteinemie
+sindrom Hemoragipar, ulcer gastro-duodenal activ, trombocitopenie, TBC activ, Endocardita bacteriana, AVC hemoragic,
+trombembolism venos- iv in bolus 5000 UI, apoi perfuzie continua 1.200-1.600 UI/h
+durata trat 4-5, maxim 10 in tromboze masive, sc- contraindicatii la anticoagulante orale
+--
+in caz de supradoza- Protamina Sulfat 1 mg pt 100 U.I heparina, adm iv lent
+DALTEPARINA SODICA
+Anticoagulante
+Anticoagulante Directe
+Heparine cu greutate moleculara mica|GMMIC
+hemodializa, IMA, IMA asociat cu aspirina si trombolitice, Boli tromboembolice (profilactic)
+difera de heparina standard prin mecanism de actiune si proprietati farmacologice, actioneaza la niv factor Xa, efect anticoagulant
+Hemoragii, mai ales dupa iv, Reactii de hipersensibilitate, Trombocitopenie, dupa 8 zile de trat, Trombembolism paradoxal, osteoporoza, alopecie, Hipoaldosteronism cu Hiperproteinemie
+sindrom Hemoragipar, ulcer gastro-duodenal activ, trombocitopenie, TBC activ, Endocardita bacteriana, AVC hemoragic
+durata trat 4-5, maxim 10 in tromboze masive, sc- contraindicatii la anticoagulante orale
+--
+--
+--
+ENOXAPARINA
+Anticoagulante
+Anticoagulante Directe
+Heparine cu greutate moleculara mica|GMMIC
+hemodializa, IMA, IMA asociat cu aspirina si trombolitice, Boli tromboembolice (profilactic)
+difera de heparina standard prin mecanism de actiune si proprietati farmacologice, actioneaza la niv factor Xa, efect anticoagulant
+Hemoragii, mai ales dupa iv, Reactii de hipersensibilitate, Trombocitopenie, dupa 8 zile de trat, Trombembolism paradoxal, osteoporoza, alopecie, Hipoaldosteronism cu Hiperproteinemie
+sindrom Hemoragipar, ulcer gastro-duodenal activ, trombocitopenie, TBC activ, Endocardita bacteriana, AVC hemoragic
+durata trat 4-5, maxim 10 in tromboze masive, sc- contraindicatii la anticoagulante orale
+--
+--
+--
+ARDEPARINA
+Anticoagulante
+Anticoagulante Directe
+Heparine cu greutate moleculara mica|GMMIC
+hemodializa, IMA, IMA asociat cu aspirina si trombolitice, Boli tromboembolice (profilactic)
+difera de heparina standard prin mecanism de actiune si proprietati farmacologice, actioneaza la niv factor Xa, efect anticoagulant
+Hemoragii, mai ales dupa iv, Reactii de hipersensibilitate, Trombocitopenie, dupa 8 zile de trat, Trombembolism paradoxal, osteoporoza, alopecie, Hipoaldosteronism cu Hiperproteinemie
+sindrom Hemoragipar, ulcer gastro-duodenal activ, trombocitopenie, TBC activ, Endocardita bacteriana, AVC hemoragic
+durata trat 4-5, maxim 10 in tromboze masive, sc- contraindicatii la anticoagulante orale
+--
+--
+--
+NADROPARINA
+Anticoagulante
+Anticoagulante Directe
+Heparine cu greutate moleculara mica|GMMIC
+hemodializa, IMA, IMA asociat cu aspirina si trombolitice, Boli tromboembolice (profilactic)
+difera de heparina standard prin mecanism de actiune si proprietati farmacologice, actioneaza la niv factor Xa, efect anticoagulant
+Hemoragii, mai ales dupa iv, Reactii de hipersensibilitate, Trombocitopenie, dupa 8 zile de trat, Trombembolism paradoxal, osteoporoza, alopecie, Hipoaldosteronism cu Hiperproteinemie
+sindrom Hemoragipar, ulcer gastro-duodenal activ, trombocitopenie, TBC activ, Endocardita bacteriana, AVC hemoragic
+durata trat 4-5, maxim 10 in tromboze masive, sc- contraindicatii la anticoagulante orale
+--
+--
+--
+REVIPARINA
+Anticoagulante
+Anticoagulante Directe
+Heparine cu greutate moleculara mica|GMMIC
+hemodializa, IMA, IMA asociat cu aspirina si trombolitice, Boli tromboembolice (profilactic)
+difera de heparina standard prin mecanism de actiune si proprietati farmacologice, actioneaza la niv factor Xa, efect anticoagulant
+Hemoragii, mai ales dupa iv, Reactii de hipersensibilitate, Trombocitopenie, dupa 8 zile de trat, Trombembolism paradoxal, osteoporoza, alopecie, Hipoaldosteronism cu Hiperproteinemie
+sindrom Hemoragipar, ulcer gastro-duodenal activ, trombocitopenie, TBC activ, Endocardita bacteriana, AVC hemoragic
+durata trat 4-5, maxim 10 in tromboze masive, sc- contraindicatii la anticoagulante orale
+--
+--
+--
+TINZAPARINA
+Anticoagulante
+Anticoagulante Directe
+Heparine cu greutate moleculara mica|GMMIC
+hemodializa, IMA, IMA asociat cu aspirina si trombolitice, Boli tromboembolice (profilactic)
+difera de heparina standard prin mecanism de actiune si proprietati farmacologice, actioneaza la niv factor Xa, efect anticoagulant
+Hemoragii, mai ales dupa iv, Reactii de hipersensibilitate, Trombocitopenie, dupa 8 zile de trat, Trombembolism paradoxal, osteoporoza, alopecie, Hipoaldosteronism cu Hiperproteinemie
+sindrom Hemoragipar, ulcer gastro-duodenal activ, trombocitopenie, TBC activ, Endocardita bacteriana, AVC hemoragic
+durata trat 4-5, maxim 10 in tromboze masive, sc- contraindicatii la anticoagulante orale
+--
+--
+--
+FONDAPARINUX
+Anticoagulante
+Anticoagulante Directe
+Inhibitor sintetic al factorului Xa
+TVP, Tromboza venoasa profunda, TVP dupa chirurgia ortopedica,abd,pelvina profilactic, embolie pulmonara (curativ)
+--
+hemoragii, trombocitopenie, cresc transaminazele, infectii postoperatorii ale plagii
+IR SEVERA, IR (creatinina < 30 ml/min),risc de hemoragii severe, G< 50 kg, trombocitopenie, endocardita bacteriana
+1/zi
+NUMAI S.C. 
+--
+--
+LEPIRUDINA
+Anticoagulante
+Anticoagulane Directe
+Derivat
+trombocitopenie indus de heparina
+monitorizare APTT- 1,5-2,5 xVN- zilnic
+--
+prudenta la cei cu IR
+--
+iv
+--
+--
+BIVALIRUDINA
+Anticoagulante
+Anticoagulane Directe
+inhibitor direct de trombina
+alternativa heparinei la cei cu angioplastie coronariana, angioplastie coronariana
+--
+--
+--
+reducerea dozelor la cei cu IR moderat-severa
+--
+--
+--
+DANAPAROID
+Anticoagulante
+Anticoagulane Directe
+--
+profilaxia trombozelor venoase profunde la cei cu trombocitopenie indusa de heparina, TVP
+nu prelungeste TPTA la doze normale, Nu are antidot in caz de supradoza
+hemoragii, osteoporoza, reactii de hipersensibilizare, alopecie, trombembolism paradoxal
+--
+nu are antidot in caz de supradoza
+s.c sau i.v
+--
+--
+DABIGATRAN
+Anticoagulante
+Anticoagulane Directe
+Non-inferior Wafarinei
+profilaxia TVP dupa interventii ortopedice, TVP, tromboza venoasa profunda, prevenire AVC ischemic la cei cu IMA,AVC
+--
+--
+--
+150 mg 2x/zi sau 110 mg de 2x/zi >80 ani tratati cu Verapamil
+--
+--
+--
+RIVAROXABAN-XARELTO
+Anticoagulante
+Anticoagulane Directe
+inhibitor de factor Xa
+profilaxia TVP, AVC ischemic la pacientii cu Fia, tromboza venoasa profunda
+activ oral
+--
+--
+--
+nu necesita monitorizare de rutina
+--
+--
+APIXABAN
+Anticoagulante
+Anticoagulane Directe
+Inhibitor al factorului Xa
+--
+previne formarea trombinei si dezvoltarea trombilor
+--
+--
+--
+--
+--
+--
+WAFARINA
+Anticoagulante
+Anticoagulante Orale
+Anticoagulante Indirecte
+tromboze venoase extensive profunde, trombembolism pulmonar (dupa tratam cu heparina), Fia, IMA, bolnavi protezati valvular
+actioneaza ca antivitamine K
+Hemoragii severe, efect teratogen, hemoragii letale la fat, hemoragii
+sindrom hemoragipar, ulcer gastro-duodenal, HTA, AVC hemoragic, chirurgie oftalmica sau neurochirugie
+--
+oral
+--
+--
+WAFARINA
+Anticoagulante
+Anticoagulante Orale
+Derivati indandionici
+tromboze venoase extensive profunde, trombembolism pulmonar (dupa tratam cu heparina), Fia, IMA, bolnavi protezati valvular
+actioneaza ca antivitamine K
+Hemoragii severe, efect teratogen, hemoragii letale la fat, hemoragii
+sindrom hemoragipar, ulcer gastro-duodenal, HTA, AVC hemoragic, chirurgie oftalmica sau neurochirugie
+--
+oral
+--
+--
+ACENOCUMAROL
+Anticoagulante
+Anticoagulante Orale
+derivati cumarinici
+tromboze venoase extensive profunde, trombembolism pulmonar (dupa tratam cu heparina), Fia, IMA, bolnavi protezati valvular
+actioneaza ca antivitamine K
+Hemoragii severe, efect teratogen, hemoragii letale la fat, hemoragii
+sindrom hemoragipar, ulcer gastro-duodenal, HTA, AVC hemoragic, chirurgie oftalmica sau neurochirugie
+debut 24-38 de ore, se mentine 36-72 de ore dupa ulttima doza
+oral
+--
+--
+ACENOCUMAROL
+Anticoagulante
+Anticoagulante Orale
+Anticoagulante cumarinice
+tromboze venoase extensive profunde, trombembolism pulmonar (dupa tratam cu heparina), Fia, IMA, bolnavi protezati valvular
+actioneaza ca antivitamine K
+Hemoragii severe, efect teratogen, hemoragii letale la fat, hemoragii
+sindrom hemoragipar, ulcer gastro-duodenal, HTA, AVC hemoragic, chirurgie oftalmica sau neurochirugie
+debut 24-38 de ore, se mentine 36-72 de ore dupa ulttima doza
+oral
+--
+--
+ACENOCUMAROL
+Anticoagulante
+Anticoagulante Orale
+Anticoagulante Indirecte
+tromboze venoase extensive profunde, trombembolism pulmonar (dupa tratam cu heparina), Fia, IMA, bolnavi protezati valvular
+actioneaza ca antivitamine K
+Hemoragii severe, efect teratogen, hemoragii letale la fat, hemoragii
+sindrom hemoragipar, ulcer gastro-duodenal, HTA, AVC hemoragic, chirurgie oftalmica sau neurochirugie
+debut 24-38 de ore, se mentine 36-72 de ore dupa ulttima doza
+oral
+--
+--
+DICUMAROL
+Anticoagulante
+Anticoagulante Orale
+Anticoagulante Indirecte
+tromboze venoase extensive profunde, trombembolism pulmonar (dupa tratam cu heparina), Fia, IMA, bolnavi protezati valvular
+actioneaza ca antivitamine K
+Hemoragii severe, efect teratogen, hemoragii letale la fat, hemoragii
+sindrom hemoragipar, ulcer gastro-duodenal, HTA, AVC hemoragic, chirurgie oftalmica sau neurochirugie
+--
+oral
+--
+--
+DICUMAROL
+Anticoagulante
+Anticoagulante Orale
+Anticoagulante Cumarinice
+tromboze venoase extensive profunde, trombembolism pulmonar (dupa tratam cu heparina), Fia, IMA, bolnavi protezati valvular
+actioneaza ca antivitamine K
+Hemoragii severe, efect teratogen, hemoragii letale la fat, hemoragii
+sindrom hemoragipar, ulcer gastro-duodenal, HTA, AVC hemoragic, chirurgie oftalmica sau neurochirugie
+--
+oral
+--
+--
+DICUMAROL
+Anticoagulante
+Anticoagulante Orale
+Derivati cumarinici
+tromboze venoase extensive profunde, trombembolism pulmonar (dupa tratam cu heparina), Fia, IMA, bolnavi protezati valvular
+actioneaza ca antivitamine K
+Hemoragii severe, efect teratogen, hemoragii letale la fat, hemoragii
+sindrom hemoragipar, ulcer gastro-duodenal, HTA, AVC hemoragic, chirurgie oftalmica sau neurochirugie
+--
+oral
+--
+--
+ACIDUL ACETILSALICILIC
+Antiagregante plachetare
+--
+--
+prevenire, angina instabila, IMA, AVC
+efect antiagregant 7-10 zile, de lunga durata
+bine suportate, iritatie gastrica, reactii alergice, hemoragii (mai ales in asociere cu anticoagulante), simptome gastrointestintestinale dependente de doza
+--
+160-320 mg/zi-dozele mari nu ofera beneficii in plus
+adm dupa mese, preparate enterosolubile
+--
+impreuna cu anticoagulante det hemoragii
+ASPIRINA
+Antiagregante plachetare
+--
+--
+prevenire, angina instabila, IMA, AVC
+efect antiagregant 7-10 zile, de lunga durata
+bine suportate, iritatie gastrica, reactii alergice, hemoragii (mai ales in asociere cu anticoagulante), simptome gastrointestintestinale dependente de doza
+--
+160-320 mg/zi-dozele mari nu ofera beneficii in plus
+adm dupa mese, preparate enterosolubile
+--
+impreuna cu anticoagulante det hemoragii
+TICLOPIDINA
+Antiagregante plachetare
+--
+--
+profilaxia AVC, AVC tranzitoriu ischemic, AVC, post IMA (se poate da si aspirina), angioplastie coronariana, angioplastie coronariana percutana
+persista inca cateva zile dupa incetarea adm
+diaree, neutropenie, (reversibila), hemoragi, greturi, varsaturi, trombocitopenie, (reversibila)
+hemoragii, IH, Ulcer gastro-duodenal activ
+250 mg de 2x/zi
+--
+--
+--
+CLOPIDOGREL
+Antiagregante plachetare
+--
+--
+profilaxia AVC, AVC tranzitoriu ischemic, AVC, post IMA (se poate da si aspirina), angioplastie coronariana, angioplastie coronariana percutana
+eficacitate superioara ticlopidinei
+rush, diaree, neutropenie, mai rar
+sangerari active, sarcina, alaptare, hemoragii
+75 mg/zi in doza unica
+--
+inhiba citocromul P450
+--
+PRASUGREL
+Antiagregante plachetare
+--
+--
+sindrom coronarian acut, in asociere cu aspirina
+asemanator cu ticlopidina
+--
+--
+Nu prezinta variabilitate genetica a clopidogrelului
+--
+inhiba agregarea plachetara mai rapid si mai eficient comparativ cu clopidogrel
+se asociaza cu aspirina in sindromul coronarian acut
+TICAGRELOR
+Antiagregante plachetare
+--
+--
+sindrom coronarian acut, in asociere cu aspirina
+inhiba agregarea plachetara
+aritmii ventriculare (la inceputul tratam)
+--
+--
+--
+--
+--
+DIPIRIDAMOL
+Antiagregant plachetar
+--
+--
+cei cu proteze vasculare asociat cu anticoagulante orale
+eficacitate redusa ca antiagregant adm singur
+cefalee, greturi, varsaturi
+--
+--
+--
+--
+se asociaza cu aspirina
+ABCIXIMAB
+Antiagregant plachetar
+--
+--
+angioplastina coronara percutana, iv ca adjuvant, in asociere cu heparina si aspirina
+--
+sangerari mai ales daca exista risc de hemoragie sau se fol heparina
+--
+--
+--
+--
+se asociaza cu aspirina sau heparina
+VORAPAXAR
+Antagonist al receptorilor pentru Trombina
+Antagonisti ai receptorilor pentru Trombina
+--
+IMA in antecedente, impreuna cu Aspirina si clopidogrel
+activator al agregarii trombocitelor
+risc de sangerare
+--
+--
+--
+--
+--
+STREPTOKINAZA
+Fibrinolitice
+--
+--
+embolia pulmonara, precoce in IMA- recanalizarea coronarei trombozate, IMA, embolism pulmonar
+monitorizare Timpul de Trombina
+hemoragii, hTA, reactii alergice, rezistenta la Streptokinazai infectii streptococice repetate
+sangerari GI in ultimele 3 luni, HTA cu TA diastolic> 110 mmHg, Interventii chirurgicale in ultimele 10 zile, Trat cu Anticoagulante Orale sau heparina in ultimele 48 ore
+--
+--
+--
+--
+ANISTREPLASA
+Fibrinolitice
+APSAC
+--
+in loc de streptokinaza, dar mai scump
+efect mai durabil
+asemanatoare streptokinazei, hemoragii, hTA, reactii alergice, rezistenta la Streptokinazai infectii streptococice repetate
+--
+--
+i.v. in bolus, incidenta reocluziei coronare e scazuta
+--
+--
+ALTEPLAZA
+Fibrinolitice
+Activator tisular al plasminogenului|t-PTA
+--
+IMA, la cei care au mai primit streptokinaza si au titru de anticorpi ridicat, AVC ischemic- streptokinaza cotraindicata
+cost foarte mare
+--
+--
+--
+--
+selectivitate mai mare asupra fibrinei
+--
+UROKINAZA
+Fibrinolitice
+Activator tisular al plasminogenului|t-PTA
+--
+activeaza direct plasminogenul
+cost foarte ridicat
+--
+--
+--
+--
+--
+--
+Vit K
+Hemostatice cu actiune generala
+--
+--
+hemoragii provocate de deficit de vit K, profilaxia boli hemoragice la NN, hemoragii prin supradozare de anticoagulante orale, icter mecanic
+vit K1- fitomenadiona- utiliz terapeutic, K2- sinteza bacteriana de unii Gram +, Vit K3- menadiona sintetic
+vit K3- , anemie hemolitica, Hiperbilirubinemie, icter nuclear la NN mai ales la prematuri
+Vit K3- nu se da iv la copii
+1 microgram/kg/zi- ADULT, 10 micrograme/kg/zi-copil
+esentiale in sinteza unor factori ai coagularii
+implicata in metabolism osos, posibil duce la osteoporoza
+--
+APROTININA
+Antifibrinolitice
+Inhibarea fibrinolizei
+--
+Pancreatita acuta, prevenirea necrozei pancreatice, postoperator si posttraumatic
+opresc hemoragiile produse pirn exces de fibrinoliza
+--
+--
+--
+oral, i.v
+actioneaza ca inhibitor asupra activitatilor plasminogenului
+--
+ACIDUL TRANEXAMIC
+Antifibrinolitice
+Inhibarea fibrinolizei
+--
+melena, meno-metroragii, hematurie, extractii dentare, ciroza, prostatectomie, Pancreatita acuta, prevenirea necrozei pancreatice, postoperator si posttraumatic
+opresc hemoragiile produse pirn exces de fibrinoliza
+--
+--
+--
+oral sau inj
+inhibitor sintetic al fibrinolizei
+--
+ACIDUL AMINOCAPROIC
+Antifibrinolitice
+Inhibarea fibrinolizei
+--
+melena, meno-metroragii, hematurie, extractii dentare, ciroza, prostatectomie, Pancreatita acuta, prevenirea necrozei pancreatice, postoperator si posttraumatic
+opresc hemoragiile produse pirn exces de fibrinoliza
+la iv rapid-, hTA, bradicardie, aritmii
+cardiaci, IH, IR
+--
+iv
+--
+--
+CARBAZOCROMA
+Hemostatice care actioneaza prin cresterea rezistentei capilare
+--
+--
+dupa interventii chirurgicale, hemoragii digestive, meno-metroragii
+scurteaza timpul de sangerare si creste rezistenta capilarelor
+--
+--
+--
+--
+--
+--
+TROXERUTINUL
+Hemostatice care actioneaza prin cresterea rezistentei capilare
+--
+--
+boala varicoasa, tromboflebita, HTA, boala hemoroidala, Hemoragii retiniene, retinopatie diabetica
+capilarotrofic creste rezistenta vasculara a capilarelor
+greturi, varsaturi
+sarcina
+--
+--
+--
+--
+NUTRITIA PARENTERALA
+--
+--
+--
+Rezectie majora de intestin, pancreatita acuta severa, BII severa, Boala inflamatorie intestinala severa, ischemie mezenterica, IR, IH
+--
+Hiperglicemie, creste TG, Afectare Hepatica, Dextroza
+--
+dextroza adm rapid- creste consumul de O2, Creste TG la adm iv de lipide, Hiperglicemie la adm de dextroza
+glicemia= 140-180 mg/dl,TG= 400-500 mg/dl, afectarea hepatica- colestaza, creste transaminazele
+--
+Dextroza nu se adm simultan cu preparate din sange- fav aglutinarea hematiilor
+CLORURA DE SODIU
+Solutii de rehidratare
+Solutii saline
+--
+sudoratie excesiva, VN-Na= (145-Na)x G/2, Boala Addison
+--
+--
+--
+10-15 b NaCl/zi- Boala Addison
+oral
+--
+--
+NaCl
+Solutii de rehidratare
+Solutii saline
+--
+sudoratie excesiva, VN-Na= (145-Na)x G/2, Boala Addison
+--
+--
+--
+10-15 b NaCl/zi- Boala Addison
+oral
+--
+--
+SOLUTIA SALINA IZOTONA
+Solutii de rehidratare
+Solutii saline
+--
+soc hipovolemic, - cantitati de 2-3 ori pierdera
+contine clorura de natriu, NaCl, Ca si K 
+--
+--
+--
+Ringer lactat- contine un plus de sodiu sub forma de lactat pt a excesul de Cl
+--
+--
+SOLUTIA RINGER
+Solutii de rehidratare
+Solutii saline
+--
+completarea apei in conditii de deshidratare Hipertona, Deshidratare hipertona
+--
+--
+--
+Glucoza se metabolizeaza- 135 kCal/L solutie
+Solutie perfuzabila de clorura de sodiu si glucoza
+--
+--
+SOLUTIE SALINA HIPERTONA
+Solutii de rehidratare
+Solutii saline
+--
+stari de deficit de Na sever, deficit de Na, deficit de sodiu
+--
+--
+--
+contin NaCl, initial jumatate din cant de sodiu necesara, apoi se face reevaluarea
+solutie 5 la suta
+--
+--
+ALBUMINA
+Solutii de rehidratare
+Solutii coloidale
+--
+creste volum plasmatic, mentine DC in caz de deficit de fluide, soc, hemoragii, sindrom de detresa respiratorie
+--
+--
+--
+adm indiferent de grupa sg, reduce edemul
+iv- 5 la suta nediluat, nu se dilueaza in apa distilata pt preparate inh-- hemoliza
+--
+--
+DEXTRANII
+Solutii de rehidratare
+Solutii coloidale
+Albu
+Dextran 70,-soc hipovolemic, dupa adm- solutii electrolitice aditionale, interfera cu gr de sg, risc de coagulopatie- max 1 L, Dextran 40,- tulburari circ periferice
+--
+pot produce reactii adv
+Dextran 40 contraindicat in socul hipovolemic
+max 1 L- dextran 70
+--
+--
+--
+HAEMACCEL
+Gelatine Modificate
+--
+--
+eficienta mai redusa decat Dextran 70, soc hipovolemic
+tendinta mai redusa de complicatii hemoragice
+urticarie, soc anafilactic,tendinta mai redusa de complicatii hemoragice
+--
+--
+solutie 3.5 la suta de gelatina
+--
+--
+GELOFUSIN
+Gelatine Modificate
+--
+--
+eficienta mai redusa decat Dextran 70, soc hipovolemic
+tendinta mai redusa de complicatii hemoragice
+urticarie, soc anafilactic,tendinta mai redusa de complicatii hemoragice
+--
+--
+solutie 4 la suta de gelatina
+--
+--
+MASA ERITROCITARA
+Preparate din sange
+--
+--
+soc Hemoragic, Anemie fara hipovolemie
+din sangele integral dupa inlaturarea plasmei
+risc, comorbiditati, varsta pacient, protocoale
+--
+Hb= 7-9g la suta, Ht= 60-70 la suta
+1U MER= 1g la suta Ht
+--
+--
+PPC
+--
+--
+--
+Deficit de factori de coagulare, supradozare de ACO, Purpura trombocitopenica autoimuna, Deficit de colinesteraza
+congelata la -18 grade, separate de elem fig
+risc de transmitere infectii
+--
+adm dupa dezghetare, compatibilitate grup sg si Rh
+--
+stocare maaxim 1 an
+--
+PLASMA PROASPATA CONGELATA
+--
+--
+--
+Deficit de factori de coagulare, supradozare de ACO, Purpura trombocitopenica autoimuna, Deficit de colinesteraza
+congelata la -18 grade, separate de elem fig
+risc de transmitere infectii
+--
+adm dupa dezghetare, compatibilitate grup sg si Rh
+--
+stocare maaxim 1 an
+--
+MASA TROMBOCITARA
+Concentrate plasmatice
+--
+--
+--
+--
+--
+--
+adm in 3-5 zile de la recoltare, Trombocitopenii <50.000/ml
+necesita compatibilitate de grup sg
+--
+--
+CONCENTRAT DE LEUCOCITE
+--
+--
+--
+Infectii severe rezistente la antibiotic cu granulocite < 500/mm3
+din sange integral de la pacientii la care nr de leucocite a fost crescut-GCC
+--
+--
+--
+--
+--
+--
+CRIOPRECIPITATUL
+Concentrat de proteine plasmatice|CPP
+--
+--
+Deficite congenitale de fibrinogen, deficit de fibrinogen, boala Von Willenbrand
+necesita compatibilitate de gr sg
+risc de transmitere a infectiilor virale
+--
+--
+obtinut din PCC
+--
+--
+CHINIDINA
+Antiaritmice
+Antiaritmice clasa I A
+--
+aritmii, aritmii atriale, aritmii atrioventriculare, aritmii jonctionale, tahicardii ventriculare
+Restaurarea ritmului sinusal si a conducerii normale. Prevenirea evolutiei aritmiilor spre aritmii severe/letale
+toxicitate cardiaca, extrasistole ventriculare, tahicardie ventriculara, fibrilaţie ventriculara, scaderea auzului, cefalee, tulburari de vedere, dezorientare, fenomene psihotice, diaree, greturi, varsaturi
+--
+--
+--
+Blocant al canalelor de sodiu. Beta blocant – blocarea activitaţii simpatice asupra cordului. Blocant al canalelor de potasiu. Blocant al canalelor de calciu.
+--
+LIDOCAINA
+Antiaritmice
+Antiaritmice clasa I B
+--
+aritmii ventriculare(produse pe fond de ischemie miocardica: ex. infarct miocardic)
+Restaurarea ritmului sinusal si a conducerii normale. Prevenirea evolutiei aritmiilor spre aritmii severe/letale. Un anestezic local (Xilina+), cu proprietati antiaritmice
+parestezii, tremor, sedare, nistagmus, disartrie, agitaţie, confuzie, convulsii, aritmii, hTA
+--
+Ajustarea dozelor in insuficienţa hepatica.
+Se administreaza i.v. -> metabolizata extensiv la prima trecere prin ficat
+Blocant al canalelor de sodiu. Beta blocant – blocarea activitaţii simpatice asupra cordului. Blocant al canalelor de potasiu. Blocant al canalelor de calciu.
+Reprezentant LIDOCAINA CLORHIDRAT
+LIDOCAINA CLORHIDRAT
+Antiaritmice
+Antiaritmice clasa I B
+--
+aritmii ventriculare(produse pe fond de ischemie miocardica: ex. infarct miocardic)
+Restaurarea ritmului sinusal si a conducerii normale. Prevenirea evolutiei aritmiilor spre aritmii severe/letale. Un anestezic local (Xilina+), cu proprietati antiaritmice
+parestezii, tremor, sedare, nistagmus, disartrie, agitaţie, confuzie, convulsii, aritmii, hTA
+Se administreaza 1mg/kg in bolus, apoi perfuzie 1mg/min, max 2g/24h
+Se administreaza sol. 10mg/ml. Ajustarea dozelor in insuficienţa hepatica. 
+Se administreaza i.v. -> metabolizata extensiv la prima trecere prin ficat
+Blocant al canalelor de sodiu. Beta blocant – blocarea activitaţii simpatice asupra cordului. Blocant al canalelor de potasiu. Blocant al canalelor de calciu.
+--
+MEXILETINA
+Antiaritmice
+Antiaritmice clasa I B
+--
+dureri cronice, aritmii ventriculare(post infarct miocardic acut)
+Restaurarea ritmului sinusal si a conducerii normale. Prevenirea evolutiei aritmiilor spre aritmii severe/letale
+tremor, letargie, tulburari de vedere, dependenta
+--
+--
+Se administreaza oral in tratamentul cronic al aritmiilor ventriculare post infarct miocardic acut
+Blocant al canalelor de sodiu. Beta blocant – blocarea activitaţii simpatice asupra cordului. Blocant al canalelor de potasiu. Blocant al canalelor de calciu.
+--
+PROPAFENONA
+Antiaritmice
+Antiaritmice clasa I C
+--
+aritmiile supraventriculare
+Antiaritmic cu spectru ingust. Incetineste conducerea in toate tesuturile. Efect aritmogen
+gust metalic, constipatie, aritmii
+--
+--
+Se administreaza oral
+Blocant al canalelor de sodiu. Beta blocant – blocarea activitaţii simpatice asupra cordului. Blocant al canalelor de potasiu. Blocant al canalelor de calciu.
+--
+ESMOSOL
+Antiaritmice
+Antiaritmice clasa II
+Beta blocante
+tahicardii, flutter, fibrilatie atriala, ESV, aritmii acute, aritmii intraoperatorii
+Scad mortalitatea prin moarte subita post infarct miocardic acut. Control rapid al frecventei ventriculare in FiA.
+--
+--
+--
+--
+Beta 1 blocant
+--
+SOTALOL
+Antiaritmice
+Antiaritmice clasa II
+Beta blocante
+tahicardii, flutter, fibrilatie atriala, ESV
+Prelungeste durata potentialului de actiune - efect de clasa 3
+--
+--
+--
+--
+Beta blocant neselectiv
+--
+AMIODARONA
+Antiaritmice
+Antiaritmice clasa III
+--
+tahiaritmii supraventriculare, tahiaritmii ventriculare
+Efecte antiaritmice complexe caracteristice si altor antiaritmice. Antiaritmic cu spectru larg. Mentine ritmu sinusal dupa cardioversie
+fibroza pulmonara interstitiala, bradicardie, tremor, ataxie, ameteli, hipertiroidism, hipotiroidism, neuropatie, intoleranta gastrointestinala, constipatie, slabiciune musculara, colorarea pielii in gri-albastrui - acumulare de iod in tegumente, hTA, caldura, sudoratie
+Bradicardie sinusala, i.v. hTA, bloc atrioventricular, boli tiroidiene, gravide
+--
+Se poate administra oral, perfuzie, i.v.
+Absorbtie incompleta dupa administrare orala. La administrare i.v.-efect maxim in 15 minute si se mentine aproximativ 4 ore. Timp de injumatatire foarte lung (cateva saptamani). Eliminare prin scaun
+Cresterea concentratiei plasmatice a altor antiaritmice si a digoxinei
+DRONEDARONA
+Antiaritmice
+Antiaritmice clasa III
+--
+tahiaritmii supraventriculare, tahiaritmii ventriculare
+Efecte antiaritmice complexe caracteristice si altor antiaritmice. Antiaritmic cu spectru larg. Mentine ritmu sinusal dupa cardioversie. Efect antiadrenergic mai puternic decat al amiodaronei. Inhibitor al CYP3A, CYP2D6 si P-glycoprotein
+diaree, greturi, varsaturi, dureri abdominale, ameteli, prelungirea intervalului QT, 
+Bradicardie sinusala, i.v. hTA, bloc atrioventricular, boli tiroidiene, gravide
+--
+Se poate administra oral, perfuzie, i.v.
+Absorbtie incompleta dupa administrare orala. La administrare i.v.-efect maxim in 15 minute si se mentine aproximativ 4 ore. Timp de injumatatire foarte lung (cateva saptamani). Eliminare prin scaun
+Cresterea concentratiei plasmatice a altor antiaritmice si a digoxinei
+VERAPAMIL
+Antiaritmice
+Antiaritmice din clasa IV
+--
+aritmii atriale, aritmii ventriculare, tratamentul de electie al TPSV, tahicardie supraventriculara, fibrilatie arteiala, flutter atrial, angina pectorala, HTA
+Mai eficace in tratamentul aritmiilor atriale decat in cele ventriculare
+--
+Insuficienta cardiaca, Bloc atrioventricular de gradul II sau III, hTA, Boala nodului sinusal
+--
+In urgente se administreaza i.v. 5 mg lent apoi inca 5 mg dupa 10 minute sau in perfuzie 5-10 mg/ora pana la maxim 100 mg
+Se absoarbe dupa administrare orala in proportie mai mica. Metabolizare extensiva in ficat
+Nu se asociaza cu beta blocante decat cu prudenta
+IVABRADINA
+Antiaritmice
+--
+--
+--
+Reduce frecventa cardiaca. Alternativa beta blocantelor la pacientii cu contraindicatii sau reactii adverse la acestea
+--
+--
+--
+--
+--
+--
+DIGOXINA
+Antiaritmice
+--
+--
+tahiritmii supraventriculare
+--
+extrasistole ventriculare, tahicardie ventricula, fibrilatie ventriculara
+--
+--
+--
+--
+--
+FIER 
+Medicamente utilizate in tratamentul anemiilor
+--
+--
+anemii feriprive, profilaxia anemiei feriprive, gravide, sindrom de malapsorptie severa, copii in crestele intensa
+--
+intoxicatie acuta cu fier, scaun negru, tulburari de tranzit, diaree, colorarea in brun a dintilor
+anemie hemolitica, hemosideroza, hemocromatoza
+200 mg Fe, in deficite usoare 100 mg de Fe
+Uzual pe cale orala, foarte rar injectabil
+--
+NU se da alaturi de Vit. B12 si Acid Folic
+FIER DEXTRAN
+Medicamente utilizate in tratamentul anemiilor
+--
+--
+anemii feriprive, profilaxia anemiei feriprive, gravide, sindrom de malapsorptie severa, copii in crestele intensa
+--
+durere locala, colorarea in negru a tesuturilor, flebita, reactii anafilactiece
+anemie hemolitica, hemosideroza, hemocromatoza
+Totala in decurs de 6 - 8 ore
+Se administreaza i.m. profund in Z, perfuzie endovenoasa
+--
+NU se da alaturi de Vit. B12 si Acid Folic
+DEXTRIFERON
+Medicamente utilizate in tratamentul anemiilor
+--
+--
+anemii feriprive, profilaxia anemiei feriprive, gravide, sindrom de malapsorptie severa, copii in crestele intensa
+--
+durere locala, colorarea in negru a tesuturilor, flebita, reactii anafilactiece
+anemie hemolitica, hemosideroza, hemocromatoza
+Se mentine sub supraveghere timp de 30 min.
+Se administreaza i.m. sau i.v.
+--
+NU se da alaturi de Vit. B12 si Acid Folic
+SULFATUL FEROS
+Medicamente utilizate in tratamentul anemiilor
+--
+--
+de electie, defitit de fier, anemii feriprive, profilaxia anemiei feriprive, gravide, sindrom de malapsorptie severa, copii in crestele intensa
+Are absorbtie intestinala buna. Este mai ieftina
+febra, artralgii, greturi, varsaturi, dureri lombare, urticarie, bronhospasm , flebita, limfadenopatie, scaun negru
+anemie hemolitica, hemosideroza, hemocromatoza
+200 mg Fe, in deficite usoare 100 mg de Fe
+Numai pe cale orala
+--
+NU se da alaturi de Vit. B12 si Acid Folic
+ERITROPOETINA
+Medicamente utilizate in tratamentul anemiilor
+Factorii de crestere
+--
+anemii, anemia din SIDA, anemia din insuficienta renala cronica, anemia din cancer, anemia din boli inflamatorii cronice, anemia prematurului
+Cel mai important factor reglator al eritropoezei. 
+HTA, Cefalee, Dezorientare, convulsii, sindrom pseudogripal, greaturi, varsaturi, diaree, deficit de Fe
+--
+--
+--
+--
+--
+DARBAPOETINA ALFA
+Medicamente utilizate in tratamentul anemiilor
+Factorii de crestere
+--
+anemii, anemia din SIDA, anemia din insuficienta renala cronica, anemia din cancer, anemia din boli inflamatorii cronice, anemia prematurului
+Cel mai important factor reglator al eritropoezei. 
+HTA, Cefalee, Dezorientare, convulsii, sindrom pseudogripal, greaturi, varsaturi, diaree, deficit de Fe
+--
+--
+--
+--
+--
+EPOETINA ALFA
+Medicamente utilizate in tratamentul anemiilor
+Factorii de crestere
+--
+anemii, anemia din SIDA, anemia din insuficienta renala cronica, anemia din cancer, anemia din boli inflamatorii cronice, anemia prematurului
+Cel mai important factor reglator al eritropoezei. 
+HTA, Cefalee, Dezorientare, convulsii, sindrom pseudogripal, greaturi, varsaturi, diaree, deficit de Fe
+--
+Daca Ht creste prea rapid - reducerea dozei
+I.V., S.C. , intraperitoneal. Raspunsul: mai bun - s.c., mai rapid - i.v.
+--
+--
+GCSF
+Medicamente utilizate in tratamentul anemiilor
+Factorii de crestere
+Factorii de stimulare a coloniilor
+neutropie indusa de chimioterapie, neutropie, anemie plastica, sindrom mielodisplazic
+--
+Febra, Rash, dureri osoase, stare de rau, sindrom pseudogripal, dispnee, diaree, tahiaritmii supraventriculare, hepatita tranzitorie
+Atentie la pacientii cu leziuni pulmonare preexistente. Se monitorizeaza periodic Ht si trombocitele
+Se administreaza 5 g/kg/zi
+Administrate cu 24-72 de ore anterior chimioterapiei. Pacienti cu risc crescut de neutropenie, chimioterapie in doza mare
+--
+--
+GMCSF
+Medicamente utilizate in tratamentul anemiilor
+Factorii de crestere
+Factorii de stimulare a coloniilor
+neutropie indusa de chimioterapie, neutropie, anemie plastica, sindrom mielodisplazic
+--
+Febra, Rash, dureri osoase, stare de rau, sindrom pseudogripal, dispnee, diaree, tahiaritmii supraventriculare, hepatita tranzitorie
+Atentie la pacientii cu leziuni pulmonare preexistente. Se monitorizeaza periodic Ht si trombocitele
+Se administreaza 250 g/m2/zi
+Administrate cu 24-72 de ore anterior chimioterapiei. Pacienti cu risc crescut de neutropenie, chimioterapie in doza mare
+--
+--
+VIT B12
+Medicamente utilizate in tratamentul anemiilor
+Factorii de crestere
+--
+tratarea sau prevenirea deficitului acestei vitamine, anemie pernicioasa, profilaxia anemiei prin deficit de vitamina B12, gastrectomie totala
+Esentiale pentru sinteza de ADN si proliferarea celulara. Deficitul ei se numeste anemie megaloblastica
+anafilaxie(in administrare i.v.), intoxicatia cu cianura(la doze mari)
+--
+initial 100-1000 micrograme zilnic timp de doua saptamāni apoi 100-1000 micrograme lunar pe toata durata vietii
+Nu se administreaza i.v. -> cazuri mortale de anafilaxie
+--
+Nu se da impreuna cu Fe
+CIANCOBALAMINA
+Medicamente utilizate in tratamentul anemiilor
+Factorii de crestere
+--
+tratarea sau prevenirea deficitului acestei vitamine, anemie pernicioasa, profilaxia anemiei prin deficit de vitamina B12, gastrectomie totala
+Esentiale pentru sinteza de ADN si proliferarea celulara. Deficitul ei se numeste anemie megaloblastica
+anafilaxie(in administrare i.v.), intoxicatia cu cianura(la doze mari)
+--
+initial 100-1000 micrograme zilnic timp de doua saptamāni apoi 100-1000 micrograme lunar pe toata durata vietii
+Nu se administreaza i.v. -> cazuri mortale de anafilaxie
+--
+Nu se da impreuna cu Fe
+ACID FOLIC
+Medicamente utilizate in tratamentul anemiilor
+Factorii de crestere
+--
+anemii megaloblastice prin deficit de folati, toxicitate metotrexat, anemii hemolitice severe cronice, profilactic(prematuri)
+Esential pentru sinteza ADN - multiplicarea si maturarea celulara 
+--
+tumori maligne, tratament cu sulfamide sau alti antagonisti ai acidului folic
+Se administreaza oral, 5 mg/zi
+--
+--
+--
+SALBUTAMOL
+Bronhodilatatoare
+BetaAdrenomimeticele selective cu durata scurta de actiune|BADSA
+--
+criza, criza de astm bronic, astm bronsic
+la adm inhalator durrata efectului e ceva mai lunga
+tahicardie, tremor, palpitatii, aritmii, hipopotasemie,  crampe musculare, anxietate, cefalee
+--
+oral- 4-8 ,g de 3-4 ori/zi,  nebulizari- 2,5-5 mg de 4 ori/zi
+oral/ nebulizari-inhalator
+--
+--
+TERBUTALINA
+Bronhodilatatoare
+BetaAdrenomimeticele selective cu durata scurta de actiune|BADSA
+--
+status astmaticus,-sc
+debut mai lent in 2 ore la oral, inhalatorie, debut rapid, durata 4-6 ore
+tahicardie, tremor, palpitatii, aritmii, hipopotasemie,  crampe musculare, anxietate, cefalee
+--
+250 micrograme/doza- aerosoli
+inj. sau oral
+--
+--
+FENOTEROL
+Bronhodilatatoare
+BetaAdrenomimeticele selective cu durata scurta de actiune|BADSA
+--
+criza, astm bronsic
+durata mai lunga de actiune 6-8 ore
+tahicardie, tremor, palpitatii, aritmii, hipopotasemie,  crampe musculare, anxietate, cefalee
+--
+100-200 micrograme/doza
+aerosoli
+--
+se poate asocia cu Bromura de ipratropiu
+SALMETEROL
+Bronhodilatatoare
+Beta 2 Adrenomimetice cu durata lunga de actiune|BADLA
+--
+nu se fol in criza, profilaxia crizei
+actiune lunga si selectivitate crescuta
+tahicardie, tremor, palpitatii, aritmii, hipopotasemie,  crampe musculare, anxietate, cefalee
+--
+1 puff la 12 ore, 25 micrograme/doza aerosoli
+--
+--
+salmeterol  impreuna cu GCI in doze mici au efecte mai bune
+SALMETEROL XINAFOAT
+Bronhodilatatoare
+Beta 2 Adrenomimetice cu durata lunga de actiune|BADLA
+--
+nu se fol in criza, profilaxia crizei
+actiune lunga si selectivitate crescuta
+tahicardie, tremor, palpitatii, aritmii, hipopotasemie,  crampe musculare, anxietate, cefalee
+--
+1 puff la 12 ore, 25 micrograme/doza aerosoli
+--
+--
+salmeterol  impreuna cu GCI in doze mici au efecte mai bune
+FORMOTEROL
+Bronhodilatatoare
+Beta 2 Adrenomimetice cu durata lunga de actiune|BADLA
+--
+criza, criza de astm bronsic, profilaxia crizei, asociat cu GCI
+BADLA- Indacaterol, olodanterol, vilanterol
+tahicardie, tremor, palpitatii, aritmii, hipopotasemie,  crampe musculare, anxietate, cefalee
+--
+agonistii beta 2 cu unica adm/zi
+2x1 puff/zi, repetare la 12 ore
+--
+flexibilitate, asocierea cu M-colinolitice sau CSI
+INDACATEROL
+Bronhodilatatoare
+Beta 2 Adrenomimetice cu durata lunga de actiune|BADLA
+--
+criza, criza de astm bronsic, profilaxia crizei, asociat cu GCI
+Formoterol
+tahicardie, tremor, palpitatii, aritmii, hipopotasemie,  crampe musculare, anxietate, cefalee
+--
+agonistii beta 2 cu unica adm/zi
+2x1 puff/zi, repetare la 12 ore
+--
+flexibilitate, asocierea cu M-colinolitice sau CSI
+OLODANTEROL
+Bronhodilatatoare
+Beta 2 Adrenomimetice cu durata lunga de actiune|BADLA
+--
+criza, criza de astm bronsic, profilaxia crizei, asociat cu GCI
+Formoterol
+tahicardie, tremor, palpitatii, aritmii, hipopotasemie,  crampe musculare, anxietate, cefalee
+--
+agonistii beta 2 cu unica adm/zi
+2x1 puff/zi, repetare la 12 ore
+--
+flexibilitate, asocierea cu M-colinolitice sau CSI
+VILANTEROL
+Bronhodilatatoare
+Beta 2 Adrenomimetice cu durata lunga de actiune|BADLA
+--
+criza, criza de astm bronsic, profilaxia crizei, asociat cu GCI
+Formoterol
+tahicardie, tremor, palpitatii, aritmii, hipopotasemie,  crampe musculare, anxietate, cefalee
+--
+agonistii beta 2 cu unica adm/zi
+2x1 puff/zi, repetare la 12 ore
+--
+flexibilitate, asocierea cu M-colinolitice sau CSI
+BROMURA DE IPRATROPIUM
+Bronhodilatatoare
+Parasimpaticoliticele
+--
+rinita alergica, rinita vasomotorie, AB persistent,asociat cu beta 2 adrenomimetice, astm bronsic asociat cu bronsita cronica, astm bronsic psihogen, crize severe de AB, BPOC, astm bronsic
+actiune mai lenta decat beta 2 adrenomimeticele, dar mai lunga
+tahicardie, tremor, palpitatii, aritmii, hipopotasemie,  crampe musculare, anxietate, cefalee
+--
+adm 3-4 ori/zi
+spray nazal
+--
+beta 2 adrenomimetice
+BROMURA DE IPRATROPIUM
+Bronhodilatatoare
+M-colinolitice
+--
+rinita alergica, rinita vasomotorie, AB persistent,asociat cu beta 2 adrenomimetice, astm bronsic asociat cu bronsita cronica, astm bronsic psihogen, crize severe de AB, BPOC, astm bronsic
+actiune mai lenta decat beta 2 adrenomimeticele, dar mai lunga
+tahicardie, tremor, palpitatii, aritmii, hipopotasemie,  crampe musculare, anxietate, cefalee
+--
+adm 3-4 ori/zi
+spray nazal
+--
+beta 2 adrenomimetice
+BROMURA DE OXITROPIUM
+Bronhodilatatoare
+M-colinolitice
+--
+rinita alergica, rinita vasomotorie, AB persistent,asociat cu beta 2 adrenomimetice, astm bronsic asociat cu bronsita cronica, astm bronsic psihogen, crize severe de AB, BPOC, astm bronsic
+actiune mai lenta decat beta 2 adrenomimeticele, dar mai lunga
+tahicardie, tremor, palpitatii, aritmii, hipopotasemie,  crampe musculare, anxietate, cefalee
+--
+adm 3-4 ori/zi
+spray nazal
+--
+beta 2 adrenomimetice
+BROMURA DE ACLIDINIUM
+Bronhodilatatoare
+M-colinolitice
+--
+rinita alergica, rinita vasomotorie, AB persistent,asociat cu beta 2 adrenomimetice, astm bronsic asociat cu bronsita cronica, astm bronsic psihogen, crize severe de AB, BPOC, astm bronsic
+actiune mai lenta decat beta 2 adrenomimeticele, dar mai lunga
+tahicardie, tremor, palpitatii, aritmii, hipopotasemie,  crampe musculare, anxietate, cefalee
+--
+adm 3-4 ori/zi
+spray nazal
+--
+beta 2 adrenomimetice
+BROMURA DE GLICOPIRONIUM
+Bronhodilatatoare
+M-colinolitice
+--
+rinita alergica, rinita vasomotorie, AB persistent,asociat cu beta 2 adrenomimetice, astm bronsic asociat cu bronsita cronica, astm bronsic psihogen, crize severe de AB, BPOC, astm bronsic
+actiune mai lenta decat beta 2 adrenomimeticele, dar mai lunga
+tahicardie, tremor, palpitatii, aritmii, hipopotasemie,  crampe musculare, anxietate, cefalee
+--
+adm 3-4 ori/zi
+spray nazal
+--
+beta 2 adrenomimetice
+TEOFILINA
+Bronhodilatatoare
+Metil-Xantine
+--
+astm bronsic, BPOC, AB, care nu raspund la simpaticomimetice sau M-colinolitice sau GC, crize severe, iv, apneea prematurilor
+nu se recomanda schimbarea preparatelor intre ele
+hTA, nervozitate, insomnie, cefalee, anorexie, tahicardie, greturi, varssaturi
+epilepsie, IMA, cardiopatie ischemica, CI, prudenta la batrani si NN
+--
+oral, rar intrarectal
+--
+pot interactiona cu inductoare/inhibitoare enzimatice
+TEOFILINA
+Bronhodilatatoare
+Metil-Xantine
+--
+astm bronsic, BPOC, AB, care nu raspund la simpaticomimetice sau M-colinolitice sau GC, crize severe, iv, apneea prematurilor
+nu se recomanda schimbarea preparatelor intre ele
+hTA, nervozitate, insomnie, cefalee, anorexie, tahicardie, greturi, varssaturi
+epilepsie, IMA, cardiopatie ischemica, CI, prudenta la batrani si NN
+--
+oral, rar intrarectal
+--
+pot interactiona cu inductoare/inhibitoare enzimatice
+AMINOFILINA
+Bronhodilatatoare
+Metil-Xantine
+--
+crize severe, status astmaticus, astm bronsic, BPOC, AB, care nu raspund la simpaticomimetice sau M-colinolitice sau GC, crize severe, iv, apneea prematurilor
+nu se recomanda schimbarea preparatelor intre ele
+hTA, nervozitate, insomnie, cefalee, anorexie, tahicardie, greturi, varssaturi
+epilepsie, IMA, cardiopatie ischemica, CI, prudenta la batrani si NN
+in bolus 5-6 mg/kg, perfuzie 0,5 mg/kg/h, apoi se trece la oral
+i.v
+--
+monitorizare can apar RA, nu se obtine raspuns terapeutic, sunt posibile interactiuni medicamentoase
+AMINOFILINA
+Bronhodilatatoare
+Metil-Xantinele
+--
+crize severe, status astmaticus, astm bronsic, BPOC, AB, care nu raspund la simpaticomimetice sau M-colinolitice sau GC, crize severe, iv, apneea prematurilor
+nu se recomanda schimbarea preparatelor intre ele
+hTA, nervozitate, insomnie, cefalee, anorexie, tahicardie, greturi, varssaturi
+epilepsie, IMA, cardiopatie ischemica, CI, prudenta la batrani si NN
+--
+iv
+--
+monitorizare can apar RA, nu se obtine raspuns terapeutic, sunt posibile interactiuni medicamentoase
+HEMISUCCINAT DE HIDROCORTIZON
+Glucocorticoizi injectabili|GCINJ
+--
+--
+status astmaticus, crize severe, cei care prezinta varsaturi
+--
+--
+--
+4-6 mg/kg/doza, repetare la 4-6 ore
+i.v
+--
+--
+HEMISUCCINAT SODIU SUCCINAT
+Glucocorticoizi injectabili|GCINJ
+--
+--
+status astmaticus, crize severe, cei care prezinta varsaturi
+--
+--
+--
+1-2 mg/kg/doza,initial la 6 ore, apoi dupa primele 24h, 1-2 mg/kg/zi la 8-12 h
+i.v
+--
+--
+CROMOGLICATUL DISODIC
+Inhibitorii Degranularii Mastocitare|IDM
+--
+--
+rinita, rinita alergica, conjunctivita alergica
+eficacitate inferioara fata de GCI
+iritatie traheo-bronsica, gust neplacut, edem laringian, tuse, bronhospasm, cefalee, greata
+--
+--
+spray nazal
+--
+--
+ACIDUL CROMOGLICIC
+Inhibitorii Degranularii Mastocitare|IDM
+--
+--
+rinita, rinita alergica, conjunctivita alergica
+eficacitate inferioara fata de GCI
+iritatie traheo-bronsica, gust neplacut, edem laringian, tuse, bronhospasm, cefalee, greata
+--
+--
+spray nazal
+--
+--
+NEDOCROMILUL SODIC
+Inhibitorii Degranularii Mastocitare|IDM
+--
+--
+rinita alergica, conjunctivita alergica, rinita
+eficacitate superioara
+cefalee, gust amar, greata
+--
+--
+--
+--
+--
+KETOTIFEN
+Inhibitorii Degranularii Mastocitare|IDM
+Antihistaminice H1|AntiH1
+--
+--
+dupa 2-3 luni de trat
+sedare, somnolenta
+--
+--
+oral-mai ales la copii
+--
+--
+MONTELUKAST
+Modificatori de leucotriene|ML
+Antagonisti ai receptorilor pt leucotriene
+--
+crize de astm bronsic moderat, crize AB severe, profilactic in asociere cu antiinflam, controlul formelor usoare de astm broosnic asemanator GCI,
+efect antiinflamator, amelioreaza functia pulmonara, eficienta mai mica decat GCI
+eozinofilie sistemica, eozinofilie, vasculita
+nu se adm in tratamentul crizei
+--
+adm la cei care nu pot fol dispozitive inhalatorii, efecte sec la CSI, sau au rinita alergica
+blocheaza receptorii LT-LTC4-LTD4-LTE4
+--
+ZILEUTONUL
+Modificatori de leucotriene|ML
+Inhibitorii sintezei leucotrienelor|ISL
+--
+crize de astm bronsic moderat, crize AB severe, profilactic in asociere cu antiinflam, controlul formelor usoare de astm broosnic asemanator GCI,
+efect antiinflamator, amelioreaza functia pulmonara, eficienta mai mica decat GCI
+cresterea enzimelor
+nu se adm in tratamentul crizei
+--
+adm la cei care nu pot fol dispozitive inhalatorii, efecte sec la CSI, sau au rinita alergica
+inhiba 5- lipooxigenaza- calaizeaza formarea LT din acidul arahdonic
+--
+OMALIZUMAB
+Anti Ig E
+--
+--
+astm bronsic moderat, astm bronsic sever persistent, urticarie cronica idiopata, AB sever, AB moderat
+--
+foarte bine tolerat, reactii anafilactice
+copii <6 ani
+1 adm/luna, 6 luni in urticarie cronica idiopata
+s.c la 2-4 sapt
+--
+--
+AZELASTINA
+Antihistaminice H1
+Generatie noua
+--
+eficacitate discutabila in astm bronsic, astm bronsic
+efecte fav numai la ceii cu astm
+sedare, mai putin exprimata decat la antihistaminicele de generatie veche
+--
+--
+oral in bronsic cu rinita alergica
+--
+--
+AZELASTINA
+Antihistaminice H1 de Generatie noua
+--
+--
+eficacitate discutabila in astm bronsic, astm bronsic
+efecte fav numai la ceii cu astm
+sedare, mai putin exprimata decat la antihistaminicele de generatie veche
+--
+--
+oral in bronsic cu rinita alergica
+--
+--
+CETIRIZINA
+Antihistaminice H1
+Generatie noua
+--
+eficacitate discutabila in astm bronsic, astm bronsic
+efecte fav numai la ceii cu astm
+sedare, mai putin exprimata decat la antihistaminicele de generatie veche
+--
+--
+oral in bronsic cu rinita alergica
+--
+--
+CETIRIZINA
+Antihistaminice H1 de Generatie noua
+--
+--
+eficacitate discutabila in astm bronsic, astm bronsic
+efecte fav numai la ceii cu astm
+sedare, mai putin exprimata decat la antihistaminicele de generatie veche
+--
+--
+oral in bronsic cu rinita alergica
+--
+--
+LEVOCETIRIZINA
+Antihistaminice H1
+Generatie noua
+--
+eficacitate discutabila in astm bronsic, astm bronsic
+efecte fav numai la ceii cu astm
+sedare, mai putin exprimata decat la antihistaminicele de generatie veche
+--
+--
+oral in bronsic cu rinita alergica
+--
+--
+LEVOCETIRIZINA
+Antihistaminice H1 de Generatie noua
+--
+--
+eficacitate discutabila in astm bronsic, astm bronsic
+efecte fav numai la ceii cu astm
+sedare, mai putin exprimata decat la antihistaminicele de generatie veche
+--
+--
+oral in bronsic cu rinita alergica
+--
+--
+FEXOFENADINA
+Antihistaminice H1
+Generatie noua
+--
+eficacitate discutabila in astm bronsic, astm bronsic
+efecte fav numai la ceii cu astm
+sedare, mai putin exprimata decat la antihistaminicele de generatie veche
+--
+--
+oral in bronsic cu rinita alergica
+--
+--
+FEXOFENADINA
+Antihistaminice H1 de Generatie noua
+--
+--
+eficacitate discutabila in astm bronsic, astm bronsic
+efecte fav numai la ceii cu astm
+sedare, mai putin exprimata decat la antihistaminicele de generatie veche
+--
+--
+oral in bronsic cu rinita alergica
+--
+--
+LORATADINA
+Antihistaminice H1
+Generatie noua
+--
+eficacitate discutabila in astm bronsic, astm bronsic
+efecte fav numai la ceii cu astm
+sedare, mai putin exprimata decat la antihistaminicele de generatie veche
+--
+--
+oral in bronsic cu rinita alergica
+--
+--
+LORATADINA
+Antihistaminice H1 de Generatie noua
+--
+--
+eficacitate discutabila in astm bronsic, astm bronsic
+efecte fav numai la ceii cu astm
+sedare, mai putin exprimata decat la antihistaminicele de generatie veche
+--
+--
+oral in bronsic cu rinita alergica
+--
+--
+DESLORATADINA
+Antihistaminice H1
+Generatie noua
+--
+eficacitate discutabila in astm bronsic, astm bronsic
+efecte fav numai la ceii cu astm
+sedare, mai putin exprimata decat la antihistaminicele de generatie veche
+--
+--
+oral in bronsic cu rinita alergica
+--
+--
+DESLORATADINA
+Antihistaminice H1 de Generatie noua
+--
+--
+eficacitate discutabila in astm bronsic, astm bronsic
+efecte fav numai la ceii cu astm
+sedare, mai putin exprimata decat la antihistaminicele de generatie veche
+--
+--
+oral in bronsic cu rinita alergica
+--
+--
+OPIUL
+Antitusiv
+Opioide
+Antitusiv cu actiune centrala
+tusea din cancer, hemoptizie masiva, infarct pulmonar, pneumotorace, fracturi costale
+inhiba refluxul de tuse, deprima puternic centrul tusei
+bronhospasm, deprimare respiratie, ingrosare secretii, RA bronsice de dependenta
+--
+--
+--
+--
+--
+MORFINA
+Antitusiv
+Opioide
+Antitusiv cu actiune centrala
+tusea din cancer, hemoptizie masiva, infarct pulmonar, pneumotorace, fracturi costale
+inhiba refluxul de tuse, deprima puternic centrul tusei
+bronhospasm, deprimare respiratie, ingrosare secretii, RA bronsice de dependenta
+--
+--
+--
+--
+--
+CODEINA
+Antitusiv
+Opioide
+Antitusiv cu actiune centrala
+tusea din cancer, hemoptizie masiva, infarct pulmonar, pneumotorace, fracturi costale
+efect analgezic asemanator cu aspirina, efect antitusiv la doze mici
+vibratili, constipatie, scade miscarea cililor, deprima respiratia, convulsii la cei mici, uscarea secretilor bronsice
+astm bronsic, insuficienta respiratorie, marcata
+15 mg- 30 mg de 4 ori/zi
+--
+--
+--
+DEXTROMETORFAN
+Antitusiv
+Antitusiv cu actiune centrala
+Analog al codeinei
+tusea din cancer, hemoptizie masiva, infarct pulmonar, pneumotorace, fracturi costale
+efect analgezic asemanator cu aspirina, efect antitusiv la doze mici
+mai reduse decat la codeina, vibratili, constipatie, scade miscarea cililor, deprima respiratia, convulsii la cei mici, uscarea secretilor bronsice
+astm bronsic, insuficienta respiratorie, marcata
+10 mg- 30 mg de 4-6 ori/zi
+doze mari deprima SNC
+--
+--
+OXELADINA
+Antitusiv
+Derivati non-opioizi
+--
+tusea patologica
+nu are actiune sedativa, de deprimare a respir, analgezica, nu provoaca dependenta si nici constipatie
+risc de reactii adv si risc de dependenta
+--
+40 mg de 2-3 ori/zi
+oral
+--
+--
+EXPECTORANTE
+Antitusiv
+Sistem Mucociliar
+--
+afectiuni bronhopulmonare cu sputa vascoasa, BPOC, mucoviscidoza, bronsite acute, bronsite cronice
+conditioneaza aerul care patrunde in plamani
+--
+nu se asociaza cu antitusivele expectorante
+--
+--
+--
+--
+MUCOLITICE
+Antitusiv
+Sistem Mucociliar
+--
+afectiuni bronhopulmonare cu sputa vascoasa, BPOC, mucoviscidoza, bronsite acute, bronsite cronice
+conditioneaza aerul care patrunde in plamani
+--
+nu se asociaza cu antitusivele expectorante
+--
+--
+--
+--
+GUAIACOLUL
+Antitusiv
+Expectorante secreto-stimulante
+--
+tuse patologica
+intra in compozitia unor preparate expectorante
+iritatie gastrica, sedare
+--
+--
+--
+--
+--
+GUAIAFENESINA
+Antitusiv
+Expectorante secreto-stimulante
+--
+tuse patologica
+intra in compozitia unor preparate expectorante
+iritatie gastrica, sedare
+--
+--
+--
+--
+-- 
+COLDREX
+Antitusiv
+Expectorante secreto-stimulante
+--
+tuse patologica
+intra in compozitia unor preparate expectorante
+iritatie gastrica, sedare
+--
+--
+--
+--
+--
+SARURILE DE AMONIU
+Antitusiv
+Expectorante secreto-stimulante
+--
+tuse patologica
+intra in compozitia unor preparate expectorante
+iritatie gastrica, sedare
+--
+--
+--
+--
+--
+SARURILE DE SODIU
+Antitusiv
+Expectorante secreto-stimulante
+--
+tuse patologica
+intra in compozitia unor preparate expectorante
+iritatie gastrica, sedare
+--
+--
+--
+--
+--
+SARURILE DE K
+Antitusiv
+Expectorante secreto-stimulante
+--
+tuse patologica
+intra in compozitia unor preparate expectorante
+iritatie gastrica, sedare
+--
+--
+--
+--
+--
+ACETILCISTEINA
+Secretolitice
+--
+--
+BPOC, Ifectii bronhopilmonare, Mucoviscidoza, Intoxicatia acuta cu PARACETAMOL(perfuzie lenta)
+scade vascozitatea expectoratiei, fav elim ei
+bronhospasm, diaree, fluidificarea brutala a secretiilor, greata, voma
+astm, bolnavii incapabili sa expectoreze
+200 mg de 2 ori/zi la adult, 100 mg de 2x/zi la copii,
+i.m, i.v, nebulizari
+--
+Nu se amesteca in solutie cu alte med, aparatele de aerosoli sa nu aibe fier, cupru sau cauciuc
+BROMHEXIN
+Secretolitice
+--
+--
+BPOC, Ifectii bronhopilmonare, Mucoviscidoza, Intoxicatia acuta cu PARACETAMOL(perfuzie lenta)
+scad vascozitatea sputei, stimuleaza sinteza de sialomucine, fenom primului pasaj hepatic
+greturi(rar)
+--
+8-16 mg de 3 ori/zi
+inhalatii, i.v, i.m
+--
+--
+AMBROXOLUL
+Secretolitice
+--
+metabolit al Bromhexinei
+profilactic in, sindromul de detresa respiratorie la NN cu G mica la nastere
+scade vascozitatea secretiilor traheobronsice si accelereaza transportul mucociliar
+greturi(rar), bronhospasm
+sarcina, alaptare
+30 mg de 2-3 ori/ zi
+oral, inhalatii po det bronhospasma, inj
+--
+--
+XILOMETAZOLINA
+Decongestionante nazale
+--
+--
+rinita cronica, alergii, sinuzita, infectii ale cailor respiratorii sperioare
+vasoconstrictoare locale cu actiune prelungita
+mai putine, agitatie, insomnie, tremor, iritatia mucoasei nazale, uscaciunea mucoasei nazale
+aritmii, HTA, Prostata, Hipertiroidism
+--
+se pot adm la sugar si copii mici diluate 0,05 la suta
+--
+adm topica a simpaticomimeticelor det congestie de rebound
+OXIMETAZOLINA
+Decongestionante nazale
+--
+--
+rinita cronica, alergii, sinuzita, infectii ale cailor respiratorii sperioare
+vasoconstrictoare locale cu actiune prelungita
+agitatie, insomnie, tremor, iritatia mucoasei nazale, uscaciunea mucoasei nazale
+aritmii, HTA, Prostata, Hipertiroidism
+--
+--
+--
+adm topica a simpaticomimeticelor det congestie de rebound
+NAFAZOLINA
+Decongestionante nazale
+--
+--
+rinita cronica, alergii, sinuzita, infectii ale cailor respiratorii sperioare
+efecte alfa adrenomimetice, vasoconstrictie prelungita si scade permeabilitatea capilara
+tahifilaxie, congestie de rebounf, hTA, tahicardie, agitatie, insomnie, tremor, iritatia mucoasei nazale, uscaciunea mucoasei nazale
+aritmii, HTA, Prostata, Hipertiroidism
+dupa aplicarea prelungita >7 zile- det tulburari trofice
+--
+--
+adm topica a simpaticomimeticelor det congestie de rebound
+PRUCALOPRID
+Prokinetice
+Agonistii receptorilor pentru serotenina|ARS
+--
+constipatie cronica
+--
+greturi, diaree, cefalee, dureri abdominale
+--
+--
+--
+--
+--
+LOPERAMID
+Prokinetice
+Antidiareic
+--
+diaree acuta, diaree cronica, diareea calatorilor, ileostomie, diaree
+Actioneaza asupra receptorilor opioizi. Efect antidiareic intens si de lunga durata. Creste si tonusul sfincterului anal
+greturi, varsaturi, deprimarea SNC(la doze mari), ileus paralitic
+ileus paralitic, copii < 2 ani sarcina si lactatie, diareea febrila, scaunele cu sange, febra
+Oral 4 mg initial apoi cate 2 mg dupa fiecare scaun diareic (maxim 16 mg/zi)
+Capsule 2 mg, sol. orala 0,02%
+--
+--
+IMODIUM
+Prokinetice
+Antidiareic
+--
+diaree acuta, diaree cronica, diareea calatorilor, ileostomie, diaree
+Actioneaza asupra receptorilor opioizi. Efect antidiareic intens si de lunga durata. Creste si tonusul sfincterului anal
+greturi, varsaturi, deprimarea SNC(la doze mari), ileus paralitic
+ileus paralitic, copii < 2 ani sarcina si lactatie, diareea febrila, scaunele cu sange, febra
+Oral 4 mg initial apoi cate 2 mg dupa fiecare scaun diareic (maxim 16 mg/zi)
+Capsule 2 mg, sol. orala 0,02%
+--
+--
+RACECADOTRIL
+Prokinetice
+Antidiareic
+Inhibitori ai enkefalinelor|IEK
+diaree acuta(perioada maxim 7 zile)
+Inhiba degradarea enkefalinelor. Nu are efect asupra SNC. Este un prodrug
+constipatie(mai rar decat la Loperamid)
+--
+--
+--
+--
+--
+METILCELULOZA
+Tratamentul pentru constipatie
+Laxativ de volum
+--
+constipatie
+Creste volumul continutului intestinal si stimuleaza peristaltitismul
+flatulenta, lipsite de toxicitate sistemica
+ileus mechanic, abces abdominal, perforatie abdominala, colita ulcerativa, abdomen acut de etiologie necunoscuta
+2g x 3/zi
+Se consuma cu multe lichide (apa)
+--
+--
+CARBOXIMETILCELULOZA
+Tratamentul pentru constipatie
+Laxativ de volum
+--
+constipatie
+Creste volumul continutului intestinal si stimuleaza peristaltitismul
+flatulenta, lipsite de toxicitate sistemica
+ileus mechanic, abces abdominal, perforatie abdominala, colita ulcerativa, abdomen acut de etiologie necunoscuta
+2g x 3/zi
+Se consuma cu multe lichide (apa)
+--
+--
+TRITICUM
+Tratamentul pentru constipatie
+Laxativ de volum
+--
+constipatie
+Creste volumul continutului intestinal si stimuleaza peristaltitismul
+flatulenta, lipsite de toxicitate sistemica
+ileus mechanic, abces abdominal, perforatie abdominala, colita ulcerativa, abdomen acut de etiologie necunoscuta
+2-4 linguri/zi
+Se consuma cu multe lichide (apa)
+--
+--
+TARATE
+Tratamentul pentru constipatie
+Laxativ de volum
+--
+constipatie
+Creste volumul continutului intestinal si stimuleaza peristaltitismul
+flatulenta, lipsite de toxicitate sistemica
+ileus mechanic, abces abdominal, perforatie abdominala, colita ulcerativa, abdomen acut de etiologie necunoscuta
+2-4 linguri/zi
+Se consuma cu multe lichide (apa)
+--
+--
+DOCUSAT SODIC
+Tratamentul pentru constipatie
+Laxative emoliente
+--
+la batrani, imobilizati in pat, bolnavi cu alte afectiuni, trebuie evitat efortul de defecatie, constipatie
+Usureaza progresia continutului intestinal prin inmuierea scaunului
+efecte toxice(hepatice prin cresterea abs. altor substante din intestin)
+--
+50 mg de 1-3 ori/zi. MAX 360 mg/zi
+--
+--
+--
+ULEI DE PARAFINA
+Tratamentul pentru constipatie
+Laxative emoliente
+--
+la batrani, imobilizati in pat, bolnavi cu alte afectiuni, trebuie evitat efortul de defecatie, constipatie
+Usureaza progresia continutului intestinal prin inmuierea scaunului
+bronhopneumonie de aspiratie, iritatie perianala(risc de aparitie a pruritului)
+Nu se adm. la cei cu tulburari de deglutie
+1-4 linguri/zi
+Intre mese
+--
+--
+SULFAT DE MG
+Tratamentul pentru constipatie
+Purgative osmotice
+--
+evacuarea rapida a intertinului
+Efect purgativ/laxativ in functie de doza
+crampe, deshidratare, greturi, varsaturi
+--
+10-15 g -> purgativ. 5 g -> laxativ
+--
+--
+--
+OXID DE MG
+Tratamentul pentru constipatie
+Purgative osmotice
+--
+evacuarea rapida a intertinului
+Efect antiacid/laxativ in functie de doza
+crampe, deshidratare, greturi, varsaturi
+--
+4-2 g -> laxativ, antiacid
+--
+--
+--
+HIDROXIL DE MG
+Tratamentul pentru constipatie
+Purgative osmotice
+--
+evacuarea rapida a intertinului
+Efect antiacid/laxativ in functie de doza
+crampe, deshidratare, greturi, varsaturi
+--
+4-2 g -> laxativ, antiacid
+--
+--
+--
+SARE AMARA
+Tratamentul pentru constipatie
+Purgative osmotice
+--
+evacuarea rapida a intertinului
+Efect antiacid/laxativ in functie de doza
+crampe, deshidratare, greturi, varsaturi
+--
+4-2 g -> laxativ, antiacid
+--
+--
+--
+SULFAT DE MG
+Tratamentul pentru constipatie
+Purgative osmotice
+--
+evacuarea rapida a intertinului
+Efect antiacid/laxativ in functie de doza
+crampe, deshidratare, greturi, varsaturi
+--
+4-2 g -> laxativ, antiacid
+--
+--
+--
+OLEUL DE RICIN
+Tratamentul pentru constipatie
+Purgative iritante
+--
+pregatirea intestinului pentru interventii chirurgicale si radiodiagnostice si endoscopie
+Stimuleaza peristaltismul. Scade absorbtia apei si electrolitilor
+declanseaza travaliul la gravide, colici
+gravide
+15-30 ml -> adulti, 5-15 ml -> copii > 2 ani
+Pe stomacul gol
+--
+--
+LACTULOZA
+Tratamentul pentru constipatie
+Purgative osmotic
+--
+constipatie
+Prin fermentare -> acid acetic si acid lactic
+flatulenta, diaree, colici, tulburari hidroelectrolitice, toleranta
+--
+1 lingura de sirop
+seara
+--
+--
+PURGATIVE ANTRACHINONICE
+Tratamentul pentru constipatie
+Purgative iritante
+--
+constipatie
+Efect stimulant direct, dupa 8 ore. Purgatia urmata de 2 - 3 zile constipatie.
+colici, colorarea in brun a mucoasei, dependenta
+--
+--
+--
+--
+--
+FENOLFTALEINA
+Tratamentul pentru constipatie
+Derivati de difenil metan
+--
+constipatie
+Determina formarea unui scaun moale la 6-8 ore dupa administrare
+colorarea urinii in rosu, eruptii, sindrom lupoid
+--
+--
+oral
+--
+--
+CIOCOLAX
+Tratamentul pentru constipatie
+Derivati de difenil metan
+--
+constipatie
+Determina formarea unui scaun moale la 6-8 ore dupa administrare
+colorarea urinii in rosu, eruptii, sindrom lupoid
+--
+--
+oral
+--
+--
+DUCOLAX
+Tratamentul pentru constipatie
+Derivati de difenil metan
+--
+constipatie
+Apare dupa 30 min
+crampe severe, atonie colica
+ileus mechanic, colita ulcerativa, suspiciune de perforatie, abces abdominal
+--
+oral sau supozitoare
+--
+--
+BISACODIL
+Tratamentul pentru constipatie
+Derivati de difenil metan
+--
+constipatie
+Apare dupa 30 min
+crampe severe, atonie colica
+ileus mechanic, colita ulcerativa, suspiciune de perforatie, abces abdominal
+--
+oral sau supozitoare
+--
+--
+ATROPINA
+Antispastice Intestinale
+Antispastice M-Colinolitice
+--
+spasme GI, spasme biliare, spasme urinare, dureri abdominale
+Blocheaza receptorii M3 de pe musculatura netede a stomacului, intestinului si a cailor urinare
+constipatie, xerostomie, tulburari de vedere, retentie urinara
+--
+0.3 - 1.0 mg, MAX 4 mg/zi
+s.c.
+--
+--
+BUTILSCOPOLAMINA
+Antispastice Intestinale
+Antispastice M-Colinolitice
+--
+spasme GI, spasme biliare, spasme urinare, dureri abdominale
+Blocheaza receptorii M3 de pe musculatura netede a stomacului, intestinului si a cailor urinare
+constipatie, xerostomie, tulburari de vedere, retentie urinara
+--
+10 mg x 3/zi
+i.m. , i.v.
+--
+--
+SCOBUTIL
+Antispastice Intestinale
+Antispastice M-Colinolitice
+--
+spasme GI, spasme biliare, spasme urinare, dureri abdominale
+Blocheaza receptorii M3 de pe musculatura netede a stomacului, intestinului si a cailor urinare
+constipatie, xerostomie, tulburari de vedere, retentie urinara
+--
+10 mg x 3/zi
+i.m. , i.v.
+--
+--
+OTILONIUN BROMURA
+Antispastice Intestinale
+Antispastice M-Colinolitice
+--
+sindrom de intestin iritabil
+Blocheaza receptorii M3 de pe musculatura netede a stomacului, intestinului si a cailor urinare
+constipatie, xerostomie, tulburari de vedere, retentie urinara
+--
+20-40 mg x 2 sau 3/zi
+oral
+--
+--
+PAPAVERINA
+Antispastice Intestinale
+Antispastice Musculotrope
+--
+dismenoree, colici, colici reno-uretrale, colici biliare, colici intestinale
+--
+congestia fetei, somnolenta, bloc atrioventricular, aritmii
+BAV, HTA(intracranian)
+100 mg x 3 sau 4/zi -> oral. 40 mg x 3/zi i.m. , i.v.
+--
+--
+--
+MEBEVERINA
+Antispastice Intestinale
+Antispastice Musculotrope
+--
+colopatii functionale, colon iritabil
+--
+congestia fetei, somnolenta, bloc atrioventricular, aritmii
+BAV, HTA(intracranian)
+100 mg x 3 sau 4/zi -> oral
+--
+--
+--
+DROTAVERINA
+Antispastice Intestinale
+Antispastice Musculotrope
+--
+afectiuni spastice digestive, afectiuni spastice biliare, boli vasculospastice
+Efect vasodilatator
+congestia fetei, somnolenta, bloc atrioventricular, aritmii
+BAV, HTA(intracranian)
+40-80 mg x 3/zi
+oral, i.m. , i.v.
+--
+--
+NOSPA
+Antispastice Intestinale
+Antispastice Musculotrope
+--
+afectiuni spastice digestive, afectiuni spastice biliare, boli vasculospastice
+Efect vasodilatator
+congestia fetei, somnolenta, bloc atrioventricular, aritmii
+BAV, HTA(intracranian)
+40-80 mg x 3/zi
+oral, i.m. , i.v.
+--
+--
+METRONIDAZOL
+Boli inflamatorii intestinale|BII
+Antibiotice in BII
+--
+colita ulceroasa in remisie, colita fulminanta, megacolon toxic
+--
+greturi, anorexie, neuropatie, gust metalic
+gravide, copii, alcoolici
+10-15 mg/zi timp de 4 luni in boala CHRON. Se adm 600 de mg/zi un an
+oral
+--
+--
+METROTEXAT
+Boli inflamatorii intestinale|BII
+Imunosupresoare
+--
+Boli inflamatorii intestinale
+--
+stomatita, diaree, alopecie, cresterea transaminazelor, greturi
+--
+25 mg/saptamana
+i.v. -> 3-4 luni
+Control hematologic si al functiei hepatice la 2-4 sapt.
+Asociat cu GC in formele cortico rezistente si cortico dependente
